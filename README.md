@@ -18,4 +18,21 @@ Ensure you have Python 3.8+ installed on your system.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prajwal_Gaikwad/hotel-recommendation-system.git
+   git clone https://github.com/PrajwalGaikwad11/hotel-recommendation-system.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd hotel-recommendation-system
+
+3. Install the dependencies:
+
+   ```bash
+      pip install -r requirements.txt
+
+4. Run the Scripts Sequencially (data_preparation.py-> embedding_generation.py-> index_creation.py-> query_processing.py-> aap.py)
+
+   ```bash
+      python {script_name}.py
+  ```bash
+      Streamlit run app.py
