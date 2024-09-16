@@ -1,38 +1,42 @@
-# Hotel Recommendation System using RAG
+# 🏨 Hotel Recommendation System using RAG
 
 ## Overview
-This project is a hotel recommendation system built using **Retrieval-Augmented Generation (RAG)**. The system is designed to help users find hotels based on their specific preferences such as city, number of rooms, alcohol availability, and more. The app uses **FAISS** for efficient similarity search, and **Streamlit** for an interactive user interface.
+Welcome to the **Hotel Recommendation System**, powered by **Retrieval-Augmented Generation (RAG)**! This project is designed to help users find their ideal hotel based on personalized preferences like city, number of rooms, alcohol availability, and more. 🚀
 
-## Features
-- **Data Preparation**: Combines hotel features (name, location, category, rooms, alcohol availability) into a single text input.
-- **Embeddings Generation**: Uses the `sentence-transformers/all-MiniLM-L6-v2` model to generate embeddings for hotel data.
-- **FAISS Indexing**: Efficient storage of embeddings for fast similarity-based retrieval.
-- **Query Processing**: User enters a query, and the system retrieves top hotel recommendations using K-Means clustering.
-- **Streamlit UI**: Interactive UI for querying and displaying results.
+Our system uses cutting-edge **FAISS** for efficient similarity searches, combined with a sleek, user-friendly **Streamlit** interface. Whether you're booking a luxury stay or a budget-friendly option, we've got you covered!
 
-## Installation
+## Key Features
+✨ **Data Preparation**: Hotel details are combined into a single, comprehensive text input—covering hotel name, location, category, rooms, and alcohol availability.  
+✨ **Embeddings Generation**: We use `sentence-transformers/all-MiniLM-L6-v2` to generate dense embeddings from the hotel data for accurate recommendations.  
+✨ **FAISS Indexing**: Efficiently stores embeddings for ultra-fast similarity-based retrieval.  
+✨ **K-Means Clustering**: Retrieves top hotel recommendations that best match the user query.  
+✨ **Streamlit UI**: Simple, interactive UI that makes finding the perfect hotel a breeze.
+
+## Installation Guide
 
 ### Prerequisites
-Ensure you have Python 3.8+ installed on your system.
+Ensure that **Python 3.8+** is installed before proceeding.
 
-1. Clone the repository:
-
+1. **Clone the Repository** 📂
    ```bash
    git clone https://github.com/PrajwalGaikwad11/hotel-recommendation-system.git
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory** 🚶
 
    ```bash
-   cd hotel-recommendation-system
+      cd hotel-recommendation-system
 
-3. Install the dependencies:
+3. **Install the dependencies**📦
 
    ```bash
       pip install -r requirements.txt
 
-4. Run the Scripts Sequencially (data_preparation.py-> embedding_generation.py-> index_creation.py-> query_processing.py-> aap.py)
+4. **Run the Scripts Sequencially** (data_preparation.py-> embedding_generation.py-> index_creation.py-> query_processing.py-> aap.py)⚙️
 
    ```bash
       python {script_name}.py
-  ```bash
+
+5. **Run the Streamlit UI**💻 
+   
+   ```bash
       Streamlit run app.py
