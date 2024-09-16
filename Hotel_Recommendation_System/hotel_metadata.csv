@@ -1,0 +1,1213 @@
+State,City,Category,Alcohol,Hotel Name,Address,Total Rooms
+Delhi,New Delhi,1 Star,Without Alcohol,Hotel LA (A unit of L A Hotels And Retreats Pvt. Ltd.),"plot no A-1, Community Centre, Road No 43, Mangolpuri Industrial Area Phase - 2, Pitampura New Delhi",35
+Gujarat,Adalaj,1 Star,Without Alcohol,"Amba Suites, Unit of Amba Township Private Limited","Amba Business Park, Shivam â€“ II, Sub-Plot No. M1, Block No. 477 & 478",64
+Gujarat,Ahmedabad,1 Star,Without Alcohol,Hotel Pragati The Grand (A Unit of Pragati The Grand Residency),"SP-2,FP 2342,PAIKI, NR ZYDUS CADILA HOSPITAL,HEBATPUR ROAD,THALTEJ Ahmedabad",45
+Gujarat,Ahmedabad,1 Star,Without Alcohol,Hotel Rezaas,"375-1, Sheetal Baug, Nr. Girish Cold Drink, Off C. G. Road, Mithakhali, Ellisbridge, Ahmedabad-380006",38
+Gujarat,Anand,1 Star,Without Alcohol,HOTEL ARIZONA INN,"OPP. S R PARK, ANAND- SOJITRA ROAD, ANAND- 388001",28
+Gujarat,Bhavnagar,1 Star,Without Alcohol,Blackbuck Safari Lodge,"Near Narmada Canal, Velavadar- Ayodhyapuram Road, Village-Rajgadh, Taluka- District-Bhavnagar",18
+Gujarat,Gandhinagar,1 Star,Without Alcohol,7 Wonders,"Ugati Corporate Park, Opp. Pratik Mall, Kudasan - Por Road, Kudasan",19
+Gujarat,Gandhinagar,1 Star,Without Alcohol,Jinanssh Hotels,"White House, Near Vijay Petrol Pump, Opp. Sachivalaya, Sector 11",58
+Gujarat,Morvi,1 Star,Without Alcohol,Avadh Fun Hub,"Revenue Survey No. 609 Paiki 2, Opp. Dhartidhan Hotel, Rajkot Morvi Highway, Nr. Lajai Chowkdi",12
+Gujarat,Rajkot,1 Star,Without Alcohol,The Pinevinta Hotel,"Near Bombay Petrol Pump, Gondal Road Rajkot",25
+Gujarat,Surat,1 Star,Without Alcohol,"GEN X, SURAT (A UNIT OF KADODARA HOTELS)","415, 4TH FLOOR, CHHATRALA CITY CENTER, NATIONAL HIGHWAY -08, NEAR KADODARA CHAR RASTA, AT & POST- UMBHEL, TAL- KAMREJ, SURAT-394325 Surat Surat Surat",49
+Gujarat,Vadodara,1 Star,Without Alcohol,HOTEL APPLE GRAND ,SURVEY NO 564 AND 565 N H 08 VILLAGE - TARASALI VADODRA BY PASS,42
+Gujarat,Vadodara,1 Star,Without Alcohol,VADPADRAKA HOTEL & RESORT,"VADPADRAKA HOTEL & RESORT, SURVEY NO 58/B/ PAIKI, BETWEEN SUMANDEEP AND PARUL UNIVERSITY, OPPOSITE VNS HOSTEL AT DATTAPURA, P.O. LIMDA 391760, GUJARAT",18
+Gujarat,Veraval,1 Star,Without Alcohol,The Divine Water World,"Junagadh Somnath Highway, Near Dari Toll Plaza, Opp. Over Bridge, Village Dari",23
+Madhya Pradesh,Dhar,1 Star,Without Alcohol,HOTEL JAHAJMAHAL,"MANDU, MADHYA PRADESH",25
+Maharashtra,Lonavala,1 Star,Without Alcohol,HOTEL MANIK MOTI,"GAT NO.164,KURAVANDE VILLAGE, INS SHIVAJI ROAD, LONAVLA , TAL-MAVAL,DIST-PUNE.",19
+Andaman And Nicobar,Port Blair*,2 Star,Without Alcohol,HOTEL SHREESH,"LINK ROAD, GOAL GHAR, PORT BLAIR, ANDAMAN & NICOBAR ISLAND Port Blair*",38
+Assam,Dibrugarh,2 Star,Without Alcohol,COMFORT HOTEL,"ROTARY ROAD, DIBRUGARH, ASSAM-786001.",26
+Assam,Dibrugarh,2 Star,Without Alcohol,Hotel Sanjivani Heritage,"Nirmali Gaon, Opposite City College, PO: C R Building",28
+Assam,Guwahati,2 Star,Without Alcohol,HOTEL NEZONE ( A UNIT OF NEZONE GLASS PVT. LTD),"N.H 37, GARCHUK, NEAR DY-365 NEWS CHANNEL. GUWAHATI- 781035",28
+Gujarat,Dwarka,2 Star,Without Alcohol,Cygnett Inn Dwarka (Unit of Om Enterprise),Near Sai Baba Mandir,48
+Gujarat,Gandhidham,2 Star,Without Alcohol,RAJVI HOTELS,"SURVEY NO.12940,NEAR RAJVI RESORT,GALPADAR,GANDHIDHAM,KUTCH-370210",40
+Gujarat,Gandhidham,2 Star,Without Alcohol,The Neemaya Hotel (A Unit of Hotel Natraj),"Plot No.50, Sector 9, Opp. S T Bus Stand Gandhidham",51
+Gujarat,Gandhinagar,2 Star,Without Alcohol,Hotel The Hillock (A unit of HOTEL HILLOCK PRIVATE LIMITED),"HOTEL HILLOCK, S P RING ROAD BETWEEN VAISJHNODEVI CIRCLE & ZUNDAL CIRCLE, ZUNDAL Gandhinagar",49
+Gujarat,Jamnagar,2 Star,Without Alcohol,"Raaj Svasti Inn, Unit of Raaj Enventure Private Limited","Plot No. 2 & 3, R.S.No.64-1, Near A J Engineering, Jamnagar - Khambhaliya Road, Village Sapar",48
+Gujarat,Kevadiya,2 Star,Without Alcohol,BRG BUDGET STAY( A unit of Anay Associates),"BRG BUDGET STAY,NR AAROGYA VAN,BHUMALIYA ROAD,KEVADIA COLONY,DIST:NARMADA,GUJARAT,INDIA",139
+Gujarat,Morabi,2 Star,Without Alcohol,"Club 36, Unit of Vrunda Entertainment LLP","Rajkot - Morbi Highway, Behind Jog Ashram, Lajai",10
+Gujarat,Morvi,2 Star,Without Alcohol,Shiv Hotel,"Opp. Shiv Petroleum, Morbi - Halvad Highway, Nichi Mandal",21
+Gujarat,Navsari,2 Star,Without Alcohol,HARE KRISHNA HOTEL,"Block no.568-2,Block no.-573,Village-Padgha,national highway no.-08,nr.Veshma Chokdi,Navsari-396445,Gujarat",15
+Gujarat,Porbandar,2 Star,Without Alcohol,HOTEL BALAJI PALACE,3 WADI POT MG ROAD KAMALA BAUG porbandar 360575,20
+Gujarat,Saurashtra,2 Star,Without Alcohol,Rann Riders,"Sh 18, Surendranagar, Dasada",29
+Gujarat,Vadodara,2 Star,Without Alcohol,EFFOTEL BY SAYAJI,"EFFOTEL BY SAYAJI, OPPOSITE RAJSHREE CENTER, NEAR KALAGHODA CIRCLE,SAYAJIGUNJ, VADODARA - 390 005",83
+Himachal Pradesh,Manali,2 Star,Without Alcohol,HOTEL VALLEY OF GODS,"VILLAGE & P.O VASHISHT. TEHSIL, MANALI DISTT. KULLU (H.P)",15
+Kerala,Thiruvananthapuram,2 Star,Without Alcohol,Hotel Marine Palace ,"Beach Road , Hawah Beach, Kovalam P O , Thiruvananthapuram Dist , Kerala , Pin 695527",20
+Kerala,Thiruvananthapuram,2 Star,Without Alcohol,JEEVAN AYURVEDIC BEACH RESORT,"LIGHT HOUSE BEACH, KOVALAM, VIZHINJAM.P.O",14
+Maharashtra,Kollhapur,2 Star,Without Alcohol,Hotel Vrishali Executive (A unit of Vrishali Hotels Pvt. Ltd.),"39-A-2, TARABAI PARK Kollhapur",84
+Maharashtra,SANTACURZ,2 Star,Without Alcohol,HOTEL AIRLINK,"75 OFF NEHRU ROAD,NEAR SANTACRUZ AIRPORT, VILE PARLE EAST , MUMBAI-400099.",39
+Odisha,Sambalpur,2 Star,Without Alcohol,Welcome Spa and Resort,"At-Po- Majhilali, PS- Sasan, Sambalpur",41
+Rajasthan,Alwar,2 Star,Without Alcohol,SPARROW INN (A Unit of Alwar Hospitality Pvt. Ltd.),"MANU MARG, ALWAR Alwar",19
+Andhra Pradesh,East Godavari,3 Star,Without Alcohol,HOTEL SHELTON RAJAMAHENDRI,"87-1-19B, AYYAPPA NAGAR, NEAR APSRTC COMPLEX ROAD, RAJAHMUNDRY ",97
+Andhra Pradesh,Kakinada,3 Star,Without Alcohol,Royal Park(Sri Adilakshmi Property Developers Pvt. Ltd.),"Royal Park,(Sri Adilakshmi Property Developers Pvt. Ltd.),D.No : 19-1-107, Kosurivari Street, Kakinada-533001 ,East Godavari, Andhra Pradesh.",84
+Andhra Pradesh,Kurnool,3 Star,Without Alcohol,Triguna Clarks Inn,"Adjacent to bus stand, Kallur Road",49
+Andhra Pradesh,Nellore,3 Star,Without Alcohol,MINERVA GRAND - NELLORE,"MINERVA GRAND ( A UNIT OF SECUNDERABAD HOTELS PVT LTD, 24-2-474-1, DARGAMITTA, G T ROAD, NELLORE, ANDHRA PRADESH - 524 003 Nellore",106
+Andhra Pradesh,Rajahmundry,3 Star,Without Alcohol,La Hospin Hotel Rajahmundry (A unit of La Hospin Hotels and Resorts Private Limited),"NEAR PUSHKARGHAT, RAJAHMUNDRY Rajahmundry Rajahmundry",69
+Andhra Pradesh,Rajam,3 Star,Without Alcohol,River Bay Resort,"D No 5-1-36, River Bay Road, Near ISKCON Temple, Gautama Ghat, Rajamahendravaram",68
+Andhra Pradesh,Tirupati,3 Star,Without Alcohol,BHIMAS RESIDENCY HOTEL (A UNIT OF BHIMAS RESIDENCY HOTELS PRIVATE LIMITED),"19-3-41, NEAR RAILWAY OVER BRIDGE, RENIGUNTA ROAD, TIRUPATI Tirupati Tirupati Tirupati",48
+Andhra Pradesh,Tirupati,3 Star,Without Alcohol,FORTUNE KENCES HOTEL,"OPP: APS RTC BUS TERMINAL, TIRUPATI",126
+Andhra Pradesh,Tirupati,3 Star,Without Alcohol,Hotel Bliss,"Door No.19-3-45, Ramanuja Circle Renigunta Road Tirupati Tirupati",92
+Andhra Pradesh,Tirupati,3 Star,Without Alcohol,Minerva Grand Tirupati,"19-3-39, Renigunta Road, Nr Rly Flyover Bridge, Tirupati",69
+Andhra Pradesh,Vijayawada,3 Star,Without Alcohol,HOTEL AJANTHA EVERGREEN,"D. NO. 29-13-15, KALESHWAR RAO STREET, NAKKAL ROAD",36
+Andhra Pradesh,Vijayawada,3 Star,Without Alcohol,Hotel Manorama(A Unit of Welcome-Poorna Enterprises Private Limited),"27-37-157,M.G.Road,Governor Pet,",70
+Andhra Pradesh,Vijayawada,3 Star,Without Alcohol,HOTEL MIDCITY,"A Unit of Sri Venkateswara Theatre, 38-8-45, M.G.Road, Punnammathota, Opp:All India Radio Station, ",44
+Andhra Pradesh,Vijayawada,3 Star,Without Alcohol,THE KAY HOTEL,"48-12-4|1,GUNADALA,VIJAYAWADA ",40
+Andhra Pradesh,Visakhapatnam,3 Star,Without Alcohol,BEST WESTERN RAMACHANDRA,"8-8-36,Main Road, Old Gajuwaka",64
+Andhra Pradesh,Visakhapatnam,3 Star,Without Alcohol,FAIRFIELD BY MARRIOTT,"K.S.R DEVELOPERS PVT LTD, SURVEY NO 106.1B2 PART, WARD NO 39,MADHAVDHARA,NEAR-R&B JUNCTION,NH-5ROAD, VISAKHAPATNAM-530018",121
+Arunachal Pradesh,Itanagar,3 Star,Without Alcohol,Cygnett Inn Trendz,"Chandra Nagar, Nrae DC Capital Complex Itanagar",32
+Arunachal Pradesh,Itanagar,3 Star,Without Alcohol,Waii International Hotel,"Mesueme Colony, Near State Meuseum, Itanagar Papum Pare District ",50
+Arunachal Pradesh,West Kameng,3 Star,Without Alcohol,NORPHEL RETREAT DIRANG,"Rungkhung,Dirang, West Kameng District-790101 West Kameng",45
+Assam,Dibrugarh,3 Star,Without Alcohol,Hotel Rainbow ,"T.R Phukan Road, West chowkidinghee, Dibrugarh Dibrugarh",25
+Assam,Dibrugarh,3 Star,Without Alcohol,PUSHKARA GARDEN,"Natun Gaon, Dibrugarh",60
+Assam,Guwahati,3 Star,Without Alcohol,DICHANG RESORT,"Sonapur, Pathorkuchi, N H 37",57
+Assam,Guwahati,3 Star,Without Alcohol,HOTEL CITYWALK INTERNATIONAL,"B BAROOAH ROAD, ULUBARI, GUWAHATI",41
+Assam,Guwahati,3 Star,Without Alcohol,Hotel Paramount Palacio,"Opp Farm Gate, Above Poddar Car World; G.S. Road, Khanapara, Guwahati Guwahati",25
+Assam,Guwahati,3 Star,Without Alcohol,Mayflower Hotel (A Unit of Mayflower Hotels and Resorts LLP),"MLN ROAD,PANBAZAR Guwahati",36
+Assam,Guwahati,3 Star,Without Alcohol,The Lily Hotel,"G.S. ROAD, SIX MILE , KHANAPARA, GUWAHATI",78
+Assam,Jorhat,3 Star,Without Alcohol,Gulmohar Grand (an Unit of Borthakur Developers),"Choladhara Road, Jorhat-785001, Assam",26
+Assam,Kokrajhar,3 Star,Without Alcohol,HOTEL GAURANG VALLEY,"J.D. ROAD, TENGAPARA, WARD NO. 5, KOKRAJHAR",62
+Assam,Mangaldoi,3 Star,Without Alcohol,Repose Highway Resort (A unit of Repose Highway Resort Private Limited),"Vill-Boinaojha, Aulachowka, P.O. & P.S. Magnaldoi, Discrict - Darrang Mangaldoi",20
+Assam,Nagaon,3 Star,Without Alcohol,HOTEL BLUE BIRD,"MADHAB DEV ROAD, NORTH HAIBARGAON",22
+Bihar,Bodhgaya,3 Star,Without Alcohol,Oaks Bodhgaya (A unit of Bodhi Hotel and Resorts Pvt. Ltd.),"Khata No. 141, Plot No. 80 and Khata No. 778, Plot No. 97, P.S. - Bodhgaya, Thana No. 359, District - Gaya, Bihar Bodhgaya",78
+Chhattisgarh,Bilaspur,3 Star,Without Alcohol,COURTYARD BY MARRIOTT BILASPUR ,"COURTYARD BY MARRIOTT BILASPUR City Mall 36, Mangla Chowk, Bilaspur â€“ 495001",100
+Chhattisgarh,Bilaspur,3 Star,Without Alcohol,Hotel Intercity International,Jagmal Chowk,39
+Chhattisgarh,Bilaspur,3 Star,Without Alcohol,THE EMERALD,"NEAR OLD BUS STAND,TELEPHONE EXCHANGE ROAD,",22
+Chhattisgarh,Durg-Bhilai Nagar,3 Star,Without Alcohol,Hotel Ashish International,"G.E Road, Power House",17
+Chhattisgarh,Durg-Bhilai Nagar,3 Star,Without Alcohol,Hotel Grand Dhillon,"A-1 Nehru Parisar , Nehru Nagar Square GE Road Bhilai ",39
+Chhattisgarh,Korba,3 Star,Without Alcohol,hotel relax inn,korba champa road urga,42
+Chhattisgarh,Raigarh,3 Star,Without Alcohol,Hotel Accordd Premier (ACCORDD Chain of Hotels),Hotel Accordd Premier Jagatpur Dhimrapur Road Raigarh Raigarh,35
+Chhattisgarh,Raigarh,3 Star,Without Alcohol,Hotel Ans International,"Jagatpur - Dhimrapur Road ,Raigarh, Chattisgarh Raigarh Raigarh",71
+Chhattisgarh,Raipur*,3 Star,Without Alcohol,GREENWOOD FOURSEASONS ,"GREENWOOD FOURSEASONS, VIP ROAD, PURENA, ",15
+Chhattisgarh,Raipur*,3 Star,Without Alcohol,HOTEL GAGAN REGENCY,"OPP. GATE NO. 1, AIIMS, G. E. ROAD, TATIBANDH, RAIPUR (C.G.) PIN 492001 ",26
+Chhattisgarh,Raipur*,3 Star,Without Alcohol,HOTEL IVY,"PRIYADARSHINI NAGAR, NEAR PACHPEDI NAKA",38
+Chhattisgarh,Raipur*,3 Star,Without Alcohol,HOTEL KINGSWAY,RING ROAD NO. 1 NEAR AIRTEL OFFICE TELIBANDHA RAIPUR ,30
+Chhattisgarh,Raipur*,3 Star,Without Alcohol,HOTEL SOLITAIRE ( A UNIT OF R.R.S.K.ENTERPRISES),"BEHIND STATE BANK OF INDIA MAIN BRANCH,ANAND TAKIES ROAD,NEAR JAISTAMBH CHOWK,RAIPUR (C.G.)",48
+Chhattisgarh,Raipur*,3 Star,Without Alcohol,HOTEL THE GOLDEN OAK,"J.B. MALL NEAR GURUNANAK CHOWK M. G. ROAD, RAIPUR",28
+Chhattisgarh,Raipur*,3 Star,Without Alcohol,RMV RESORT AND HOTELS PVT LTD,"HOTEL VW CANYON, NEAR - AGRASEN DHAM, VIP ROAD - II, PHUNDAHAR, RAIPUR - 492006, CHHATTISHGARH",111
+Chhattisgarh,Rajnandgaon,3 Star,Without Alcohol,Hotel Awana,"Near New Gurudwara, GE Road, Rajnandgoan Rajnandgaon",15
+Delhi,New Delhi,3 Star,Without Alcohol,HOTEL THE MANOR,77 FREINDS COLONY (W) NEW DELHI- 110065,12
+Goa,Margao,3 Star,Without Alcohol,Hotel Nanutel Margao,Padre Miranda Road,55
+Goa,vasco da gama,3 Star,Without Alcohol,Hotel La Paz Gardens (A unit of Hotel La Paz Gardens Pvt. Ltd.),"Swatantra Path, Vasco da Gama vasco da gama vasco da gama",73
+Gujarat,Ahmedabad,3 Star,Without Alcohol,Aarya Grand Hotels Resorts,"Kargil Petrol Pump Lane, Near Gujarat High Court, Sarkhej - Gandhinagar Highway",105
+Gujarat,Ahmedabad,3 Star,Without Alcohol,AJU IMPERIAL HOTEL( A UNIT OF AJU RYOKAN NCR PVT.LTD.),"Survey No. 414, Village-Jalisana, Jalisana to Nayakpur Road Taluka- Mandal, Distt.-Ahmedabad, Gujarat 382120",107
+Gujarat,Ahmedabad,3 Star,Without Alcohol,AVALON HOTEL AND BANQUETS,"OPP MANGO GARDEN BUNGLOWS, NEAR SINDHU BHAVAN ROAD OFF S.G. HIGHWAY BODAKDEV",46
+Gujarat,Ahmedabad,3 Star,Without Alcohol,"Belvedere Club, A unit of BELVEDERE GOLF AND COUNTRY CLUB PVT LTD","ADANI SHANTIGRAM, S G HIGHWAY, NEAR VAISHNODEVI CIRCLE Ahmedabad",55
+Gujarat,Ahmedabad,3 Star,Without Alcohol,"Bloom Suites, A unit of Ms Rising Hotel Limited.","Surdhara Circle, Off Drive In Road, Thaltej, Ahmedabad Ahmedabad",68
+Gujarat,Ahmedabad,3 Star,Without Alcohol,"Comfort Inn President, A unit of Sun N Silver Inn Pvt. Ltd.","OPP MUNICIPAL MARKET, OFF C G ROAD, NAVRANGPURA, AHMEDABAD Ahmedabad",57
+Gujarat,Ahmedabad,3 Star,Without Alcohol,COMFORT INN SUNSET,"AIRPORT CIRCLE,HANSOL,AHMEDABAD",57
+Gujarat,Ahmedabad,3 Star,Without Alcohol,HOTEL CENTRA,"KHANPUR, AHMEDABAD-380001",37
+Gujarat,Ahmedabad,3 Star,Without Alcohol,HOTEL NALANDA,"MITHAKHALI SIX ROADS, NEAR LIONS HALL, ELLISBRIDGE, AHMEDABAD - 380 006",43
+Gujarat,Ahmedabad,3 Star,Without Alcohol,Hotel Silvera Grand,"Unit of Silvera Hotels, Dehgam Circle, S P Ring Road, Hanspura, Village Bilasiya",21
+Gujarat,Ahmedabad,3 Star,Without Alcohol,"Palm Greens Club, Unit of Snesh Resorts Private Limited","NH No.8, Bareja - Kheda Highway, Village Goblaj, Near Bareja Ahmedabad",62
+Gujarat,Ahmedabad,3 Star,Without Alcohol,Regenta Central Antarim ,"A Unit of Antarim Hotel LLP, Between Girish Cold Drink & St Xaviers Corner, C G Road, Navrangpura Ahmedabad",73
+Gujarat,Ahmedabad,3 Star,Without Alcohol,"Regenta Inn , Ranip","Arved Transcube Plaza, Opp Adi-Jati Girls Hostel, 132 Ft Ring Road, Ranip-Ahmedabad",102
+Gujarat,Ahmedabad,3 Star,Without Alcohol,"TGB EXPRESS HOTEL, A UNIT OF HOTEL PALMLAKE (KANKARIA) PVT. LTD.","TGB EXPRESS HOTEL, NR, JALDHARA WATER PARK, KANKARIA GATE-5, MANINAGAR Ahmedabad Ahmedabad Ahmedabad",33
+Gujarat,Anand,3 Star,Without Alcohol,Humming Bird Hotel and Banquet,"Behind Architect College, Near University Library, Iscon Temple Road, V.V. Nagar, Anand",38
+Gujarat,Anand,3 Star,Without Alcohol,LA CASA INN ,UNIT OF SHREE A & A COMPANY,44
+Gujarat,Bharuch,3 Star,Without Alcohol,Regenta Central Harimangla,"Near ABC Cir, Old N.H. 8, Bholav, Bharuch, Gujarat 392015",104
+Gujarat,Bharuch,3 Star,Without Alcohol,Regenta Central Hestia Dahej,SURVEY NO 106; VILLAGE: BHENSALI; TALUKA: VAGRA;,69
+Gujarat,Bharuch,3 Star,Without Alcohol,VEDIK RESORT,"SURVEY NO 45, OLPAD SAHOL ROAD, VILLAGE SAHOL, BHARUCH GUJARAT 394810",129
+Gujarat,Bhavnagar,3 Star,Without Alcohol,Top3 Lords Resort (A unit of Tree Top Resorts Spa Pvt. Ltd.),"Plot No 1 & 2| Near BPCL Petrol Pump, Budhel â€“ Vartej Cross Road | Bhavnagar | Gujarat |364002",39
+Gujarat,Bhavnagar,3 Star,Without Alcohol,VIRGO SUMERU,"PLOT NO:-109-A,BESIDE STERLING POINT,WAGHAWADI ROAD Bhavnagar",33
+Gujarat,Bhuj,3 Star,Without Alcohol,HOTEL COMFORT INN PRINCE ,STATION ROAD Bhuj,44
+Gujarat,Bhuj,3 Star,Without Alcohol,HOTEL ILARK,"Nr.RAVI CINEMA,STATION ROAD",29
+Gujarat,Bhuj,3 Star,Without Alcohol,HOTEL SEVEN SKY,"SEVEN SKY ENTERTAINMENT PVT LTD. AIRPORT ROAD, BHUJ- (KUTCHH) PIN 370001, GUJARAT",82
+Gujarat,Bhuj,3 Star,Without Alcohol,LaKamp Resort (Unit of Kashish Resort),"Survey No.116-1, Near Rudra Mata Temple, Village Saraspar, Taluka Bhuj, Dist. Kutch 370001. Bhuj Bhuj",29
+Gujarat,Bhuj,3 Star,Without Alcohol,The Fern Residency Bhuj (A unit of Ms THE BESIL INN),Bhuj Anjar Highway Near Tulsi Hotel Madhavpar Bhuj,46
+Gujarat,Dang,3 Star,Without Alcohol,Sunotel,"Sunotel(Unit of Shriji Resort Hotels Pvt. Ltd) Opp Lake Garden, Nageshwar Mahadev Temple Road, Saputara",90
+Gujarat,Dwarka,3 Star,Without Alcohol,Bapuâ€™s Resort (Unit of Bapu Enterprise),"S.NO 389P1, NH 8E Village Vachhu, Dwarka, Dwarka Dwarka ",52
+Gujarat,Jamnagar,3 Star,Without Alcohol,Highway Hari,"Jamnagar-Dwarka Highway, Near Vasai Toll booth, Ravalsar Patiya, ",19
+Gujarat,Kutch,3 Star,Without Alcohol,ambar sarovar portico,"plot no-100,sector-8,near oslo circle Gandhidham,Kutch,Gujarat,Pin-370201",58
+Gujarat,Mahesana,3 Star,Without Alcohol,HOTEL SHIVALIK,"Nugar Bypass Highway,Iskon Circle Opp Essar Petrol Pump, Nugar Mehsana",30
+Gujarat,Morabi,3 Star,Without Alcohol,"Sarovar Portico, Unit of Specific Ceramic Hotel","Iskon Tiles Zone, 8-A National Highway, Rafaleshwar",59
+Gujarat,Morbi,3 Star,Without Alcohol,Khajoora Hotel n Resort,"Rajkot - Morbi HIghway, Tankara",40
+Gujarat,Morvi,3 Star,Without Alcohol,DARIYALAL HOTEL ,"Survey no. 66 paiki 1, 66 paiki 2 and 68 paiki 2, Village- Jambudiya, Taluka- Morbi, District- Morbi-363642",18
+Gujarat,Morvi,3 Star,Without Alcohol,HOTEL THE GRAND VAIBHAV,"LAKHDHIRPUR ROAD, N.H. 8A, MORBI - 363642",35
+Gujarat,Morvi,3 Star,Without Alcohol,Lords Eco Inn unit of Hotel Seven Paradise,"Pipli Jetpar Road, Seven Cera Mall, Village Bela, Morbi",40
+Gujarat,Morvi,3 Star,Without Alcohol,OAK TREE,SURVEY NO 22 JAMBUDIYA N H NO 27 A MORBI 363641 ,52
+Gujarat,Morvi,3 Star,Without Alcohol,Regenta Inn Unit of Hotel The Grand Dharmendra,Near HDFC Bank opp. shakti Chamber 8-a Natioanl highway lalpar Road Morvi,54
+Gujarat,Porbandar,3 Star,Without Alcohol,LORDS ECO INN,"Chowpati Road, Near Circuit House,",29
+Gujarat,Porbandar,3 Star,Without Alcohol,Lords Eco Inn ( A Unit of Delite Enterprise ) ,"Near Circuit House , Chopati Road , Porbandar ",29
+Gujarat,Rajkot,3 Star,Without Alcohol,AARYARAJ CLUB AND RESORTS,"Opposite Gardi Vidyapith, Kallavad Road Chappra Rajkot 361162 Rajkot Rajkot",28
+Gujarat,Rajkot,3 Star,Without Alcohol,"Hotel Comfort INN Legacy, Prop. S Kumar Associates Private Limited.","Limada Chowk, Near Lalbahadur Shastri Maidan, Panchnath Road.",37
+Gujarat,Rajkot,3 Star,Without Alcohol,Hotel KK Beacon (A Unit of Hotel K.K. (India) Private Limited),"The KK Circle, Kalawad Main Road, Rajkot Rajkot Rajkot Rajkot",34
+Gujarat,Rajkot,3 Star,Without Alcohol,Krishna Park Resort (A unit of Messrs Hotel Krishna Park Nursary),"Krishna Park Circle, Gondal Road, Vavdi, Rajkot Rajkot",29
+Gujarat,Rajkot,3 Star,Without Alcohol,marasa sarovar portico rajkot ,"dr. rajendra prasad road, limda chowk, opposite shastri maidan,rajkot ",68
+Gujarat,Rajkot,3 Star,Without Alcohol,Phoenix Hospitality,"Kalawad Road, Ishwariya Road Corner, Rajkot - Gujarat",24
+Gujarat,Rajkot,3 Star,Without Alcohol,REGENCY LAGOON RESORT,"NYARI DAM ROAD, OFF. KALAWAD ROAD. RAJKOT",120
+Gujarat,Rajkot,3 Star,Without Alcohol,Regenta Central Rajkot (Unit of P P Developers),"Everest Park, Kalawad Road",92
+Gujarat,Sanand,3 Star,Without Alcohol,Ginger Sanand,"NH 8A, Mahalaxmi Industrial Estate, Village Iyava, Sanand-Viramgam Highway, Ahead Essar petrol pump, Opp Hanuman Mandir, Sanand",104
+Gujarat,Saurashtra,3 Star,Without Alcohol,LORDS RESORT A UNIT OF SETU JOY PVT. LTD.,"JOLLY ENJOY, R.S. NO. 64-P1.P2, NATIONAL HIGHWAY 8A, VILLAGE MAGHARIKHADA, TAL. CHOTILA, DIST. SURENDRANAGAR - 363520",42
+Gujarat,Surat,3 Star,Without Alcohol,SHILPI HILL RESORT,"SAPUTARA, DIST DANG,GUJARAT",68
+Gujarat,Surat,3 Star,Without Alcohol,The Amore Banquets,"Near V R Mall, Next to BPCL Petrol Pump, Magdalla",17
+Gujarat,Talaja,3 Star,Without Alcohol,The Postcard Gir Wildlife Sanctuary (A unit of The General's Retreat Gir),"KHATA NUMBER 75,SURVEY NUMBER 57-1A-P8,VILLAGE SANGODARA, Talaja",15
+Gujarat,Vadodara,3 Star,Without Alcohol,'The Fern' Akota Vadodara (A unit of Nand Hospitality Pvt. Ltd.) ,"PLOT NO 11, GOKHLE COLONY, BEHIND DINESH MILL, AKOTA Vadodara Vadodara Vadodara",72
+Gujarat,Vadodara,3 Star,Without Alcohol,COMFORT INN DONIL (MANISH EMPIRE),"OPP. RTO DARJIPURA, BS VANCHENTA KENDRA, NR. GOLDEN CHOKDI, NH-8 VADODARA 390022",79
+Gujarat,Vadodara,3 Star,Without Alcohol,Eastin Residences Vadodara,"78 Sampatrao Colony, Off RC Dutt Road, Alkapuri",44
+Gujarat,Vadodara,3 Star,Without Alcohol,HOTEL RAMADA ENCORE ,"UNIT OF SRPL, SHRESHTH BHARAT BHAVAN, STATUE OF UNITY, KEVADIYA COLONY, NARMADA, NANDOD (GUJARAT)-393151",52
+Gujarat,Vadodara,3 Star,Without Alcohol,Kabir Hotel and Spa,"Opp. F.G.I. Building, Sevasi Road, Vadodara.",57
+Gujarat,Vadodara,3 Star,Without Alcohol,"Regenta Inn by Royal Orchid Hotels, unit of Cube Construction Engineering ltd.","Ved Transcube Plaza, opp. Railway Station, Near Central Bus Stand, Vadodara. ",58
+Gujarat,Vadodara,3 Star,Without Alcohol,Suncity LIfestyle,Gotri - Sherkhi Road,37
+Gujarat,Vapi,3 Star,Without Alcohol,HOTEL SILVER LEAF VILLAGE,"PLOT NO - 340 P-1 N.H. NO - 56 VILLAGE - KAKADKOPAR , VAPI - DHARAMPUR ROAD , KAKADKOPAR ",17
+Gujarat,Viramgam,3 Star,Without Alcohol,HOTEL MIDORI,"PRATHAMA NR HONDA 2 WHEELER PLANT, VIRAMGAM-BECHRAJI HIGHWAY, VITHLAPUR TALUKA MANDAL",38
+Haryana,Ambala,3 Star,Without Alcohol,MM CONTINENTAL HOTEL,"NH-73, AMBALA, JAGADHARI HIGHWAY, MULLANA, AMBALA,HARYANA",48
+Haryana,Gurgaon,3 Star,Without Alcohol,Country Inn & Suites By Carlson (A Unit of Tuberose Hotel),"Plot No.301-302, Sector - 12, Old Delhi Road, Gurgaon - 122001, Haryana, India",73
+Haryana,Gurgaon,3 Star,Without Alcohol,Fortune Park Orange. A unit Of Orange SPA Hotel and Resorts Pvt. Ltd,"K.M. Stone 67, NH-8, Sidhrawali",96
+Haryana,Gurgaon,3 Star,Without Alcohol,IBIS GURGAON,ibis Gurgaon Golf Course Road Block 1 Sector 53 Gurgaon,214
+Haryana,Gurgaon,3 Star,Without Alcohol,"Lemon Tree Hotel, Tarudhan Valley - Manesar (A unit of Coronet Hotel Services and Supplies Pvt. Ltd.)","Tarudhan Valley, Village Dadu, P.O. Hasanpur, Tehsil Tauru, District Mewat Gurgaon",70
+Haryana,Gurgaon,3 Star,Without Alcohol,"Lemon Tree Hotel,Tarudhan Valley","Lemon Tree Hotel, Tarudhan Valley, Village Dadu, Tehsil Tauru, Mewat, Gurugram Gurgaon",70
+Haryana,Gurgaon,3 Star,Without Alcohol,Skycity Hotels Private Limited,"1,Old Judicial Complex, Jharsa Road, Sector-15,Gurgaon",55
+Haryana,Rewari,3 Star,Without Alcohol,Aravali Resorts,"76th Mile Stone, NH8, Dharuhera, District Rewari",29
+Himachal Pradesh,Solan,3 Star,Without Alcohol,Timber Trail Resort (Unit of Asia Resort Ltd.),"Parwanoo, Distt. Solan , Himachal Pradesh",28
+Karnataka,Bangalore,3 Star,Without Alcohol,Angsana Oasis Spa and Resort (A unit of Prestige Leisure Resorts Pvt. Ltd.),ADDEVISHWANATHAPURA VILLAAGE MAIN DODDABALLAPURA ROAD RAJANUKUNTE BANGALORE 560064 Bangalore Bangalore,79
+Karnataka,Bangalore,3 Star,Without Alcohol,"Holiday Inn Express and Suites Bengaluru, OMR, Unit of Brigade Hotel Ventures Limited","Survey No. 49, Huskur Village, Bidarahalli Hobli, Bengaluru East Taluk, ",237
+Kerala,Adoor,3 Star,Without Alcohol,CENTRAL PARK HOTEL,"OPP. RELIANCE FILLING STATION, K P ROAD , ADOOR, ",10
+Kerala,Alappuzha,3 Star,Without Alcohol,ALLEPPEY PRINCE HOTEL,"A.S.ROAD,NH.47,ALAPPUZHA,KERALA STATE",43
+Kerala,Alappuzha,3 Star,Without Alcohol,Enkey's Residency,Pathirappally NH 66 Pathirappally PO ,10
+Kerala,Alappuzha,3 Star,Without Alcohol,HOTEL INDRAPRASTHA,"CHARUMMOODU PO, MAVELIKARA, ALAPPUZHA, KERALA ",10
+Kerala,Alappuzha,3 Star,Without Alcohol,HOTEL KALAI,"HOTEL KALAI, KUTTITHERUVU JN, Kayamkulam, Alappuzha",15
+Kerala,Alappuzha,3 Star,Without Alcohol,HOTEL KARTHIYAYINI,"HOTEL KARTHIYAYINI, OTTAPPUNNA JUNCTION, CHERTHALA PO, ALAPPUZHA 688524",12
+Kerala,Alappuzha,3 Star,Without Alcohol,JEENA RESIDENCY,"OPP KSRTC BUS STATION, HARIPAD, ALAPPUZHA DISTRICT",10
+Kerala,Alappuzha,3 Star,Without Alcohol,Magnet Hotels,V.C.S.B Road Near KSRTC Bus stand Alleppey,12
+Kerala,Alappuzha,3 Star,Without Alcohol,THE ROYALE PLAZA,"THE ROYALE PLAZA, NEAR RAILWAY OVER BRIDGE, K P ROAD, KAYAMKULAM, ",24
+Kerala,Angamaly,3 Star,Without Alcohol,HOTEL BLUE BELLS (a Unit of EDASSERY MOTELS AND VILLAS) ,"HOTEL BLUE BELLS, ANGADIKADAVU ROAD, ANGAMALY.P.O, ERNAKULAM DISTRICT, KERALA-683572",14
+Kerala,Angamaly,3 Star,Without Alcohol,HOTEL HILLS PARK [MATHA ENTERPRISES],"NEAR KSRTC BUS STAND, ANGAMALY, ERNAKULAM ",17
+Kerala,Angamaly,3 Star,Without Alcohol,HOTEL MAXX INN,"KARUKUTTY, ERNAKULAM",10
+Kerala,Angamaly,3 Star,Without Alcohol,The Hotel Chettungal,"Aluva Road, Angamaly",10
+Kerala,Angamaly,3 Star,Without Alcohol,Vrindavan Retreat,"Bldg.No.IV-38,Madhurapuram,Mekkad-Vattaparambu Road,Mekkad (Post),Athani,Ernakulam(Dist.).",10
+Kerala,Attingal,3 Star,Without Alcohol,DEV RESIDENCY,"MOONUMUKKU,ATTINGAL P.O.,ATTINGAL,THIRUVANANTHAPURAM",11
+Kerala,Calicut,3 Star,Without Alcohol,Hill Side ,"Near NIT, Kariyakulangara , Mukkam,Calicut. Kerala ",11
+Kerala,Calicut,3 Star,Without Alcohol,Hotel Maharani (A unit of Hotel Maharani Pvt. Ltd.),Taluk Road. Puthiyara P.O. Kozhikode Calicut,43
+Kerala,Calicut,3 Star,Without Alcohol,Hotel Surya,"Paithoth Road, Perambra, Kozhikode",15
+Kerala,Calicut,3 Star,Without Alcohol,Mavoor Regency,"Poovattuparamba P.O, Kozhikode",10
+Kerala,Calicut,3 Star,Without Alcohol,Park Residency,"G H Road, Calicut",20
+Kerala,Calicut,3 Star,Without Alcohol,"Park Residency - Kuttiyadi, A unit of Flair Hotels and Resorts Pvt. Ltd","ADUKKATH PO, KUTTIYADI, CALICUT. Calicut",16
+Kerala,Calicut,3 Star,Without Alcohol,Prinz Residency,"Near Chengottukavu Bridge, P O Melur, Koyilandy",17
+Kerala,Calicut,3 Star,Without Alcohol,The North Park,"N H Bye Pass, Nut Street, Vatakara, Calicut Dist Calicut Calicut",18
+Kerala,Chalakudy,3 Star,Without Alcohol,Hotel Harshavardhana Inn,"Opposite Apollo Tyres, N H-47, Potta (Post), Chalakudy.",15
+Kerala,Chalakudy,3 Star,Without Alcohol,Hotel Rachana Continental (A unit of Hotel Rachana Continental Pvt Ltd.),"KSRTC Road, Chalakudy, Thrissur Chalakudy",14
+Kerala,Changanassery,3 Star,Without Alcohol,Hotel Panchavady,"Near KSRTC, Kavala, Changanacherry, Kottayam",12
+Kerala,Changanassery,3 Star,Without Alcohol,"Hotel Breezeland, A unit of Breezeland Hotels Ltd.","By Pass Junction, M C Road, Vazhappally, Changanacherry. Changanassery",18
+Kerala,Changanassery,3 Star,Without Alcohol,HOTEL VANI,"CENTRAL JUNCTION ,KAVALA,CHANGANASSERY",16
+Kerala,Chengannur,3 Star,Without Alcohol,NAVARATNA TOURIST HOME,"M C Road , Chengannur , Alappuzha (Dist)",10
+Kerala,CHERAI,3 Star,Without Alcohol,Cherai beach resorts,"Cherai.po, vypin island Ernakulam district ,Kerala State-683513 CHERAI CHERAI",25
+Kerala,Cherthala,3 Star,Without Alcohol,Hotel Aroor Residency ,"NH 66,Aroor,Alappuzha, Kerala",17
+Kerala,Cherthala,3 Star,Without Alcohol,Hotel Envees,"Hotel Envees , Eramalloor, Cherthala",10
+Kerala,Cherthala,3 Star,Without Alcohol,Keerthi Palace Restaurant,Ponnamvely Pattanakkad.P.O Cherthala Cherthala,10
+Kerala,Ernakulam,3 Star,Without Alcohol,Amruthu Residency,"M.C Road, Koothattukulam, Ernakulam",13
+Kerala,Ernakulam,3 Star,Without Alcohol,Arpitha Tourist Home,Nayarambalam Ernakulam,10
+Kerala,Ernakulam,3 Star,Without Alcohol,Aruna Tourist Home,"A M Road, Perumbavoor, Ernakulam",10
+Kerala,Ernakulam,3 Star,Without Alcohol,ARYA INTERNATIONAL,"NELLAD, ERNAKULAM Ernakulam",15
+Kerala,Ernakulam,3 Star,Without Alcohol,ATSWILLINGDON HOTEL,"ATS WILLINGDON HOTEL , A BRANCH OF P K MOHAMMED PRIVATE LIMITED, WILLINGDON ISLAND, KOCHI 682029 Ernakulam",19
+Kerala,Ernakulam,3 Star,Without Alcohol,Cochin Seaport Hotel,"Thekkanmalipuram, Azheekkal P.O..Vypeen,Ernakulam 682510",25
+Kerala,Ernakulam,3 Star,Without Alcohol,Diana Tourist Home,"Koothattukulam, Ernakulam Dist,",10
+Kerala,Ernakulam,3 Star,Without Alcohol,ELOOR TOURIST HOME,"KUTTIKATTUKARA P.O, UDYOGAMANDAL, ERNAKULAM DISTRICT",15
+Kerala,Ernakulam,3 Star,Without Alcohol,Gopika Regency,"NH17, Chirakkakam, Varapuzha, Cochin",20
+Kerala,Ernakulam,3 Star,Without Alcohol,HAMILTON RESIDENCY (A UNIT OF HOTEL HAMILTON RESIDENCY PVT LTD),"HAMILTON RESIDENCY (A UNIT OF HOTEL HAMILTON RESIDENCY PVT LTD), KURUPPAMPADY, PERUMBAVUR, ERNAKULAM",10
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Amruthu,"Thoppumpady, Ernakulam District,",10
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Chandni Park (Hind Resorts and Services Pvt Ltd.),"South Kalamassery, Ernakulam",11
+Kerala,Ernakulam,3 Star,Without Alcohol,HOTEL EDASSERY MANSION,"HOTEL EDASSERY MANSION, KATHRIKADAVU, KALOOR.P.O, ERNAKULAM-682017, KERALA",32
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Elegance (A unit of Perumbavoor Hotels and Resorts Pvt. Ltd.),"M.C. ROAD, PULLUVAZHI.P.O, PERUMBAVOOR, ERNAKULAM, PIN-683541",12
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Geo,"Thoppumpady, Kochi",10
+Kerala,Ernakulam,3 Star,Without Alcohol,HOTEL GREEN PALACE,"PAMPAKUDA P.O.,MUVATTUPUZHA,ERNAKULAM",11
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Hill Palace (South Asia Hotels Ltd),"Refinery Road, Irumpanam Junction, Thripunithura",32
+Kerala,Ernakulam,3 Star,Without Alcohol,"Hotel Kadambari Regency, A unit of Hotel Kadambari Regency Private Limited","BLDG. NO. XVII (264-275), M C ROAD, MAROTTICHODI, MATTOOR.P.O, KALADY, ERNAKULAM DISTRICT Ernakulam",11
+Kerala,Ernakulam,3 Star,Without Alcohol,HOTEL KEERTHY,"HOTEL KEERTHY, M.C. ROAD, KOOTHATTUKULAM.P.O, ERNAKULAM DISTRICT, KERALA",10
+Kerala,Ernakulam,3 Star,Without Alcohol,HOTEL KOTTARAM ,"Murikkumpadom, Vypeen , Cochin ",11
+Kerala,Ernakulam,3 Star,Without Alcohol,HOTEL NAYANA,"(A UNIT OF HOTEL NAYANA PRIVATE LIMITED), P M ROAD, VAZHAKULAM.P.O, MUVATTUPUZHA, ERNAKULAM DISTRICT",10
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Olive Eva,Opp Info Park Smart City Kakkanad Ernakulam,44
+Kerala,Ernakulam,3 Star,Without Alcohol,HOTEL PALACE INN,"(A UNIT OF PLANET GROUP), BEHIND KSRTC BUS STAND, T B JUNCTION, ANGAMALY, ERNAKULAM DISTRICT",12
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Panoramic,Parappuram.P.O Kanjoor Ernakulam,10
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Saj International,Medical College Jn Kolenchery -Post,14
+Kerala,Ernakulam,3 Star,Without Alcohol,HOTEL SEA GATE,"SEA GATE,PATHADIPALAM,SOUTH KALAMASSERY,COCHIN ,KERALA.",10
+Kerala,Ernakulam,3 Star,Without Alcohol,Hotel Zodiac,"Market Junction, Tripunithura, Ernakulam",10
+Kerala,Ernakulam,3 Star,Without Alcohol,Jawahar Tourist Home,"A.M Road, Kothamangalam, Ernakulam",11
+Kerala,Ernakulam,3 Star,Without Alcohol,KATHRIKADAVU TOURIST HOME (HOTEL SEA PEARL ),"KUTTAPPAI ROAD, NEAR SARITHA THEATRE, ERNAKULAM DT, ERNAKULAM, KERALA-682031",10
+Kerala,Ernakulam,3 Star,Without Alcohol,KIZHAKKAMBALAM TOURIST HOME,"KIZHAKKAMBALAM TOURIST HOME, KIZHAKKAMBALAM, ERNAKULAM DISTRICT, KERALA-683562",15
+Kerala,Ernakulam,3 Star,Without Alcohol,LOVEDONS GARDEN,"KOLENCHERY.P.O, ERNAKULAM",10
+Kerala,Ernakulam,3 Star,Without Alcohol,MAHARANI HOLIDAY HOME,"( A UNIT OF MAHARANI HOLIDAY HOMES (P) LTD), PIRAVOM.P.O, ERNAKULAM DISTRICT",10
+Kerala,Ernakulam,3 Star,Without Alcohol,Maria International,"Kothamangalam.P.O, Ernakulam",17
+Kerala,Ernakulam,3 Star,Without Alcohol,Niko Hotels (A Unit of Hikari Hotels Pvt. Ltd.),"K P Vallon Road,Kadavanthra,Cochin,Kerala,682020 Ernakulam",27
+Kerala,Ernakulam,3 Star,Without Alcohol,Park Central (A unit of Hotel Siena Central Private Limited),"36 - 1856 - A, Kaloor - Kadavanthra Road, Kaloor - 682017, Kerala",17
+Kerala,Ernakulam,3 Star,Without Alcohol,Park Residency,"Girinagar Link Road, Kadavanthra,Cochin, Kerala ",15
+Kerala,Ernakulam,3 Star,Without Alcohol,Polakulath Regency ,"Jewel Junction, M G Road, Ernakulam ,Cochin ",10
+Kerala,Ernakulam,3 Star,Without Alcohol,POLAKULATH TOURIST HOME,POLAKULATH TOURIST HOME MULANTHURUTHY ERNAKULAM 682314 Ernakulam,12
+Kerala,Ernakulam,3 Star,Without Alcohol,Polakulath Tourist Home ,"Polakulath Tourist Home, S N Jn , Palarivattom,Cochin ",14
+Kerala,Ernakulam,3 Star,Without Alcohol,Prayana Hotels,"Near E.S.I.Hospital.Opposite North Railway Station,Ernakulam",24
+Kerala,Ernakulam,3 Star,Without Alcohol,Rock Rose Tourist Home (A unit of Rock Rose Tourist Home (P) Ltd),"NH Byepass, Palarivattom, Puthiya Road, Kochi, Kerala Ernakulam",11
+Kerala,Ernakulam,3 Star,Without Alcohol,Rose Residency,"NH 49, Cochin Madura Road, Near Block Jn, Kolenchery",36
+Kerala,Ernakulam,3 Star,Without Alcohol,SONIA TOURIST HOME,"M C ROAD, KOOTHATTUKULAM Ernakulam",14
+Kerala,Ernakulam,3 Star,Without Alcohol,Sreevalsam Residency,"Mattoor, M C Road, Kalady, Ernakulam Ernakulam Ernakulam",10
+Kerala,Ernakulam,3 Star,Without Alcohol,XL HOTEL,"A K SAnthosh, Propriter, XL hotel, Rose street, Fort kochi -682001",10
+Kerala,Ettumanoor,3 Star,Without Alcohol,Hotel Sreelakshmi Park,"Pala Road,Ayarkunnam,Kottayam.",11
+Kerala,Guruvayoor,3 Star,Without Alcohol,Hotel Amaravathi ,"Near Bus Stand, Chavakkad, Thrissur Guruvayoor",10
+Kerala,Idukki,3 Star,Without Alcohol,AMBADY TOURIST HOME,"AMBADY TOURIST HOME, MUVATTUPUZHA ROAD, THODUPUZHA",10
+Kerala,Idukki,3 Star,Without Alcohol,CHANDANA TOURIST HOME,"UDUMALPET ROAD, MARAYUR P O , IDUKKI DIST.",25
+Kerala,Idukki,3 Star,Without Alcohol,DHANYA TOURIST HOME ,"Kallarkutty Road, Adimaly, Idukki District, Kerala State â€“ 685561 Idukki ",16
+Kerala,Idukki,3 Star,Without Alcohol,HOTEL GREEN OASIS,"(A UNIT OF GREEN OASIS REGENCY HOTEL PRIVATE LIMITED), NEAR TELEPHONE EXCHANGE, MUTTOM, THODUPUZHA, IDUKKI DISTRICT",18
+Kerala,Idukki,3 Star,Without Alcohol,Hotel Victoria International,"Orappankal Building, Central Junction, Kattappana.",10
+Kerala,IRITTY,3 Star,Without Alcohol,HOTEL SURYA,"Near Iritty Bridge, Iritty- Post, Kannur -Dist,Kerala",11
+Kerala,IRITTY,3 Star,Without Alcohol,K.K TOURIST HOME,"IRITTY, KANNUR DIST",20
+Kerala,IRITTY,3 Star,Without Alcohol,Sky Paradise,"Vallithode, Kiliyanthara (P.O), Iritty ",16
+Kerala,KALADY,3 Star,Without Alcohol,EDASSERY VILLAGE RESORT,"EDASSERY VILLAGE RESORT, CHENGAL, KALADY, ERNAKULAM DISTRICT-683574, KERALA",10
+Kerala,Kalpetta,3 Star,Without Alcohol,Chembra Residency (A unit of jilsu associates LLP),Vellaramkunnu Kalpetta .P.O ,10
+Kerala,Kanhangad,3 Star,Without Alcohol,MALANADU TOURIST HOME ,"North Kottacherry, Kanhangad, Kasaragod. ",14
+Kerala,Kanhangad,3 Star,Without Alcohol,NEELESHWAR HERMITAGE,"OZHINHAVALAPPU-P.O., NILESHWAR-VIA, KASARAGOD-DIST.",18
+Kerala,Kannur,3 Star,Without Alcohol,Geetha Residency,"post chirakkal, puthiyatheru, Kannur(Dist)",10
+Kerala,Kannur,3 Star,Without Alcohol,Broad Bean ( A Unit Of KK Leisures and Tourism International Pvt. Ltd.),"Chakkarakkal. Mowenchery P O, Kannur Taluk, Kannur Dist.",15
+Kerala,Kannur,3 Star,Without Alcohol,Hotel Parassini Polariz,"Near Snake Park, Kolmotta (p.o), Parassinikkadavu , Kannur",36
+Kerala,Kannur,3 Star,Without Alcohol,Hotel Samudra,"Post Sreekandapuram, Kannur Dist., Kerala",11
+Kerala,Kannur,3 Star,Without Alcohol,HOTEL SKY PARK,"IRITTY ROAD, MATTANUR, KANNUR",19
+Kerala,Kannur,3 Star,Without Alcohol,LA SERENE HOTEL,"A UNIT OF INFINITY BUSINESS GROUP, NEAR VETERINARY HOSPITAL, MATTANUR.P.O, KANNUR-670702",14
+Kerala,Kannur,3 Star,Without Alcohol,Lyndas Residency,"Alakkandy Arcade, T C Road, Kuthuparamba, Kannur Kannur",12
+Kerala,Kannur,3 Star,Without Alcohol,Rajadhani,"Peravoor , Kannur Kannur",10
+Kerala,Kannur,3 Star,Without Alcohol,SNEHA INN,"BAKKALAM, KANOOL.P.O, KANNUR",14
+Kerala,Karunagapally,3 Star,Without Alcohol,Hotel Comfort Regency,"Hotel Comfort Regency,NH-66(47),Karunagapally,Kollam Dist,Kerala",11
+Kerala,Karunagapally,3 Star,Without Alcohol,HOTEL INDRAPRASTHA,"NH 66,KARUNAGAPPALLY P.O.,KARUNAGAPPALLY,KOLLAM",21
+Kerala,Kasaragod,3 Star,Without Alcohol,J.K. Residency Kasaragod,"Beach Road,Kasaragod Kasaragod",10
+Kerala,KASARGOD,3 Star,Without Alcohol,HOTEL BEKAL PALACE,"PALAKUNNU,BEKAL P.O",20
+Kerala,KASARGOD,3 Star,Without Alcohol,HOTEL LANDMARK,"HOTEL LANDMARK, ALAMIPPALLY P.O., KANHANGAD, KASARGOD DIST KASARGOD",12
+Kerala,Kayamkulam,3 Star,Without Alcohol,HIGHWAY PALACE (A LEASED PROPERTY FROM HOTEL HIGHWAY PARK),"HIGHWAY PALACE (A LEASED PROPERTY FROM HOTEL HIGHWAY PARK), KAYAMKULAM",11
+Kerala,Kayamkulam,3 Star,Without Alcohol,HOTEL ROMA CENTRAL ,"HOTEL ROMA CENTRAL, A UNIT OF HOTEL JN PRIVATE LIMITED, 2ND MILE, KOPRAPURA, PULLIKKANAKKU.P.O, KAYAMKULAM Kayamkulam ",10
+Kerala,Kochi,3 Star,Without Alcohol,Arakkathara tourist home,"Arakkathara tourist home, Nambiyapuram Road, Palluruthy, Kochi 682006",10
+Kerala,Kochi,3 Star,Without Alcohol,GINO TOURIST HOME,"KAKKANAD, KOCHI",10
+Kerala,Kochi,3 Star,Without Alcohol,KALAMASSERY TOURIST HOME,"KALAMASSERY TOURIST HOME, OPP.APPOLO TYRES, KALAMASSERY NORTH.P.O, KALAMASSERY, ERNAKULAM DISTRICT, KERALA-683104",19
+Kerala,Kochi,3 Star,Without Alcohol,The Cochin Legacy (Labella Hospitality Pvt. Ltd.),"Near Nairs Hospital, NH-47 Bye Pass, Maradu P.O,Ernakulam Dt. Kerala ",25
+Kerala,Kochi,3 Star,Without Alcohol,THE INTERNATIONAL HOTEL,"PB NO 3563, VEEKSHANAM ROAD, M.G.ROAD, ERNAKULAM",35
+Kerala,Kodungallur,3 Star,Without Alcohol,Aswathy Bar and Hotel,"South Nada, Kodungallur, Thrissur Kodungallur",10
+Kerala,Kodungallur,3 Star,Without Alcohol,Hotel Palace EN Paradise,"Opposite KSRTC Bus Stand Sringapuram, Methala - Post Kodungallur ,Thrissur- District, Kerala",10
+Kerala,Kodungallur,3 Star,Without Alcohol,KALLADA RESIDENCY,"SANTHIPURAM,KODUNGALLUR,THRISSUR DIST,KERALA STATE",10
+Kerala,Kodungallur,3 Star,Without Alcohol,"Polakulath Tourist Home, Pullut ","Polakulath Tourist Home,Pullut - Narayanamangalam ,THRISSUR (Dis) - PIN :- 680663",10
+Kerala,Kollam,3 Star,Without Alcohol,HIGHLAND HOTEL AND RESORTS,"HIGHLAND HOTEL AND RESORTS, OPP VAIDHYUTHI BHAVAN, NH-744, KOTTARAKARA PO, KOLLAM KERALALA, PIN-691506",22
+Kerala,Kollam,3 Star,Without Alcohol,HOTEL ANTONY'S TOWER,"PATHANAPURAM, KOLLAM DIST",11
+Kerala,Kollam,3 Star,Without Alcohol,HOTEL DE ORIENT,"Vadayattukotta Road, Near Head Post Office, Chinnakkada, Kollam ",10
+Kerala,Kollam,3 Star,Without Alcohol,HOTEL DONA CASTLE ( a unit of Edassery Group of Hotels Pvt Ltd ),"HOTEL DONA CASTLE ( a unit of Edassery Group of Hotels Pvt Ltd ), LAKSHMINADA, KOTTAMUKKU, KOLLAM",17
+Kerala,Kollam,3 Star,Without Alcohol,Hotel Emerald Palace,"Kannanalloor, Kollam",10
+Kerala,Kollam,3 Star,Without Alcohol,HOTEL HARISREE,"MOONAMKUTTY,KILIKOLLOOR P.O.,KOLLAM",12
+Kerala,Kollam,3 Star,Without Alcohol,Hotel Lake View ,"Thoppilkadavu, Thirumullavaram P.O, Kollam Kollam Kollam",10
+Kerala,Kollam,3 Star,Without Alcohol,HOTEL PALAZHI,"KALLUMKADAVU, PATHANAPURAM, KOLLAM DISTRICT",11
+Kerala,Kollam,3 Star,Without Alcohol,Hotel Railview,"Hotel Railview Opp. Kollam Junction Railway Station Chinnakkada, Kollam- 691001, Kerala ",18
+Kerala,Kollam,3 Star,Without Alcohol,Hotel Sea Palace,Kochupilamood Kollam ,20
+Kerala,Kollam,3 Star,Without Alcohol,Hotel Shilpa Retreat,Ayur Kollam,10
+Kerala,Kollam,3 Star,Without Alcohol,HOTEL SOORYA,"KANNANALLOOR ROAD, KOTTIYAM P O, ",10
+Kerala,Kollam,3 Star,Without Alcohol,HOTEL VIJAYA CASTLE,"A unit of V. Narayana Pillai and Company, Mannannamukku, Manakara, Sasthamkotta.P.O, Kollam District, Kerala State, Pin â€“ 690 521 ",21
+Kerala,Kollam,3 Star,Without Alcohol,Hotel Vijaya Palace,"THATTASSERY, CHAVARA, KOLLAM",14
+Kerala,Kollam,3 Star,Without Alcohol,Mangalath Hotel and Resorts,"Chadayamangalam, Kollam",15
+Kerala,Kollam,3 Star,Without Alcohol,MARIYALAYAM MUNROE ISLAND RESIDENCY,"PATTAMTHURUTHU P O, MUNROETHURUTHU, KOLLAM",12
+Kerala,Kollam,3 Star,Without Alcohol,ROYALE REGENCY HOTEL AND CONVENTION CENTER,"NH-66(47),OACHIRA,KOLLAM DISTRICT",29
+Kerala,Kollam,3 Star,Without Alcohol,San Tourist Home ,"Kavanadu P.O., Kollam ",11
+Kerala,Kollam,3 Star,Without Alcohol,SREE GOKULAM RESIDENCY ( A UNIT OF SREE GOKULAM HOTEL (INDIA )PVT LTD),"SREE GOKULAM RESIDENCY ( A UNIT OF SREE GOKULAM HOTEL (INDIA )PVT LTD), ADAYARA, OYOOR, KOLLAM",11
+Kerala,Kollam,3 Star,Without Alcohol,THE ESQUIRE PARK,"IVARKALA WEST NORTH, PUTHENAMBALAM .P.O, KUNNATHUR, KOLLAM.",12
+Kerala,Kollam,3 Star,Without Alcohol,Vijaya Hotel and Bar,"Pada South, Karunagappally, Kollam",10
+Kerala,Kottayam,3 Star,Without Alcohol,Finch Hotels (A unit of Ms Finch Hotels and Traders Pvt Ltd),Vadakkekara Erattupetta Kottayam,19
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL AIDA,"AIDA Jn, M.C.Road, Kottayam, Kerala",33
+Kerala,Kottayam,3 Star,Without Alcohol,Hotel Alaina,Central Junction Karukachal Kottayam,10
+Kerala,Kottayam,3 Star,Without Alcohol,Hotel Anjali Park,"K.K.Road, Kottayam ",19
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL ARCADIA,"T.B.ROAD,OPPOSITE KSRTC BUS STATION,KOTTAYAM",47
+Kerala,Kottayam,3 Star,Without Alcohol,Hotel Armani,"Galaxy Junction, Mundakayam, Kerala 686513",10
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL BREEZE INTERNATIONAL ,"NEAR NO. 1 PVT. BUS STAND, KAVALA, CHANGANACHERRY, KOTTAYAM DISTRICT ",10
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL CASTLE RESIDENCY,PERUVA.P.O,11
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL MEDAS,"A UNIT OF KAY KAY ENTERPRISES, PONKUNNAM, KOTTAYAM DISTRICT - 686506",11
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL NITHYA,"GANDHINAGAR, KOTTAYAM DISTRICT",11
+Kerala,Kottayam,3 Star,Without Alcohol,Hotel Pankaj ,"Vaikom Road, Thalayolaparambu P O, Kottayam ",10
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL PRESIDENCY,"KAVALA, CHANGANACHERRY, KOTTAYAM DISTRICT",10
+Kerala,Kottayam,3 Star,Without Alcohol,"HOTEL PRINCE ,","K.K ROAD, KANJIKUZHY, KOTTAYAM",10
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL SUMMERSAND RESTAURANT,"VELLOORE P O, PAMPADY, KOTTAYAM Kottayam",11
+Kerala,Kottayam,3 Star,Without Alcohol,HOTEL VARSHA INTERNATIONAL RESIDENCY,"A UNIT OF ROYALGOLF HOTELS INDIA PRIVATE LIMITED, MANJOOR.P.O, KURUPPANTHARA, KOTTAYAM ",15
+Kerala,Kottayam,3 Star,Without Alcohol,Hotel Zodiac International,"Kaduthuruthy, Kottayam",10
+Kerala,Kottayam,3 Star,Without Alcohol,JOYEES RESIDENCY,"YMCA ROAD, KOTTAYAM Kottayam",12
+Kerala,Kottayam,3 Star,Without Alcohol,Merlin Residency,"Manarcadu Jn, Kottayam",11
+Kerala,Kovalam,3 Star,Without Alcohol,DIAMOND PALACE HOTEL,"Kovalam Bypass Road,Edavilakom,Vazhamuttom P.O., Kovalam,Trivandrum",10
+Kerala,Kovalam,3 Star,Without Alcohol,HOTEL SEA FACE,"N.U.P Beach Road, Kovalam, Trivandrum.",20
+Kerala,Koyilandy,3 Star,Without Alcohol,Kalyan Residency,"Railway station Road, Opp. New Bus stand. Koyilandy, Kozhikkode , Kerala",11
+Kerala,Kozhikode,3 Star,Without Alcohol,Hotel Hasthinapuri Inn,"Chungam, Thamarassery, Kozhikode",14
+Kerala,Kozhikode,3 Star,Without Alcohol,HOTEL MONAD,"KGP 20511,KARANTHUR PO, KUNNAMANGALAM, KOZHIKODE-KERALA-673571",20
+Kerala,Kozhikode,3 Star,Without Alcohol,Hotel Springway (A unit of Hotel Springway LLP),"Building no KP-23622A, B, C, D, E, F&G wayanad road, Kunnamangalam Kozhikode",11
+Kerala,Kozhikode,3 Star,Without Alcohol,HOTEL THUSHARA INTERNATIONAL,"KODENCHERRY P.O,VIA THAMARASSERY,KOZHIKODE DT.",19
+Kerala,Kozhikode,3 Star,Without Alcohol,Kings Regency (A unit of King's Regency LLP),"Building No.5-540A, NH Bypass, Pantheerankavu Kozhikode",11
+Kerala,Kozhikode,3 Star,Without Alcohol,KOVILAKAM RESIDENCY (A UNIT OF KOVILAKAM RESIDENCY PRIVATE LIMITED),"OPP: MIMS , MINI BYPASS ROAD, GOVINDAPURAM, KOZHIKODE-673016, KERALA Kozhikode",27
+Kerala,Kozhikode,3 Star,Without Alcohol,MEDORA HOTEL,"Opposite Stadium,Pavamani Road,Kozhikode.",40
+Kerala,Kozhikode,3 Star,Without Alcohol,Park Residency,"Ramanattukara, Kozhikode",16
+Kerala,Kozhikode,3 Star,Without Alcohol,Queens Hotel,"Annie Hall Road, Near Railway station Road, Kozhikode",11
+Kerala,Kozhikode,3 Star,Without Alcohol,Theertha International,"payyoli,Kozhikode Dist,Kerala",15
+Kerala,Kunnamkulam,3 Star,Without Alcohol,R C Park,Opp.Town hall Herbert Road Kunnamkulam,10
+Kerala,Kunnamkulam,3 Star,Without Alcohol,victory inn park residency,"Calicut Road, Parempadam, Kunnamkulam Thrissur",10
+Kerala,Malappuram,3 Star,Without Alcohol,Hotel Mahendrapuri,"Kavungal,Malappuram-Post,Malappuram-District",12
+Kerala,Malappuram,3 Star,Without Alcohol,HOTEL PICNIC (A UNIT OF KOCHIKUNNEL WINES),"A UNIT OF KOCHIKUNNEL WINES, COURT ROAD, MANJERI.P.O, MALAPPURAM DISTRICT- 676121",10
+Kerala,Malappuram,3 Star,Without Alcohol,Hotel Samrat and Tourist Home,"Ooty Road, Edakkara, Malappuram -Districr, Kerala-State",10
+Kerala,Malappuram,3 Star,Without Alcohol,Hotel Souparnika Inn (A unit of Hotel Souparnika Inn Pvt.Ltd.),"Kozhikkode Road, Punnathala P O, Puthanathani, Malapuram Malappuram",12
+Kerala,Malappuram,3 Star,Without Alcohol,HOTEL SWAGATH,"CALICUT ROAD,VALANCHERY,MALAPURAM DISTRICT",10
+Kerala,Malappuram,3 Star,Without Alcohol,ROSE RESIDENCY,"MANNARKKAD ROAD, PERINTHALMANNA, MALAPPURAM DISTRICT-679322",13
+Kerala,Mavelikkara,3 Star,Without Alcohol,HOTEL SIXER,"Thattarambalam, Mavelikara road, Mavelikara, Alappuzha,",10
+Kerala,Mavelikkara,3 Star,Without Alcohol,HOTEL TRAVANCORE REGENCY,"NORTH MITCHEL JUNCTION, MAVELIKKARA,ALAPPUZHA",11
+Kerala,Munnar,3 Star,Without Alcohol,Hotel Princess De Munnar,"Chithirapuram (Post), Anachal,Munnar.",10
+Kerala,Munnar,3 Star,Without Alcohol,ISSACS RESIDENCY,"Top Station Road, Munnar, ",32
+Kerala,Muvattupuzha,3 Star,Without Alcohol,Janatha Tourist Home,Kavitha Road Kacherithazham Muvattupuzha Ernakulam Muvattupuzha,10
+Kerala,Muvattupuzha,3 Star,Without Alcohol,NEELAMBARI SUITES,"VILLANCHIRA,THALAKODE P.O ,NERIAYAMANGALAM,KOTHAMANGALAM,ERNAKULAM DIST.",22
+Kerala,Muvattupuzha,3 Star,Without Alcohol,"The Krishna Regency,Muvattupuzha ","The Krishna Regency, Near Private Bus Stand Thodupuzha Road, Muvattupuzha - 686661",11
+Kerala,Ottappalam,3 Star,Without Alcohol,KOTTARAMHOTELS PVT LTD,"A.K.G.ROAD,OTTAPALAM Ottappalam",19
+Kerala,Palai,3 Star,Without Alcohol,Hotel Maharani,"Michael Joseph And Co., Main Road , Pala P.O, Kottayam",12
+Kerala,Palai,3 Star,Without Alcohol,Hotel Zodiac,"Uzhavoor, Kottayam Dist.",11
+Kerala,Palakkad,3 Star,Without Alcohol,DEEPA RESTAURANT AND TOURIST HOME,"DEEPA RESTAURANT AND TOURIST HOME, PATTAMBI ROAD, CHERUPULACHERY, PALAKAD DIST., KERALA 679503",11
+Kerala,Palakkad,3 Star,Without Alcohol,GAYATHRI INN,"KALLADIKKODE.P.O, PALAKKAD DISTRICT",11
+Kerala,Palakkad,3 Star,Without Alcohol,HOTEL CHANAKYA,"CHANDRA NAGAR, PALAKKAD",11
+Kerala,Palakkad,3 Star,Without Alcohol,HOTEL DIANA (THE SOUTH MALABAR TRADING COMPANY),"VADAKKENCHERRY POST, PALAKKAD DISTRICT,",11
+Kerala,Palakkad,3 Star,Without Alcohol,HOTEL GAYATHRI INTERNATIONAL,"THRIPPALUR, ERIMAYUR.P.O, PALAKKAD DISTRICT Palakkad",13
+Kerala,Palakkad,3 Star,Without Alcohol,HOTEL GAYATHRI REGENCY,"KADAMPAZHIPURAM.P.O, PALAKKAD DISTRICT, KERALA STATE",13
+Kerala,Palakkad,3 Star,Without Alcohol,Hotel Govardhana,"3-413, Rock Garden Road, Malampuzha Dam Post, Malampuzha , Palakkad (Dist)",12
+Kerala,Palakkad,3 Star,Without Alcohol,HOTEL KAIRALI,"(A UNIT OF RAJENDRAN AND ASSOCIATE), NEAR KSRTC BUS STAND, SHORANUR ROAD, PALAKKAD DISTRICT",14
+Kerala,Palakkad,3 Star,Without Alcohol,HOTEL KAIRALI TOWERS,"NEAR INDIRA GANDHI STADIUM,COIMBATORE ROAD, Palakkad",12
+Kerala,Palakkad,3 Star,Without Alcohol,HOTEL MAPS RESIDENCY,"M.G. ROAD, OPP. DYSP OFFICE, SHORANUR, PALAKKAD DISTRICT",14
+Kerala,Palakkad,3 Star,Without Alcohol,Hotel Rajadhani,"R S Road, Pattambi, Palakkad (Dist)",12
+Kerala,Palakkad,3 Star,Without Alcohol,JYOTHIS REGENCY (A unit of Moochikunnans Hotel Pvt. Ltd.),"No.9-421 to 448,KANNAMBRA GRAMA PANCHAYATH,NH 47,KARAYANGAD,VADAKKENCHERY PO,PALAKKAD, Palakkad Palakkad",20
+Kerala,Palakkad,3 Star,Without Alcohol,KALYAN TOURIST HOME,"G. B. ROAD, ERUMAKKARA STREET, PALAKKAD",15
+Kerala,Palakkad,3 Star,Without Alcohol,Sree Narayana Hotel,Ambalapara,11
+Kerala,Palakkad,3 Star,Without Alcohol,The Gold Hotel,"Padalodumedu , Near Venkateswara Petrol Pump,Kuzhalmannam (Post), Palakkad.",10
+Kerala,Paravoor,3 Star,Without Alcohol,Hotel Grand Muziris,"Opp. Civil Station, N. Paravoor",11
+Kerala,Paravoor,3 Star,Without Alcohol,JAYA TOURIST HOME,"JAYA TOURIST HOME, OPP.PWD GUEST HOUSE, N.PARAVOOR, ERNAKULAM DISTRICT, KERALA",10
+Kerala,Pathanamthitta,3 Star,Without Alcohol,Hotel Amala,"Opp. KSRTC Bus Station, Pathanamthitta",10
+Kerala,Pathanamthitta,3 Star,Without Alcohol,Hotel Heyday Inn,"Aban Junction, Pathanamthitta P O, Pathanamthitta ",10
+Kerala,Pathanamthitta,3 Star,Without Alcohol,HOTEL SEA BLUE,"OPP.,PRIVATE BUS STAND,MALLAPPALLY P.O.,MALLAPPALLY,PATHANAMTHITTA",10
+Kerala,Pathanamthitta,3 Star,Without Alcohol,HOTEL SURYA AND GIRIRANI TOURIST HOME,"Opp.K.S.R.T.C Bus Stand , Main Road Konni,Pathanamthitta Dist Pathanamthitta",10
+Kerala,Pathanamthitta,3 Star,Without Alcohol,KUTTIES RESIDENCY,"Market Junction ,Konni,Pathanamthitta",11
+Kerala,Pathanamthitta,3 Star,Without Alcohol,Shines Tourist Hotel,"P.B.No.5,Pandalam,Pathanamthitta Dist.",12
+Kerala,Pattambi,3 Star,Without Alcohol,NAKSHATRA REGENCY,"3,284, PATTAMBI MAIN ROAD, KOPPAM, PALAKKAD, PIN â€“ 679 307",12
+Kerala,Payyanur,3 Star,Without Alcohol,HOTEL ARCHANA AND DWARAKA TOURIST HOME,"Main Road, Payyannur, Kannur ",22
+Kerala,Payyanur,3 Star,Without Alcohol,K B C GREEN PARK HOTEL,"EDAT,PAYYANUR,KANNUR DIST, KERALA STATE",22
+Kerala,Perumbavoor,3 Star,Without Alcohol,EAGLE TOURIST HOME,"M.C. Road, Perumbavoor P.O., Ernakulam",10
+Kerala,Perumbavoor,3 Star,Without Alcohol,EMBASSERY RESIDENCY,"KURUPPAMPADY P.O. ERNAKULAM DISTRICT,KERALA STATE",11
+Kerala,Perumbavoor,3 Star,Without Alcohol,HOTEL ANJALY INTERNATIONAL,"HOTEL ANJALY INTERNATIONAL, OUSHADHI JN., M.C. ROAD, PERUMBAVOOR",10
+Kerala,Perumbavoor,3 Star,Without Alcohol,Manna Tourist Home,"A.M.Road ,Perumbavoor",10
+Kerala,Perumbavoor,3 Star,Without Alcohol,RITZ INTERNATIONAL,"A M ROAD, PERUMBAVOOR",11
+Kerala,Ponnani,3 Star,Without Alcohol,HOTEL SAAYOOJ,"THRISSUR ROAD, SUKAPURAM PO,EDAPPAL,MALAPURAM DIST. Ponnani",10
+Kerala,Punalur,3 Star,Without Alcohol,NARENDRA REGENCY,"GOVT. HOSPITAL ROAD, PUNALUR, KOLLAM",11
+Kerala,Quilandy,3 Star,Without Alcohol,Park Residency,"Koyilandy P.O, Kozhikode District",15
+Kerala,Shoranur,3 Star,Without Alcohol,Apsara Tourist Home,Opposite to Railway station Shoranur Shoranur,10
+Kerala,Sultan Bathery,3 Star,Without Alcohol,HOTEL THE RESORT,"Gandhi junction,Rahim memorial Road,Sulthan bathery,Wayanad Dist, Kerala",10
+Kerala,Taliparamba,3 Star,Without Alcohol,HOTEL CHEMBARATHY GARDEN,"7th MILE,KUTTIKKOL PO,TALIPARAMBA VILLAGE,TALIPARAMBA TALUK,KANNUR DISTRICT,",17
+Kerala,Thalikkulam,3 Star,Without Alcohol,Central Residency ( Unit of Vynika Hotels Private Limited),"VIII - 495 F, NH-66, Thalikkulam. Post, Thalikkulam Thalikkulam",10
+Kerala,Thekkady,3 Star,Without Alcohol,HOLIDAY VISTA (M.S.C Hotels and Resorts Pvt Ltd ),"K.K Road ,Kumuly, Thekkady 685 509,Idukki District",52
+Kerala,Thiruvalla,3 Star,Without Alcohol,Hotel Ashok International,"T.K.Road, Thiruvalla, Pathanamthitta",10
+Kerala,Thiruvalla,3 Star,Without Alcohol,Hotel Bessota International,"Near YMCA, Tiruvalla, Pathanamthitta, Kerala",20
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,Amala's Residency,"Central Theatre Road,Powerhouse Road,Opposite Railway 2nd Entry,Pazhavangadi,Thiruvananthapuram.",16
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,HOTEL ASLIYYA GRANDE,"NAVAIKULAM, TRIVANDRUM-695603",20
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,HOTEL CITY PALACE,"ARAYALLOOR , THIRUMALA PO , TRIVANDRUM Thiruvananthapuram",10
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,Hotel Flamingo Inn(a unit of flamingo Inn Pvt Ltd),"Opp. Infosys Campus, Technopark, By-pass Medanada Kulathoor .p.o Trivandrum",41
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,HOTEL HIGHNESS INN,"PERUMTHANNI, EANCHACKAL, TRIVANDRUM",11
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,HOTEL INDRAPRASTHA,"HOTEL INDRAPRASTHA, MAITHANAM, VARKALA PO, THIRUVANANTHAPURAM 695141",10
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,HOTEL INDRAPRASTHA,"ATTAKULANGARA P.O.,THIRUVANANTHAPURAM",15
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,Hotel Indrapuri,"TC 26-689-(1&2), Vanross Junction, Trivandrum Thiruvananthapuram Thiruvananthapuram ",10
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,HOTEL PADMA,"CONVENT ROAD, VANCHIYOOR, TRIVANDRUM",10
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,HOTEL PRASANTH ,"HOTEL PRASANTH ( A unit of PRASAD HOTELS PRIVATE LIMITED) TC 11 726, P.M.G Junction, Thiruvananthapuram, 695033, Kerala State",51
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,HOTEL PRASANTHI,"HOTEL PRASANTHI, PARASSALA PO, NEYYATTINKARA, THIRUVANANTHAPURAM, KERALA ",15
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,Hotel Rajadhani,"Hotel Rajadhani, Rajadhani Buildings, East Fort, Thiruvananthapuram - 695 023",17
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,Hotel Safari,"Near KURTC Bus stand,M.C. Road,Venjaramood Thiruvananthapuram",19
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,Leela Backwaters Inn,"Bridge Road, Poovar, Thiruvanthapuram ,Kerala ,India Thiruvananthapuram",15
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,PADMASREE TOURIST HOME,"Chirayinkeezhu,Thiruvananthapuram",11
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,Pattom Royal Hotel,"TC 3 2778-1, Pattom - Plamoodu Reach, Pattom Road",45
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,RACO REGENCY,"MURINJAPALAM, MEDICAL COLLEGE, THIRUVANATHAPURAM",12
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,RUBY ARENA,"Kumarapuram Road, Medical Collage P O, Thiruvananthapuram Dist , Kerala State, Pin-695011",40
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,The Grand Residency ,"Nellimoodu P O, Thiruvananthapuram ",16
+Kerala,Thiruvananthapuram,3 Star,Without Alcohol,THE TRAVANCORE HERITAGE (A Unit of Joys The Beach Resort P. Ltd.),"Balaramapuram, Near kovalam, Chowara P.O - 695501 Thiruvananthapuram, Kerala, India, ",84
+Kerala,Thodupuzha,3 Star,Without Alcohol,GEMINY TOURIST HOME,"Manakkad Jn, Thodupuzha PO Idukki Dist,",17
+Kerala,Thodupuzha,3 Star,Without Alcohol,Hotel Vrindavan,"Vannappuram P O, Thodupuzha, Idukki Dist",11
+Kerala,Thodupuzha,3 Star,Without Alcohol,Hotel Xavier's Avenue Pvt. Ltd.,"Paingotoor, Munnar Road, Kothamangalam, Ernakulam dist Thodupuzha",20
+Kerala,Thodupuzha,3 Star,Without Alcohol,Tee Cee Restaurant,"Thodupuzha Muvattupuzha Road, Thodupuzha",11
+Kerala,Thripunithura,3 Star,Without Alcohol,Kottavathil Restaurant ,"Near Statue Jn. Tripunithura, Ernakulam",10
+Kerala,Thrissur,3 Star,Without Alcohol,ASHOKA INN,"SAKTHAN THAMPURAN NAGAR,T.B.ROAD,THRISSUR",34
+Kerala,Thrissur,3 Star,Without Alcohol,ASHOKA RESIDENCY,"IRINJALAKUDA ROAD, P.O.KATTOOR, THRISSUR, KERALA.",11
+Kerala,Thrissur,3 Star,Without Alcohol,Central Hotel Agencies,"Museum Road, Chembukavu, Thrissur.",10
+Kerala,Thrissur,3 Star,Without Alcohol,CHERAKULAM TOURIST HOME,"TANA,IRINJALAKUDA,THRISSUR DT.",10
+Kerala,Thrissur,3 Star,Without Alcohol,DAYA REGENCY,DAYA REGENCY MANNUTHY ROAD PARAVATTANI THRISSUR - 680005 ,10
+Kerala,Thrissur,3 Star,Without Alcohol,Deliza Residency,Vazhani Road Wadakanchery-Post Thrissur-Ditrict,20
+Kerala,Thrissur,3 Star,Without Alcohol,"Devasura Inn, A Unit of Devasura Inn Private Limited","KUNNATHUR, PUNNAYOORKULAM.P.O, THRISSUR Thrissur",11
+Kerala,Thrissur,3 Star,Without Alcohol,Fort Gate Hotels and Resorts (A unit of Fort Gate Hotels and Resorts Private Limited),"KOTTAPPADY, GURUVAYOOR, THRISSUR Thrissur Thrissur",18
+Kerala,Thrissur,3 Star,Without Alcohol,GOLDEN BAR,"GOLDEN BAR,KODAKARA.THRISSUR [DIST] KERALA-680684 ",10
+Kerala,Thrissur,3 Star,Without Alcohol,HAMARA HOTELS,"A UNIT OF HAMARA HOTELS PRIVATE LIMITED, NADATHARA.P.O, NH 47 BY PASS, THRISSUR DISTRICT",20
+Kerala,Thrissur,3 Star,Without Alcohol,HIGHWAY PALACE INN,"PATTIKKAD,THRISSUR, DISTRICT,KERALA",20
+Kerala,Thrissur,3 Star,Without Alcohol,HOLIDAY PARK,"PUDUKKAD JUNCTION, THRISSUR DISTRICT, KERALA STATE",13
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL APSARA,"MAIN ROAD, CHALAKUDY, THRISSUR",10
+Kerala,Thrissur,3 Star,Without Alcohol,Hotel Ayodhya Regency ,"Hotel Ayodhya Regency ,Triprayar, Thrissur Dist ",10
+Kerala,Thrissur,3 Star,Without Alcohol,Hotel Clay House,"Muringoor.P.O, Chalakudy",25
+Kerala,Thrissur,3 Star,Without Alcohol,Hotel Dreamland,"Triprayar, Nattika P.O.",19
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL HILL TOP,"134, HOTEL HILL TOP, P.O VELUTHUR, KUNNATHANGADI, THRISSUR",11
+Kerala,Thrissur,3 Star,Without Alcohol,Hotel Kottaram Residency,"Opp.Apollo Tyres, Perambra Thrissur",17
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL MOON AND SHOPPING COMPLEX ,"PAVARATTY P.O ,THRISSUR , Thrissur",10
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL NEW CASTLE,"OTTUPARA, WADAKKANCHERRY.P.O, THRISSUR DISTRICT Thrissur",10
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL OAK TREE ,"A UNIT OF MOSA & SONS TOWER INN PRIVATE LIMITED, THIRUVILWAMALA.P.O, THRISSUR DISTRICT",14
+Kerala,Thrissur,3 Star,Without Alcohol,Hotel Park Residency,"Koorkkanchery P O, Thrissur",12
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL PENINSULA,"Trichur Tourist Complex Pvt.Ltd, M G Road, Thrissur,Kerala.",12
+Kerala,Thrissur,3 Star,Without Alcohol,Hotel Salkara,Chavakkad Chettuva road Thrissur,10
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL SEVEN SEAS,"RAMAKRISHNA IYYER ROAD,IRINJALAKUDA,THRISSUR DISTRICT",11
+Kerala,Thrissur,3 Star,Without Alcohol,Hotel Simla,"P.O.Kanjany , Thrisssur Dist",10
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL SREE GOKULAM RESIDENCY (A UNIT OF SREE GOKULAM HOTELS INDIA PVT.LTD),"AMBALLUR P.O.,PUDUKKAD,THRICHUR",20
+Kerala,Thrissur,3 Star,Without Alcohol,HOTEL WAYLORD,"A Unit of Hotel Waylord Private Limited, Thiroor.P.O, Thrissur District, Kerala State, Pin: 680581 ",10
+Kerala,Thrissur,3 Star,Without Alcohol,Hotel Zodiac,"Koratty, Thrissur Dist.",10
+Kerala,Thrissur,3 Star,Without Alcohol,Keli Residency ( A Unit of Keli Hotels Private Limited),"Gramala.P.O, Mulagunnathukavu, Athani, Thrissur District Thrissur",19
+Kerala,Thrissur,3 Star,Without Alcohol,Kovilakam Inn (A unit of Kovilakam Inn India Private Limited),"KAIPARAMBU.P.O, Thrissur",13
+Kerala,Thrissur,3 Star,Without Alcohol,LUMBINI SUPREME,"TC 30-383-2, R S ROAD, OLLUR P O , THRISSUR",10
+Kerala,Thrissur,3 Star,Without Alcohol,M.R.TOURIST HOME,"VELLANGALLUR, P.O. THRISSUR",10
+Kerala,Thrissur,3 Star,Without Alcohol,MAY FAIR HOTELS,"PUDUKAD, THRISSUR DIST.",10
+Kerala,Thrissur,3 Star,Without Alcohol,Mayura Inn,Mannuthy Bypass Jn.Mannuthy PO Thrissur Kerala 680651,18
+Kerala,Thrissur,3 Star,Without Alcohol,Peringottukara Palace,"Kizhakkumury P O, Peringottukara, Thrissur",14
+Kerala,Thrissur,3 Star,Without Alcohol,"Polakulath Tourist Home,Kodugallor","North Nada, Kodugallor, Thrissur",10
+Kerala,Thrissur,3 Star,Without Alcohol,POORAM RESIDENCY HOTEL INDIA PRIVATE LIMITED,"P.O.KODANNUR, THRISSUR DISTRICT",13
+Kerala,Thrissur,3 Star,Without Alcohol,Rose Residency,"Madayikonam p.o, Mapranam, Trissur",10
+Kerala,Thrissur,3 Star,Without Alcohol,Solar Hotels (A unit of Solar Hotels Pvt Ltd.),Pavaratty P.O Thrissur Thrissur,10
+Kerala,Thrissur,3 Star,Without Alcohol,THE NADUMURI INN,"ANNAMANDA, P.O.THRISSUR,DIST,KERALA STATE",11
+Kerala,Thrissur,3 Star,Without Alcohol,VICTORY INTERNATIONAL,BYJU ROAD KUNNANKULAM Thrissur,10
+Kerala,Tirur,3 Star,Without Alcohol,HOTEL DEEPA RESTAURANT,"DEEPA HOTEL AND RESTAURANT, TOWN HALL ROAD , TIRUR, MALAPPURAM Tirur Tirur Tirur",12
+Kerala,Tirur,3 Star,Without Alcohol,Hotel Salkara,"Manjadi,Tirur Road, Kuttippuram PO, Pin 679571, Tirur Taluk, Malappuram Dist., Kerala.",11
+Kerala,Valancherry,3 Star,Without Alcohol,SWAGATH INN,"PATTAMBI ROAD, VALANCHERY ",12
+Kerala,Varkala,3 Star,Without Alcohol,Hindustan Beach Retreat,"Papanasam Beach, Janardhanapuram PO,",27
+Kerala,Varkala,3 Star,Without Alcohol,hotel varkala park international,"Station Road Varkala , Thiruvananthapuram-695141",16
+Kerala,Wayanad,3 Star,Without Alcohol,HOTEL SAUGANDHIKA WEST GATE,"Kolagapara P O, Meenangadi , Wayanad District",12
+Kerala,Wayanad,3 Star,Without Alcohol,Hotel Manasasaras,"Thalassery Road, Mananthavady, Wayand - 670 645",13
+Kerala,Wayanad,3 Star,Without Alcohol,HOTEL MAYO,"MENNANGADI,WAYANAD DISTRICT",12
+Kerala,Wayanad,3 Star,Without Alcohol,HOTEL VANARANI,"MEENANGADI, WAYANAD",10
+Kerala,Wayanad,3 Star,Without Alcohol,STERLING HOLIDAY RESORTS LTD,"STERLING HOLIDAY RESORTS LTD, VALLU VADI POST, VALLUVADI VILLAGE, SULTHAN BATHERRY, WAYANAD DISTRICT.",61
+Madhya Pradesh,Avarghani,3 Star,Without Alcohol,PENCH JUNGLE CAMP,"PENCH NATIONAL PARK, VILLAGE AVARGHANI, TEH. KURAI,",31
+Madhya Pradesh,Bhopal,3 Star,Without Alcohol,HOTEL AMER PALACE,"209 ZONE 1, MP NAGAR",55
+Madhya Pradesh,Bhopal,3 Star,Without Alcohol,Hotel Amer Palace,"209, Zone-1, MP Naagr, Bhopal",55
+Madhya Pradesh,Tikamgarh,3 Star,Without Alcohol,Silver Estate Resort,"6 Mile Stone, Jhansi Road, Phadikhurd, Tikamgarh",50
+Maharashtra,Ahmednagar,3 Star,Without Alcohol,Hotel Yash Grand ,"Near Kinetic Chowk, Nagar-Pune Road, Ahmednagar. ",27
+Maharashtra,Amravati,3 Star,Without Alcohol,THE GRAND MEHFIL,"NAZUL PLOT NO. 11-2, SHEET NO. 31,BEHIND DAYA SAGAR HOSPITAL, GIRLS HIGH SCHOOL SQUARE,CAMP ROAD,",79
+Maharashtra,Andheri (East),3 Star,Without Alcohol,Hotel Om Tunga Vihar,"Plot No. B 11, MIDC Central Road, Andheri (East).",20
+Maharashtra,Andheri (East),3 Star,Without Alcohol,The Regale by Tunga(A unit of Hotel Tunga Regale (India) Pvt. Ltd.),"PLOT NO. 31, PHASE II, MIDC, CENTRAL ROAD, ANDHERI EAST, MUMBAI 400 093 Andheri (East)",49
+Maharashtra,Aurangabad,3 Star,Without Alcohol,LEMON TREE HOTEL AURANGABAD,"R-7 2, AIRPORT ROAD, CHIKALTHANA, AURANGABAD",102
+Maharashtra,Lonavala,3 Star,Without Alcohol,The Fern (A Unit of Agarwal Hospitality Pvt. Ltd.),S. No. 84 - 1 to 4 off Mumbai pune expressway near Lonavala expressway exit Valavan Maval Lonavala Pune,80
+Maharashtra,Mulshi,3 Star,Without Alcohol,Atmantan Resort Wellness Health Centre ,"Village Palse, Mulshi, Pune ",108
+Maharashtra,Mumbai,3 Star,Without Alcohol,Citizen Hotel (A UNIT OF CITIZEN HOTELS PVT. LTD.),"960, JUHU TARA ROAD, JUHU BEACH Mumbai",43
+Maharashtra,Mumbai,3 Star,Without Alcohol,HOTEL SUNCITY RESIDENCY,16TH ROAD MIDC MAROL ANDHERI EAST MUMBAI 400093,35
+Maharashtra,MUMBAI,3 Star,Without Alcohol,Hotel Tunga Paradise,"Plot No. 16, MIDC Central Road, Andheri (East), Mumbai, Maharashtra. City : Mumbai MUMBAI MUMBAI",40
+Maharashtra,Mumbai,3 Star,Without Alcohol,KEYS HOTEL NESTOR ,"382 SWAROOP ENCLAVE, MAKHWANA ROAD , OFF MILITARY ROAD , OPP ECO PARK BUILD., MAROL, ANDHERI EAST , MUMBAI -400059. Mumbai",100
+Maharashtra,Mumbai,3 Star,Without Alcohol,"Kohinoor Elite, A Unit of Kohinoor Elite Hotels Pvt Ltd. ","Kohinoor City, Kirol Road, Near American School of Bombay, Off LBS Marg, Kurla (West). Mumbai",100
+Maharashtra,Mumbai,3 Star,Without Alcohol,Peninsula Redpine Hotel (A Unit of The Competent Hotel Private Limited,"CTS 1355, Andheri-Kurla Road, Marol, Mumbai Mumbai",29
+Maharashtra,Mumbai,3 Star,Without Alcohol,Sea Palace Hotel,"P.J Ramchandani Marg, Apollo Bunder, Colaba, Mumbai-400001",47
+Maharashtra,Mumbai,3 Star,Without Alcohol,Soho House Mumbai,"Plot no. 16, Juhu Tara Road, Santa Cruz (W), Mumbai Mumbai Mumbai",36
+Maharashtra,Mumbai,3 Star,Without Alcohol,THE MIRADOR,"131-B, NEW LINK ROAD, CHAKALA, ANDHERI (EAST), MUMBAI - 400099",106
+Maharashtra,Nagpur,3 Star,Without Alcohol,Hotel Naivedhyam North Star,"28 A, Jagdamba Niwas, Near Koradi, Nagpur - 441111",38
+Maharashtra,Nagpur,3 Star,Without Alcohol,Tadoba Vanya Villas Resort and Spa (a unit of Royale Blue Resorts India Private Limited),"Khasra No.41,144,152,154,155 & 402.AT MOUZA CHETI, TEHSIL CHIMUR, DIST. CHANDRAPUR, NEAR TADOBA ANDHERI TIGER RESERVE, MAHARASHTRA Nagpur",36
+Maharashtra,Nashik,3 Star,Without Alcohol,Hotel Grand Rio (A Unit of CMP Hospitality) ,"S. NO- 881-2-PLOT NO -3, RAJIV NAGAR, CHADDA CHOWK, OFF MUMBAI AGRA ROAD Nashik",45
+Maharashtra,Navi Mumbai,3 Star,Without Alcohol,HOTEL HIGHWAY VIEW,"PLOT NO.3, SECTOR-24. OPP. SANPADA RAILWAY STATION, MUMBAI PUNE HIGHWAY, NAVI MUMBAI",20
+Maharashtra,Navi Mumbai,3 Star,Without Alcohol,Hotel Supreme Heritage,"Plot No. L-2, Sector -19, Vashi , Navi Mumbai- 400703",61
+Maharashtra,Palghar,3 Star,Without Alcohol,ANCHAVIYO RESORTS,BHARAT AGRI FERT AND REALITY LTD SURVEY NO 155 7 8 9 10 VILLAGE KHARIVALI TALUKA WADA DIST MAHARASHTRA,16
+Maharashtra,Pune,3 Star,Without Alcohol,Ginger Pune-Wakad,Ginger Hotel Kala Khdak Near Indira College Wakad naka Wakad,127
+Maharashtra,Pune,3 Star,Without Alcohol,IBIS HOTEL - PUNE (UNIT OF INTERGLOBE HOTELS PRIVATE LIMITED),"Survey No: 32, Viman Nagar, Nagar Road, Pune, Maharashtra - 411014, India",160
+Maharashtra,Thane,3 Star,Without Alcohol,GCC HOTEL AND CLUB,"GCC HOTELS PVT. LTD., 92-1, OFF. MIRA BHAYANDER ROAD, MIRA ROAD EAST, THANE.",106
+Maharashtra,Thane,3 Star,Without Alcohol,GCC Hotels Private Limited,"GCC Hotel and club, S.no. 921, off Mira Bhayander road, near vijay sales, Mira Road East, Thane - 401107",48
+Maharashtra,Thane,3 Star,Without Alcohol,Krishna Palace,35-36 MIDC Additional Ambernath East Thane,58
+Manipur,Imphal*,3 Star,Without Alcohol,"Elora Hotel, a unit of Chingao Hotel and Resorts Pvt. Ltd.","Ward No. 9, Indo Myanmar Road, Moreh, Chandel District",28
+Meghalaya,Shillong*,3 Star,Without Alcohol,HOTEL POINISUK,"LAITUMKHRAH MAIN ROAD, UPLAND ROAD, NONGKYNRIH",30
+Odisha,Angul,3 Star,Without Alcohol,ASHIANA HILL VIEW,"ADARSH VIHAR , PANCHA MAHALA , NEAR RTO OFFICE , ANGUL",80
+Odisha,Jajpur Road,3 Star,Without Alcohol,Ginger Hotel Kalinganagar,"Ginger Hotel, Opp Tata Steel Gate no 3, Khurunti, Kalinganagar, Odisha, 755026",93
+Odisha,Jharsuguda,3 Star,Without Alcohol,THR ORCHARD (Garden Palace Hotels Resorts Pvt Ltd,"Bypass Road, Ekatali, Jharsuguda",50
+Odisha,Puri,3 Star,Without Alcohol,"MAYFAIR Waves, Puri","Chakratirtha Road, Puri- 752002, Puri District, Odisha",34
+Odisha,Talcher,3 Star,Without Alcohol,Hotel Surya Garden,"Netaji Subas Bose Marg, Main Road, Talcher, Dist: Angul, Odisha, PIN: 759107",38
+Punjab,Jalandhar,3 Star,Without Alcohol,COUNTRY INN SUITES BY RADISSON A UNIT OF HAYRE REGENCY HOTELS PRIVATE LIMITED,NEAR BSF CHOWK G.T ROAD ,45
+Punjab,Jalandhar,3 Star,Without Alcohol,Hotel Imperia Suites,"Vasant Vihar Road, Shanker Garden, Near Income Tax Colony, Jalandhar",18
+Rajasthan,Jaipur,3 Star,Without Alcohol,Hotel Le Grande ,Jaipur Road Chomu ,19
+Rajasthan,Jaipur,3 Star,Without Alcohol,Mansingh Towers,"Hotel Mansingh Towers, Sansar Chandra Road",53
+Rajasthan,Jaipur,3 Star,Without Alcohol,RCL JAIPUR,"Ginger Hotel, Hawa Sadak, Civils Lines, Jaipur",103
+Tamil Nadu,Chennai*,3 Star,Without Alcohol,BEVERLY,NO 17 RAJARATHINAM ROAD KILPAUK CHENNAI,52
+Tamil Nadu,Thanjavur,3 Star,Without Alcohol,SANGAM HOTELS,"TRICHY ROAD, THANJAVUR",57
+Telangana,Hyderabad,3 Star,Without Alcohol,BESTWESTERN ASHOKA,"6-1-70, LAKDI-KA-PUL",88
+Telangana,HYDERABAD,3 Star,Without Alcohol,Minerva Grand - Kompally,"Survey No 105, Beside Cine Planet, Kompally,",42
+Telangana,Hyderabad,3 Star,Without Alcohol,OHRIS BANJARA (A UNIT OF HOTEL KAMAL PVT LTD ),"D NO 8-2-682 - 3,ROAD NO 12, BANJARA HILLS, HYDERABAD-500034 Hyderabad",24
+Telangana,Hyderabad,3 Star,Without Alcohol,Tara,"Hotel Tara, Ramojii Film City, Anajpur, RR District - 501512",126
+Telangana,Hyderabad,3 Star,Without Alcohol,VAISHNAOI HOTELS INDIA PVT LTD,"3-2-8481,Kachiguda,Station Road,Kachiguda,Hyderabad.",41
+Uttar Pradesh,Ghaziabad,3 Star,Without Alcohol,Fortune Inn Grazia,"Plot No :.1,Sector:.23, Sanjay Nagar,Distt. Centre.",50
+Uttarakhand,Ramnagar,3 Star,Without Alcohol,The Manor Kashipur (Unit of R.R.Hotels),"Bazpur Road , Udham singh Nagar, Kashipur , Uttrakhand 244713",30
+West Bengal,Asansol,3 Star,Without Alcohol,HOTEL ASANSOL INTERNATIONAL,"66, G.T. ROAD (EAST), ASANSOL",42
+West Bengal,Bankura,3 Star,Without Alcohol,HOTEL SAPTAPARNA,"AVINASH SARANI, CHANDMARIDANGA, BANKURA",24
+West Bengal,Bishnupur,3 Star,Without Alcohol,HOTEL ANNAPURNA,"COLLEGE ROAD ,P.O- BISHNUPUR, DIST-BANKURA, ",45
+West Bengal,Durgapur,3 Star,Without Alcohol,The Peerless Inn Durgapur,"Sahid Khudiram Sarani, City Centre, Durgapur - 713216",108
+West Bengal,Kolkata,3 Star,Without Alcohol,ETHNOTEL ( A UNIT OF RAHA HOSPITALITY PVT LTD),"71 I 1 JESSORE ROAD, AIRPORT 2.5 NO GATE Kolkata",41
+West Bengal,Kolkata,3 Star,Without Alcohol,GALLERY HOTELS AND RESORTS,"67, BAGMARI ROAD , KOLKATA - 700054",34
+West Bengal,Kolkata,3 Star,Without Alcohol,Hotel De Sovrani,DD21 SECTOR I SALT LAKE KOLKATA 700064 Kolkata,55
+West Bengal,Kolkata,3 Star,Without Alcohol,Hotel Walson,5A Sudder Street,29
+West Bengal,Kolkata,3 Star,Without Alcohol,IBIS HOTEL - KOLKATA (A UNIT OF INTERGLOBE HOTELS PRIVATE LIMITED),"NO:30 - 1111, PLOT NO. BG - 9, STREET NO: 1111, NEW TOWN, POLICE STATION DISTT. NORTH 24, PARGANAS, KOLKATA - 700156, WEST BENGAL",189
+West Bengal,Kolkata,3 Star,Without Alcohol,Jameson Inn Shiraz,56 Park Street,40
+West Bengal,Kolkata,3 Star,Without Alcohol,Kolkatta Hotels Ltd (Holiday Inn Express-Airport Kolkata),"28, jessore road, nscbi airport, dum dum",130
+West Bengal,Kolkata,3 Star,Without Alcohol,Park Prime Kolkata (A unit of Chocolate Hotels Pvt. Ltd.),"226, AJC BOSE ROAD,KOLKATA Kolkata",62
+West Bengal,Kolkata,3 Star,Without Alcohol,REGENTA LARICA INN,"BISWA BANGLA ROAD , NOAPARA , CHINAR PARK , RAJARHAT , NEW TOWN , KOLKATA 700157 kolkata",45
+West Bengal,Kolkata,3 Star,Without Alcohol,SENS HOTELS PVT LTD - UNIT (BRAND) REGENTA ORKO'S KOLKATA by Royal Orchid Hotels,"621, PRANTIK PALLY, KASBA, KOLKATA - 700 107",69
+West Bengal,Kolkata,3 Star,Without Alcohol,The Fern Residency Kolkata (a unit of Protect Vanijya Pvt. Ltd.,"AS 213, NOAPARA, 204 MAIN ARTERIAL ROAD,NEW TOWN,KOLKATA-700157.",48
+West Bengal,Kolkata,3 Star,Without Alcohol,The Golden Park,13 Ho Chi Minh Sarani,50
+West Bengal,Kolkata,3 Star,Without Alcohol,VICTORIA HOTEL,"45, CHINAR PARK, KOLKATA",34
+Andhra Pradesh,Kakinada,4 Star,With Alcohol,Grand Kakinada by GRT Hotels,"11-3-11, Veterinary hospital road, Ramarao Peta, Kakinada",83
+Andhra Pradesh,Vijayawada,4 Star,With Alcohol,Quality Hotel D V Manor,"40-1-47, M G Road, Vijayawada - 520 010 Vijayawada",119
+Andhra Pradesh,Visakhapatnam,4 Star,With Alcohol,Fairfield By Marriott (A Unit Of KSR Developers Pvt Ltd),"S.No.106-1B2, Marripalem, near R&B Guest House, Madhavadhara Area,",121
+Andhra Pradesh,Visakhapatnam,4 Star,With Alcohol,FORTUNE INN SREEKANYA,D.NO 47-10-34&35 NEAR DIAMOND PARK DWARAKANAGAR ,68
+Andhra Pradesh,Visakhapatnam,4 Star,With Alcohol,HOTEL DASPALLA,"28-2-48,SURYABAGH, VISAKHAPATNAM ",125
+Andhra Pradesh,Visakhapatnam,4 Star,With Alcohol,WelcomHotel Grand Bay,"15-1-44 Maharanipeta , Beach road, visakhapatnam",104
+Chhattisgarh,Bilaspur,4 Star,With Alcohol,HOTEL EAST PARK,"AGRASEN CHOWK, LINK ROAD NO 1",78
+Chhattisgarh,Raipur*,4 Star,With Alcohol,HOTEL GRAND IMPERIA (UNIT OF GRAND ARSH,VIP ROAD RAIPUR ,30
+Chhattisgarh,Raipur*,4 Star,With Alcohol,Clarks Inn Suites,"GE Road, Near VIP Square, Telibandha, Raipur",51
+Chhattisgarh,Raipur*,4 Star,With Alcohol,HOTEL BABYLON INN PVT LTD,"JAIL ROAD, RAIPUR",72
+Chhattisgarh,Raipur*,4 Star,With Alcohol,HOTEL CELEBRATION,"SHRI GURU GOVIND SINGH SQUARE, JAIL ROAD",43
+Chhattisgarh,Raipur*,4 Star,With Alcohol,Hyatt Raipur (A Unit of Chartered Hotels Private Limited),"Magneto The Mall, N.H. 6 Labhandi, Raipur, Chhattisgarh, India, 492 001",105
+Chhattisgarh,Raipur*,4 Star,With Alcohol,Sayaji Hotel Raipur,"GE Road, Behind Magneto Mall |Raipur â€“ ",101
+Delhi,Delhi,4 Star,With Alcohol,Crowne Plaza Mayur Vihar,"13B, Mayur Vihar District Center, Delhi-110091 Delhi",159
+Delhi,Delhi,4 Star,With Alcohol,HOLIDAYINN,"ASSET AREA-12, HOSPITALITY DISTRICT, AEROCITY",265
+Delhi,Delhi,4 Star,With Alcohol,Hotel City Park,"KP Block,Pitampura",58
+Delhi,Delhi,4 Star,With Alcohol,Hotel Holiday Inn,"Plot NO. 13A, Mayur Vihar District Center",192
+Delhi,New Delhi,4 Star,With Alcohol,Crowne Plaza New Delhi Rohini,"Plot 3B 1, Twin District Centre, Sector 10, Rohini, New Delhi",183
+Delhi,New Delhi,4 Star,With Alcohol,CROWNE PLAZA NEW DELHI ROHINI,"PLOT NO. 3B1, TWIN DISTRICT CENTRE, SECTOR-10, ROHINI, DELHI",183
+Delhi,New Delhi,4 Star,With Alcohol,CROWNE PLAZA TODAY NEW DELHI OKHLA,"PLOT NO. 1, COMMUNITY CENTRE, OKHLA PHASE-I, NEW DELHI-110020.",208
+Delhi,New Delhi,4 Star,With Alcohol,EDENPARK HOTELS PVT LTD,"SHAHEED JEET SINGH MARG, NEW DELHI - 110016",30
+Delhi,New Delhi,4 Star,With Alcohol,"Hilton Garden Inn New Delhi ,Saket","A-4,DLF Place Saket District Center, New Delhi-110017",115
+Delhi,New Delhi,4 Star,With Alcohol,PRIDE HOTEL LIMITED,"ASSET-5A, AEROCITY, IGI AIRPORT, NEW DELHI-110037",378
+DNH & DD,Silvassa*,4 Star,With Alcohol,RAS RESORTS,128 P (I) SILVASSA NAROLI ROAD,97
+Goa,Arpora,4 Star,With Alcohol,Sun Village Resorts Pvt Ltd,Saquawadi Baga Arpora Bardez Goa,135
+Goa,Mapusa,4 Star,With Alcohol,Nanu Beach Resort And Spa,"H NO. 264, S NO. 58-1, GIRKARWADA, ARAMBOL, PERNEM, GOA 403524 Mapusa",62
+Goa,Margao,4 Star,With Alcohol,Nanu Resort,"Betalbatim Beach, Salcete, Goa Margao",72
+Goa,vasco da gama,4 Star,With Alcohol,THE HQ ,SWATANTRA PATH P.O BOX NO 31 VASCO ,50
+Haryana,Faridabad,4 Star,With Alcohol,ART AND CRAFT LALIT HOTEL,"ART & CRAFT LALIT HOTEL FARIDABAD - GURGAON ROAD, NEAR MANGAR POLICE CHOWKI, VILLAGE MANGAR, FARIDABAD.",35
+Haryana,Gurgaon,4 Star,With Alcohol,Best Western Resort Country Club (Prop.Raghav Farms and Resorts Pvt Ltd),"Vill.Para,Tehsil Tauru,Pachgaon-Tauru Road, Near Manesar",117
+Haryana,Gurgaon,4 Star,With Alcohol,CLARENS HOTEL,"PLOT NO 363, 364, SECTOR 10, GURGAON",32
+Haryana,Gurgaon,4 Star,With Alcohol,CLARENS HOTEL,PLOT NO 363364 SECTOR-29 GURUGRAM,32
+Haryana,Gurgaon,4 Star,With Alcohol,Hilton Garden Inn ,"Sector-50, Gurgaon Baani Square Village -Adampur , PIN-122002",201
+Haryana,Gurgaon,4 Star,With Alcohol,HILTON GARDEN INN,VILLAGE ADAMPUR SECTOR - 50 GURGAON,201
+Haryana,Gurgaon,4 Star,With Alcohol,Park Plaza Gurgaon,"B Block, Sushant Lok-1, Gurgaon Haryana",45
+Haryana,Gurgaon,4 Star,With Alcohol,Park Premier (A Unit of Punihani International),"353-357, City Center, Sector 29",94
+Jharkhand,Dhanbad,4 Star,With Alcohol,SONOTEL HOTELS RESORTS PRIVATE LTD.,"OZONE GALLERIA MALL, FLOOR5, SARAIDHELA, Dhanbad",56
+Karnataka,Bangalore,4 Star,With Alcohol,ALOFT BENGALURU CESSNA BUSINESS PARK,"Aloft Bengaluru Cessna Business Park ,Cessna Business Park , Sarjapur- Marathahalli Outer Ring Road. Kadubeesanahalli, Bellandur Post, Bengaluru- 560103, Karnataka ",191
+Karnataka,Bangalore,4 Star,With Alcohol,Radisson Bengaluru City Center,"No. 2, Gangadhar Chetty Road, Ulsoor, Bengaluru",81
+Karnataka,Bangalore,4 Star,With Alcohol,Royal Orchid Central ,No 47-1 Manipal Centre Dickenson Road ,129
+Karnataka,Bangalore,4 Star,With Alcohol,ST MARKS HOTEL PVT LTD,"41, St.mark's Road Bangalore",96
+Karnataka,Belgaum,4 Star,With Alcohol,Fairfield by Marriott Belagavi,"132 7-9, Gogte Plaza, Kakti, Belagavi , Karnataka ",114
+Karnataka,Udupi,4 Star,With Alcohol,COUNTRY INN AND SUITES BY RADISSON MANIPAL,"A UNIT OF HIRANYA BUILDERS PVT LTD,RAJATHADRI ROAD, VIDYARATHNA NAGAR, SHIVALLI VILLAGE, MUDUPERAMPALLI MANIPAL UDUPI",54
+Kerala,Adoor,4 Star,With Alcohol,HOTEL NEW INDRAPRASTHA,"ADOOR PO, PATHANAMTHITTA",20
+Kerala,Adoor,4 Star,With Alcohol,HOTEL WYTE PORTICO,"Karuvatta, Adoor P.O, Pathanamthitta Dist.",19
+Kerala,Alappuzha,4 Star,With Alcohol,ASWINI RESIDENCY,"T.B.ROAD.CHERTHALA,",10
+Kerala,Alappuzha,4 Star,With Alcohol,Hotel Coral Heights,"Sree Krishna Temple Road, Ambalapuzha",20
+Kerala,Alappuzha,4 Star,With Alcohol,HOTEL MITHILA,"ERAMALLOOR P.O, ALAPPUZHA",10
+Kerala,Alappuzha,4 Star,With Alcohol,Karapuram Residency,"Karapuram Residency,kanichukulangara,Cherthala,",14
+Kerala,Alappuzha,4 Star,With Alcohol,SAUGANDHIKA RESIDENCY,"Nangiarkulangara,Haripad,",19
+Kerala,Alappuzha,4 Star,With Alcohol,SREELAKSHMI RESIDENCY,"SREELAKSHMI RESIDENCY, ELIPPAKKULAM, CHOONAD, VALLIKUNNAM P.O.,",19
+Kerala,Angamaly,4 Star,With Alcohol,HOTEL SURYA TOWERS,"RAILWAY STATION ROAD, ANGAMALY, ERNAKULAM DISTRICT",36
+Kerala,Calicut,4 Star,With Alcohol,Westway Hotel ( A Unit of Sams Property Developers and Hotels Pvt. Ltd.),"West Nadakkavu, Kozhikode.",61
+Kerala,Chalakudy,4 Star,With Alcohol,HOTEL SIDHARTHA (A UNIT OF DALE AND CARRINGTON INVESTMENT PVT LTD),"CHALAKKUDY PO, RAILWAY STATION ROAD, TRICHUR",27
+Kerala,Chalakudy,4 Star,With Alcohol,Kallely`s Park Inn,"Main Road, Chalakudy,",13
+Kerala,CHERAI,4 Star,With Alcohol,Blue Waters Cherai ,"Beach Road, Cherai ",25
+Kerala,Cherthala,4 Star,With Alcohol,HOTEL TRAVANCORE PALACE ,"11,TH MILE, CHERTHALA P.O.",17
+Kerala,Ernakulam,4 Star,With Alcohol,The Mercy Luxury Business Hotel,"M.G.Road, Ravipuram, Kochi",41
+Kerala,Ernakulam,4 Star,With Alcohol,Abaam Hotel,"opposite Vyttila Mobility Hub, Kaniampuzha road, Vyttila, Cochin",27
+Kerala,Ernakulam,4 Star,With Alcohol,CRB COCHIN PALACE,"55-1833 A1, A2, A3, A4, K P VALLON ROAD, KADAVANTHRA",16
+Kerala,Ernakulam,4 Star,With Alcohol,GRAND HOTEL,"M.G.ROAD,ERNAKULAM",38
+Kerala,Ernakulam,4 Star,With Alcohol,HOTEL CEE CEE TOWER,"HOTEL CEE CEE TOWER, CHANDRAMANGALAM JUNCTION, NORTH PARAVUR, ERNAKULAM - DIST, KERALA- STATE, PIN - 683513",20
+Kerala,Ernakulam,4 Star,With Alcohol,Hotel Cloud 9,"Bypass Road , Kothamangalam , Ernakulam.",18
+Kerala,Ernakulam,4 Star,With Alcohol,Hotel Crystal Plaza,Banerji Road Highcourt Junction Ernakulam,12
+Kerala,Ernakulam,4 Star,With Alcohol,HOTEL HILL VIEW,"CIVIL LANE ROAD, PADAMUGHAL,KAKKANAD,",33
+Kerala,Ernakulam,4 Star,With Alcohol,HOTEL N.M.ROYALE COUNTY,"K.R.L ROAD,THRIPUNITHURA,KOCHI",27
+Kerala,Ernakulam,4 Star,With Alcohol,Hotel Navarathna,"N H Bye Pass, Aluva",16
+Kerala,Ernakulam,4 Star,With Alcohol,Hotel Park Residency,"Near Civil Station, Seaport-Airport Road, Kakkanad, Ernakulam",27
+Kerala,Ernakulam,4 Star,With Alcohol,HOTEL VKJ INTERNATIONAL,"Thattekad Bird Sanctuary Via, Kuttampuzha, Kothamangalam, Ernakulam",21
+Kerala,Ernakulam,4 Star,With Alcohol,KABANI REGENCY,"karimugal,Ernakulam.",18
+Kerala,Ernakulam,4 Star,With Alcohol,Lotus 8 A'part hotels,"Opp. Cochin international airport, vapalassery p.o., Nedumbassery, Ernakulam",58
+Kerala,Ernakulam,4 Star,With Alcohol,LOVEDONS GRAND,"Karimugal,Ernakulam",10
+Kerala,Ernakulam,4 Star,With Alcohol,LOVELAND RESIDENCY,"Chottanikkara, Ernakulam",10
+Kerala,Ernakulam,4 Star,With Alcohol,PARAVOOR GALAXY HOTELS PRIVATE LIMITED ,"NEAR CHENDAMANGALAM JUNCTION, CHENDAMANGALAM ROAD, NORTH PARAVOOR, ERNAKULAM DISTRICT ",22
+Kerala,Ernakulam,4 Star,With Alcohol,PARAY RESIDENCY ,"PARAY RESIDENCY TB ROAD MUVATTUPUZHA ERNAKULAM, KERALA ",24
+Kerala,Ernakulam,4 Star,With Alcohol,POLAKULATH KARTHIKA REGENCY ,"34 - 1648 A,Edappally ,Cochin - 682024 ",10
+Kerala,Ernakulam,4 Star,With Alcohol,The Killians Boutique Hotel,"P .O. Box No. 22, River Road, Fort Kochi, Ernakulam",21
+Kerala,Ernakulam,4 Star,With Alcohol,The Renai Cochin (Formerly Known as Renaissance Cochin ),"Palarivattom,Cochin",48
+Kerala,Ernakulam,4 Star,With Alcohol,tHE VILLAGE INN,"CHERANGANAL JUNCTION,KOTTAPPADY,ERNAKULAM DIST",11
+Kerala,Ernakulam,4 Star,With Alcohol,VKG Group Holiday Hotel,"Devaswom Nada, Munambam Road, Cherai P O, Ernakulam",19
+Kerala,Guruvayoor,4 Star,With Alcohol,Polakulaths Sree Krishna Regency ,"XIX-163-1 to 5,XIX-136,137,138, East Nada, Opposite Private Bus Stand, Guruvayur, Kerala. Guruvayoor Guruvayoor",34
+Kerala,Idduki,4 Star,With Alcohol,SPICE VILLAGE,"Kumily Road, Thekkady - 685 509. Kerala, India",52
+Kerala,Idukki,4 Star,With Alcohol,Alanta Residency ,"Muttom P.O,Thodupuzha,Idukki Idukki Idukki ",17
+Kerala,Idukki,4 Star,With Alcohol,HOTEL JOANCE REGENCY,"NEAR KSRTC BUS STAND, THODUPUZHA",13
+Kerala,Idukki,4 Star,With Alcohol,HOTEL KUMILY GATE,"KUMILY.P.O, THEKKADY, IDUKKI DISTRICT",16
+Kerala,Idukki,4 Star,With Alcohol,MATHA REGENCY (A UNIT OF MATHA TOURIST HOME),"ADIMALI, IDUKKI DISTRICT",19
+Kerala,Kannur,4 Star,With Alcohol,"BROAD BEAN, KANNUR","CENTRAL BUS TERMINAL COMPLEX, THAVAKKARA, KANNUR DISTRICT.",17
+Kerala,Kannur,4 Star,With Alcohol,Hotel Samrat,"Court Road, Taliparamba P O, Kannur",27
+Kerala,Kannur,4 Star,With Alcohol,J.K Residency,"Kelakam, Kelakam P O, Kannur",19
+Kerala,Kasaragod,4 Star,With Alcohol,HOTEL HIGHWAY CASTLE,"Nullipaddy,Near Govt. Ayurveda Hospital, Kasaragod.",17
+Kerala,Kasaragod,4 Star,With Alcohol,J.K Residency,"Cheruvathur, Cheruvathur PO, Kasargod Dist.",19
+Kerala,KASARGOD,4 Star,With Alcohol,SREE GOKULAM NALANDA RESORTS (A UNIT OF SREE GOKULAM HOTELS INDIA PVT . LTD),"NH 17, NILESHWAR P O , KASARGOD",20
+Kerala,Kochi,4 Star,With Alcohol,Broad Bean Hotel,"Opposite KSEB,N.H Bypass,Vytila",47
+Kerala,Kochi,4 Star,With Alcohol,Elite Tourist Home,"PARAMARA ROAD,KOCHI ,KERALA STATE Kochi",22
+Kerala,Kochi,4 Star,With Alcohol,THE AVENUE REGENT,"62-1807, M G ROAD, ERNAKULAM",54
+Kerala,Kochi,4 Star,With Alcohol,Yuvarani Residency,"[A Unit of Ranimatha Arcade ] Jos Junction, M.G.Road,Ernakulam",38
+Kerala,Kodungallur,4 Star,With Alcohol,Hotel Park Residency,"Chandapura, Kodungallur, Thrissur",11
+Kerala,Kollam,4 Star,With Alcohol,All Season Backwater Resort,"All Season Backwater Resort, Near Thevally Bridge, Kadavoor, Mathilil P.O, Kollam",19
+Kerala,Kollam,4 Star,With Alcohol,HARISREE RESIDENCY,"PERUMPUZHA P O, KUNDARA",16
+Kerala,Kollam,4 Star,With Alcohol,Hotel Ambalakkara Regency,"Pulamon P O, Kottarakkara, Kollam",16
+Kerala,Kollam,4 Star,With Alcohol,Hotel Hillway,"Main Road, Kadakkal P.O., Kollam (Dist.)",10
+Kerala,Kollam,4 Star,With Alcohol,HOTEL KAVERY ,"MUKKADA, KUNDARA,KOLLAM",11
+Kerala,Kollam,4 Star,With Alcohol,HOTEL LEKSHMI,"HOTEL LEKSHMI, PARIPALLY P O, KOLLAM",11
+Kerala,Kollam,4 Star,With Alcohol,HOTEL NILA PALACE ,"CHEERANCAVU,EZHUKONE,KOLLAM",19
+Kerala,Kollam,4 Star,With Alcohol,HOTEL PANACEA VENTURES ,"KSRTC JUNCTION, PUNALUR, KOLLAM DISTRICT Kollam",22
+Kerala,Kollam,4 Star,With Alcohol,HOTEL RAJ REGENCY,"MC ROAD, NILAMEL, NILAMEL PO, KOLLAM DISTRICT, KERALA, PIN-691535",22
+Kerala,Kollam,4 Star,With Alcohol,Hotel Raj Residency,"N H 66,Kalluvathukkal,Kollam(Dist.).",22
+Kerala,Kollam,4 Star,With Alcohol,HOTEL REGANT LAKE PALACE ,"PUTHENTHURA P.O, NEENDAKARA, KOLLAM, KERALA",26
+Kerala,Kollam,4 Star,With Alcohol,HOTEL SAMUDRA,"MARKET JUNCTION, KOTTARAKARA P O ",11
+Kerala,Kollam,4 Star,With Alcohol,HOTEL SHILPA REGENCY (A UNIT OF SILPA HOSPITALITY PVT. LTD.),"M.C Road, Inchakkad, Mylom P.O, Kottarakkara,Kollam",12
+Kerala,Kollam,4 Star,With Alcohol,KAVERI INTERNATIONAL,"PUTHENKULAM P O , PARAVUR , KOLLAM",14
+Kerala,Kollam,4 Star,With Alcohol,Madathil Regency,"Kottiyam, Kollam Dist, Kerala ",21
+Kerala,Kollam,4 Star,With Alcohol,ROYALKALLADA RESIDENCY,"EAST KALLADA, KOLLAM",20
+Kerala,Kottayam,4 Star,With Alcohol,Emerald Regency,"Vakathanam P.O.,Njaliakuzhy Jn., Kottayam ",22
+Kerala,Kottayam,4 Star,With Alcohol,Hotel Arcadia,"T.B.Road, Kottaym",37
+Kerala,Kottayam,4 Star,With Alcohol,HOTEL SANYO,"KURUVILANGAD.P.O, KOTTAYAM ",10
+Kerala,Kottayam,4 Star,With Alcohol,Hotel Sears Private Limited,"M C Road, Nagampadam, Kottayam",11
+Kerala,Kottayam,4 Star,With Alcohol,SAKTHI TOURIST HOME,"BAKER JUNCTION, KOTTAYAM",23
+Kerala,Kottayam,4 Star,With Alcohol,Windsor Castle,"(A Unit of St.Mary's Hotels Pvt Ltd), M.C Road, Kodimatha,Kottayam-District, Kerala-State,Pin- 686013",56
+Kerala,Kottayam,4 Star,With Alcohol,Zodiac Heritage,"Companykada Road, Mundakayam",10
+Kerala,Kumarakom,4 Star,With Alcohol,Taj Kumarakom Resort and Spa,"Kavanattinkara, Kumarakom, Kottayam Kumarakom",28
+Kerala,Malappuram,4 Star,With Alcohol,HOTEL DEVALOKAM,"Ponani Road,Edappal-Post,Malappuram-Distict,Kerala-State",12
+Kerala,Malappuram,4 Star,With Alcohol,MALABAR HERITAGE [KMA Resorts Pvt Ltd],"Building No,34- 216,217,218. 4Th Stage By Pass, Manjeri",18
+Kerala,Malappuram,4 Star,With Alcohol,NIRMALLYAM RESIDENCY HOTELS PRIVATE LIMITED,"CHANGARAMKULAM, P.O.ALAMKODE, MALAPPURAM DISTRICT",21
+Kerala,Muvattupuzha,4 Star,With Alcohol,Hotel Central Fort,"Green Seven Hotels Private Limited,Vazhakulam(Post),Muvattupuzha.Ernakulam(Dist.).",10
+Kerala,Muvattupuzha,4 Star,With Alcohol,HOTEL KABANI INTERNATIONAL,"Near Private Bus Stand, Thodupuzha Road, Muvattupuzha, Ernakulam Dist,",13
+Kerala,Muvattupuzha,4 Star,With Alcohol,HOTEL NARENDRA CENTRAL,"HOTEL NARENDRA CENTRAL, NEAR KSRTC BUS STATION, M C ROAD, MOOVATTUPUZHA 686661",10
+Kerala,Palai,4 Star,With Alcohol,Armani Residency,"Ramapuram, Pala, Kottayam",12
+Kerala,Palai,4 Star,With Alcohol,MAREENA TOURIST HOME,"Erattupetta, Kottayam (DT),Kerala ",11
+Kerala,Perumbavoor,4 Star,With Alcohol,Aarya Palace,"M.C.Road, Pulluvazhy ,Perumbavoor,Ernakulam Dist.",16
+Kerala,Perumbavoor,4 Star,With Alcohol,JAIRAJ LODGE,"Perumbavoor P O, Ernakulam ",10
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,HOTEL CLASSIC AVENUE,"HOTEL CLASSIC AVENUE, T.C 25-1744(1), MANJALIKULAM ROAD, THAMPANOOR, THIRUVANATHAPURAM -695001",60
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,HOTEL DOUBLOON,"KALLAMBALAM, TRIVANDRUM",29
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,Hotel Karthika Residency ,"Karette, Vamanapuram P O , Thiruvanthapuram, Kerala, Pin - 695606",12
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,HOTEL LIBRA,"PAZHAYA ROAD, MEDICAL COLLEGE .P.O, TRIVANDRUM Thiruvananthapuram",22
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,Hotel Maurya Rajadhani,"GH Road, Statue, Trivandrum",39
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,HOTEL NEW INDRAPRASTHA,"KILIMANOOR PO, THIRUVANANTHAPURAM",22
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,HOTEL ROHINI INTERNATIONAL,"HOTEL ROHINI INTERNATIONAL, VITHURA P.O., ",11
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,HOTEL SAVITHRI,"CHIRAYINKEEZHU ROAD , ATTINGAL, KERALA",15
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,HOTEL SOORYA,"PALACE ROAD, ATTINGAL, TRIVANDRUM",11
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,HOTEL SREEPADMANABHA,"BALARAMAPURAM, TRIVANDRUM",18
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,SP GRAND DAYS,"PANAVILA JUNCTION, THYCAUD P O, THIRUVANANTHAPURAM",73
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,SREEVALSAM RESIDENCY ,"M C ROAD,VEMBAYAM ,TRIVANDRUM",17
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,SURENDRA TRIDENT HOTEL,"VATTIYOORKAVU, TRIVANDRUM - 695013",11
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,THE RESIDENCY TOWER,"PRESS ROAD, TRIVANDRUM",48
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,VAKKOM PALAZZO,"Hotel Vakkom Palazzo VP221A, Panayil Kadavu Road, Vakkom P.O, Chiranyinkeezhu Taluk, Thiruvananthapuram. Pin: 695308 ",24
+Kerala,Thiruvananthapuram,4 Star,With Alcohol,WINDSOR RAJADHANI,"(A UNIT OF RAJADHANI HOTELS PVT. LTD), T.C.No.5-2396(1, 2 & 3), Toll Junction, Kawdiar, Thiruvananthapuram - 695003",52
+Kerala,Thrissur,4 Star,With Alcohol,ATHIRAPPILLY RESIDENCY HOTELS INDIA PRIVATE LIMITED,"Athirappilly Road, Pariyaram PO, Chalakudy,",20
+Kerala,Thrissur,4 Star,With Alcohol,Chand V Regency,"Kaipamangalam,Thrissur",17
+Kerala,Thrissur,4 Star,With Alcohol,CHERUTHURUTHY ECO GARDENS,"A UNIT OF PEPCO RESORTS PRIVATE LIMITED, CHERUTHURUTHY.P.O, THRISSUR ",47
+Kerala,Thrissur,4 Star,With Alcohol,Hotel Anupama Legacy,"Main Road, Mala, Thrissur Dist, Thrissur",10
+Kerala,Thrissur,4 Star,With Alcohol,HOTEL LUCIYA PALACE,"A Unit of Kanichais Enterprises, Marrar Road, Thrissur District â€“ 680 001 ",32
+Kerala,Thrissur,4 Star,With Alcohol,Mamatha Motels,"Kechery-Post, Thrissur-Dist,Kerala",11
+Kerala,Thrissur,4 Star,With Alcohol,Niya Regency,"Kanjani Road, Chettupuzha .P.O Olarikkara ",20
+Kerala,Wayanad,4 Star,With Alcohol,Hotel Manasasaras,"Thalassery Road, Mananthavady, Wayand",12
+Maharashtra,Mumbai,4 Star,With Alcohol,Courtyard By Marriott Mumbai International Airport ( Unit of Kanakia Hotels And Resorts Pvt Ltd. ) ,"Courtyard By Marriott Mumbai International Airport ,CTS NO 215, Andheri Kurla Road, Andheri ( E), Mumbai Mumbai Mumbai Mumbai",299
+Maharashtra,Mumbai,4 Star,With Alcohol,Fariyas Hotel Mumbai,"25, Off Arthur Bunder Road, Colaba",93
+Maharashtra,Mumbai,4 Star,With Alcohol,Hotel Kohinoor Continental,"J B Nagar, Andheri Kurla Road, Andheri East, Mumbai ",137
+Maharashtra,Mumbai,4 Star,With Alcohol,HOTEL SAHIL PVT. LTD.,"292, J. B. BEHRAM MARG, MUMBAI CENTRAL, ",88
+Maharashtra,Mumbai,4 Star,With Alcohol,HOTEL TRANSIT PVT. LTD. (T24 RESIDENCY),"CHURCH ROAD, NEAR AIRPORT ROAD METRO STATION, MAROL, ANDHERI EAST, MUMBAI -400059",55
+Maharashtra,Mumbai,4 Star,With Alcohol,Peninusla Grand Hotel,"Sakinaka Junction, Lokmanya Tilak Nagar, Andheri East, Mumbai, Maharashtra ",81
+Maharashtra,Mumbai,4 Star,With Alcohol,Ramee Guestline Hotel,"Plot No.3, Kohinoor Road, Dadar (East), Mumbai - 400014",58
+Maharashtra,Mumbai,4 Star,With Alcohol,Ramee Guestline Hotel,"462,A.b Nair Road, Juhu",89
+Maharashtra,Mumbai,4 Star,With Alcohol,THE SHALIMAR HOTEL,"AUGUST KRANTI MARG, KEMPS CORNER, MUMBAI-400036",60
+Maharashtra,Mumbai,4 Star,With Alcohol,"Trident, Bandra Kurla","C-56, 'G' Block, Bandra Kurla Complex, Mumbai ",436
+Maharashtra,Nashik,4 Star,With Alcohol,COURTYARD MARRIOTT,"S.NO. 514A1+21TO191, PLOT NO. 1+2+5+6+7+8+9, NEAR WOCKHARDT HOSPITAL, MUMBAI NAK, MUMBAI AGRA HIGHWAY, VILLAGE NASHIK, TALUKA & DIST. NASHIK 422011",113
+Maharashtra,Navi Mumbai,4 Star,With Alcohol,Apeejay Surrendra Park Hotels Limited,"Plot No. 1, Sector 10, CBD Belapur, Navi Mumbai 400614",80
+Maharashtra,Navi Mumbai,4 Star,With Alcohol,"Ramada Navi Mumbai,Saikripa Foods Services Pvt.Ltd","156-Milienium Business Park, MIDC, Sector-2 Mahape , Navi Mumbai-400710 Navi Mumbai",99
+Odisha,Angul,4 Star,With Alcohol,HOTEL SHAKTI CONTINENTAL,"6TH LANE, AMALAPADA, HANUMAN BAZAR, ANGUL, ODISHA - 759122",84
+Odisha,Bhubaneswar*,4 Star,With Alcohol,Empires,"5 B, Saheed Nagar, Bhubaneswar.",58
+Odisha,Bhubaneswar*,4 Star,With Alcohol,Pal Heights,"Pal Heights,pl:J7, Jayadev Vihar, Bhubaneswar:751013,Odisha ",74
+Odisha,Bhubaneswar*,4 Star,With Alcohol,The New Marrion,6 Janpath,53
+Punjab,Ludhiana,4 Star,With Alcohol,THE PALM COURT ,"(A UNIT OF KHANNA INFRA BUILD PVT. LTD.) 20001 A SUKHDEV NAGAR, FEROZEPUR ROAD, ",41
+Rajasthan,Sawai Madhopur,4 Star,With Alcohol,Sawai Vilas (A unit of The footprints ranthambhore),"Sawai Vilas,Khasra Number 4581,4582,4587,4589,Village Khilchipur,tehsil Sawai Madhopur-322001,Rajasthan",60
+Tamil Nadu,chennai,4 Star,With Alcohol,Hotel Courtyard By Marriott,"564,Anna Salai,Teynampet,Chennai-600018 chennai",242
+Tamil Nadu,Chennai*,4 Star,With Alcohol,EHOTEl,"49&50 Whites Road, Royapettah",44
+Tamil Nadu,Chennai*,4 Star,With Alcohol,Gokulam Park Sabari,"33, IT Expressway, Rajiv Gandhi Salai (OMR), Navalur",85
+Tamil Nadu,Chennai*,4 Star,With Alcohol,MERCURE CHENNAI SRIPERUMBUDUR,"CP-8, SIPCOT Inductrial Park, Oragadam, Sriperumbudur, Chennai-602105, Tamil Nadu",93
+Tamil Nadu,Chennai*,4 Star,With Alcohol,Novotel Chennai Chamiers Road,"No.11, Chamiers Road, Nandanam, Chennai",110
+Tamil Nadu,Chennai*,4 Star,With Alcohol,"The Raintree, Anna Salai (A Unit of Ceebros Hotels Pvt. Ltd.)","No: 636, Anna Salai, Teynampet, Chennai - 600035.",230
+Tamil Nadu,Kancheepuram,4 Star,With Alcohol,REGENTA CENTRAL RS,"No. 13-1A, The Marina Mall, OMR Road, Near Navalur Tollgate, Egattur, Chengelpet-603103",120
+Tamil Nadu,Madurai,4 Star,With Alcohol,COURTYARD BY MARRIOTT,"(A Unit of 'Sangu Chakra Hotels Pvt. Ltd), No.168,Alagar Kovil Road, Next to Circuit House",82
+Tamil Nadu,Salem,4 Star,With Alcohol,RADISSON SALEM (A unit of VETRIVEL EXPLOSIVES PRIVATE LIMITED-HOTEL DIVISION),"176, KENNEDY NAGAR, SALEM-636 005 Salem",127
+Tamil Nadu,Trichy,4 Star,With Alcohol,SRM HOTEL Pv Ltd ,"Race Course Road , Khajamalai, Trichy ",110
+Telangana,Gachibowli,4 Star,With Alcohol,Duet India Hotels (Hyderabad) Private Limited,Road No. 2 | Financial District | Gachibowli Hyderabad | Telangana 500032 | India T +914045416699 Gachibowli,232
+Telangana,HYDERABAD,4 Star,With Alcohol,Mercure Hyderabad KCP,"6-3-551, Banjara Hills Main Rd, Somajiguda, Hyderabad, Telangana 500082 HYDERABAD",128
+Telangana,Hyderabad,4 Star,With Alcohol,Sitara,"Hotel Sitara, Ramojii Film City, Anajpur, RR District - 501512",171
+Telangana,Hyderabad,4 Star,With Alcohol,The Golkonda Hotel,"The Golkonda Hyderabad Banjara Hills, Masab Tank, Hyderabad â€“ 500 028 Telangana, India Email : infothegolkondahotel.com Telephone : 91-40-66110101 Fax : 91-40-66110102 Toll Free : 1800 425 0202 Delhi Sales Office : 9133330344 Email : delhithegolkondahotel.com",141
+Uttar Pradesh,Lucknow*,4 Star,With Alcohol,Fairfield By Marriott Hotel,"Gemini Continental Pvt. Ltd. (Unit 2), Vibhuti Khand, Gomti Nagar, Opp Indira Gandhi Pratishthan, Lucknow, Uttar Pradesh",222
+Uttar Pradesh,Lucknow*,4 Star,With Alcohol,FAIRFIELD BY MARRIOTT LUCKNOW,"FAIRFIELD BY MARRIOTT LUCKNOW OPP. INDIRA GANDHI PRATISTHAN, VIBHUTI KHAND, GOMTI NAGAR",222
+Uttar Pradesh,Noida,4 Star,With Alcohol,"FORTUNE INN GRAZIA, unit of ANGEL BABY PRODUCTS PVT. LTD.","Plot No. 1A, Block I, Sector 27, Noida - 201301, Uttar Pradesh, India, NOIDA, Uttar Pradesh - 201301, India",42
+Uttar Pradesh,Shahjahanpur,4 Star,With Alcohol,THE GRAND ARC HOTEL (UNIT OF SHRI BALAJI HOSPITALITY),"SH-29 , NAVADA INDERPUR , SHAHJAHANPUR , UTTAR PRADESH 242226",61
+Uttarakhand,Ramnagar,4 Star,With Alcohol,Aahana The Corbett Wilderness (Unit of Corbett Nature Reserve),"Village Sawaldey West , Ramnagar , Nainital , Uttrakhand-244715 ",46
+West Bengal,Baharampur,4 Star,With Alcohol,FAME HOTELS PVT LTD,"24A7 KAILKA PUR ROAD, SHILPO TALUK,",52
+West Bengal,Kolkata,4 Star,With Alcohol,AAURIS-UNIT OF MODERN INNS PRIVATE LIMITED,"4 ROBINSON STREET, KOLKATA 700017",56
+West Bengal,Kolkata,4 Star,With Alcohol,ALTAIR(A UNIT OF AMBUJA REALTY DEVELOPMENT LTD),"ECOCENTRE, GROUND FLOOR LOBBY, 19TH, 20TH AND 21ST FLOOR, EM-4, EM BLOCK, SECTOR-V, SALT LAKE",23
+West Bengal,Kolkata,4 Star,With Alcohol,Hotel Monotel,"DM-2, Sector-V, Salt Lake, Beside Gate No. 4 of Wipro ",109
+West Bengal,Kolkata,4 Star,With Alcohol,HOTEL O2 OXYGEN,641 MONDALGANTHI RAMAKRISHNAPALLY VIP ROAD KAIKHALI KOPLKATA 700052,109
+West Bengal,Kolkata,4 Star,With Alcohol,HOTEL O2 OXYGEN,"641 MONDOL GANTHI RAMAKRISHNAPALLY , VIP ROAD , KAIKHALI, KOLKATA 700 052",109
+West Bengal,Kolkata,4 Star,With Alcohol,New Kenilworth Hotel Pvt. Ltd.,"1&2, Little Russel Street",101
+West Bengal,Kolkata,4 Star,With Alcohol,"THE ASTOR, KOLKATA","15, SHAKESPEARE SARANI, ",33
+West Bengal,Kolkata,4 Star,With Alcohol,THE SONNET,"BLOCK DD, PLOT NO-8, SECTOR-1, SALT LAKE, KOLKATA - 700 064.",64
+West Bengal,Purulia,4 Star,With Alcohol,HOTEL AKASH SAROVAR,"East Lake Road, Near Surya Mandir, Purulia",34
+Andaman And Nicobar,Port Blair*,4 Star,Without Alcohol,HOTEL AQUAGREEN A UNIT OF SOUTHERNS HOLDINGS AND INVESTMENTS CHENNAI PRIVATE LIMITED,"KEYS SELECT HOTEL AQUAGREEN,OPPOSITE TO AIRPORT EXIT GATE, LAMBA LINE,JUNGLI GHAT. Port Blair*",48
+Andhra Pradesh,Visakhapatnam,4 Star,Without Alcohol,PALM BEACH HOTEL,D-NO- 6-24-3 BEACH ROAD VISHAKAPATNAM,74
+Chhattisgarh,Raipur*,4 Star,Without Alcohol,Ariena - The Boutique Hotel,"608-3, Opp Oswal Petrol Pump, VIP Square, ",50
+Chhattisgarh,Raipur*,4 Star,Without Alcohol,HOtel Vennington Court,"Fafadih Chowk, Beside RAheja Tower, Raipur",57
+Delhi,Delhi,4 Star,Without Alcohol,Svelte Hotel And Personal Suites,"A-3, District Center, Select Citywalk, Saket",97
+Delhi,New Delhi,4 Star,Without Alcohol,Crowne Plaza New Delhi Rohini,CROWNE PLAZA NEW DELHI ROHINI TWIN DISTRICT CENTRE SECTOR-10 ROHINI NEW DELHI-110085,183
+Gujarat,Ahmedabad,4 Star,Without Alcohol,BINORI HOTEL PVT LTD,"22.1.B. NEAR MUKTIDHAM,THALTEJ CROSS ROAD,S.G.HIGHWAY,AHMADABAD",69
+Gujarat,Ahmedabad,4 Star,Without Alcohol,Gulmohar Greens - Golf Country Club Limited,"Gulmohar Greens - Golf & Country Club Limited - next to ""Gokul-Vrindavan"", off Sarkhej - Sanand Highway, Village: Kolat, Taluka: Sanand, District: Ahmedabad",54
+Gujarat,Ahmedabad,4 Star,Without Alcohol,hotel kristar llp,plot no 233 opp sunvilla zydus hebadpur crossing thaltej ahmedabad gujarat india ,20
+Gujarat,Ahmedabad,4 Star,Without Alcohol,HOTEL RAMADA UNIT OF HOTEL SANKALP RECREATION PVT. LTD ,"SURVEY NO.948,CORPORATE ROAD,PRAHLADNAGAR,OFF S.G HIGHWAY,AHMEDABAD-380015 ",90
+Gujarat,Ahmedabad,4 Star,Without Alcohol,HOTEL SILVER CLOUD,"HOTEL SILVER CLOUD, FP NO 726 & 727, OPP. GANDHI ASHRAM AND DANDI BRIDGE, WADAJ, AHMEDABAD",73
+Gujarat,Ahmedabad,4 Star,Without Alcohol,The Metropole Hotel,R.T.O. Circle. Subhash Bridge. Ahmedabad.,70
+Gujarat,Anjar,4 Star,Without Alcohol,"The Fern Royal Farm Resort, Unit of Real Lifespace LLP","Plot No.66, Royal Riviera Farm, Survey No.258, Anjar Bhuj Highway, Opp. Shreeji Petrol Pump",38
+Gujarat,Dwarka,4 Star,Without Alcohol,"Lemon Tree Premier, Dwarka","""Varun Enterprise"" Nageshwar Rd, near Iskon Gate, Dwarka, Gujarat 361335",109
+Gujarat,Dwarka,4 Star,Without Alcohol,VITS Devbhumi Hotel,"Okha State Highway, Near Ravla Lake, Opposite Post Office",57
+Gujarat,Gandhidham,4 Star,Without Alcohol,Radisson Hotel Kandla,"A Unit of RAJVEE RESORTS AND HOTELS PVT.LTD) S.NO.681, OPP: RAMBAGH WATER TANK, NR. RLY CROSSING, GALPADAR, GANDHIDHAM (KUTCH) PIN-370201",115
+Gujarat,Gandhidham,4 Star,Without Alcohol,Ramada by Wyndham(A Unit of BDH Hotel And Resort),"Survey No.496-P-35, Shinay Gandhidham",56
+Gujarat,Gandhinagar,4 Star,Without Alcohol,NARAYANI HEIGHTS,"NR.APOLLO HOSPITAL,AHMEDABAD-GANDHINAGAR ROAD,BHAT, AHMEDABAD-GANDHINAGAR.",111
+Gujarat,Jamnagar,4 Star,Without Alcohol,HOTEL FORTUNE PALACE,"DIGJAM CIRCLE, AIRPORT ROAD, JAMNAGAR",45
+Gujarat,Jamnagar,4 Star,Without Alcohol,HOTEL SHREEJI,"HOTEL SHREEJI, KRISHNARAJ BUILDCON, NEAR AMBAR CROSS ROAD, INDIRA GANDHI MARG, JAMNAGAR-361001",60
+Gujarat,Jamnagar,4 Star,Without Alcohol,Lords Inn A Unit of Tulsi Enterprise,"Revenue Survey No.177, Plot No-3, Jamnagar Khambhaliya Highway, Moti Khavdi, Jamnagar",58
+Gujarat,Jamnagar,4 Star,Without Alcohol,"The Fern Residency, Unit of JCR Cinema Private Limited","Survey No. 612, Theba Chokdi, Jamnagar Dwarka Bypass Road",49
+Gujarat,Junagadh,4 Star,Without Alcohol,BELLEVUE SAROVAR PORTICO,"BELLEVUE SAROVAR PORTICO, RAILWAY STATION ROAD, JUNAGADH, GUJARAT - 362001, LANDMARK - NEAR JUNAGADH RAILWAY STATION. ",81
+Gujarat,Kevadiya,4 Star,Without Alcohol,Sardar Sarovar Resort,"Plot 26-32, Opp Kevadiya Railway Station",169
+Gujarat,Morvi,4 Star,Without Alcohol,"The Fern Residency, Morbi","Pacific Business Park, 8-A, Kandla National Highway, Mahendranagar, Morbi",51
+Gujarat,Pardi,4 Star,Without Alcohol,REGENTA CENTRAL HARSHA,"Harsha Multiservices Pvt Ltd. S.No.292, Paiki 11, Plot no.3, Opposite Raymond Factory, National Highway 48, Village Khadki, Taluka Pardi, District Valsad-396185, State Gujarat.",57
+Gujarat,Rajkot,4 Star,Without Alcohol,THE FERN RESIDENCY ,DELUXE CINEMA CHOWK KUWADAVA ROAD ,69
+Gujarat,Vadodara,4 Star,Without Alcohol,Hotel Express Towers,Express Hotels Pvt Ltd RC Dutt Rpad ,65
+Gujarat,Vadodara,4 Star,Without Alcohol,"Tara Suns, Unit of Shree Ram Krupa Enterprise","Behind Yash Complex, Besides Sonal Park, GERI Road, Gotri",22
+Gujarat,Veraval,4 Star,Without Alcohol,The Holiday Resorts,"National Highway no. 8 D, Somnath Bypass Road, Prabhas Patan(Veraval)",59
+Kerala,Alappuzha,4 Star,Without Alcohol,CAMELOT HOTEL,"NH 47 (NH 66) Pathirapally PO, Alappuzha",24
+Kerala,alleppey,4 Star,Without Alcohol,HOTEL BONANZA,"NH 66,MAIN ROAD,PARAVOOR JUNCTION,ALAPPUZHA",26
+Kerala,Attingal,4 Star,Without Alcohol,Hotel Pearl Palace,"Royal Tower, Mamom, Kizhuvilam (Post), Attingal, Trivandrum",11
+Kerala,Calicut,4 Star,Without Alcohol,Hotel Emperor ( A Unit of Adivaram Leisure Hotels LLP ),"Ambayathode, Thamarassery, Kozhikode",10
+Kerala,Calicut,4 Star,Without Alcohol,Hotel Sree Ram ( A Unit of Murugeshwara Ventures LLP),"B.P BUILDING, P.C. JUNCTION, MUKKAM, KOZHIKODE - DIST ",11
+Kerala,Calicut,4 Star,Without Alcohol,Vascodagama Beach Resort,"Chemmanchery Village, Kappad p o, Calicut",49
+Kerala,Changanassery,4 Star,Without Alcohol,NEW YORK SQUARE,"KOTTAMURI, TRIKODITHANAM, CHANGANACHERRY, KOTTAYAM",11
+Kerala,Cherthala,4 Star,Without Alcohol,HOTEL ABAAM PEARL,"N.C.C. Junction,Kuthiyathodu,Thuravoor,Cherthala,Alapuzha ",11
+Kerala,Ernakulam,4 Star,Without Alcohol,ARCTIC HOTELS AND RESORTS PVT LTD,"49-322 A, NH BYPASS, VYTILA PO COCHIN - 682019, KERALA",21
+Kerala,Ernakulam,4 Star,Without Alcohol,Cityinn ,"Bank Road, Aluva",12
+Kerala,Ernakulam,4 Star,Without Alcohol,CORAL REEF,"ST.BENEDICT ROAD, OPP. NORTH RAILWAY STATION,COCHIN",48
+Kerala,Ernakulam,4 Star,Without Alcohol,FLORA HOTELS AND RESORTS INDIA PRIVATE LIMITED,"Opp:International Terminal- Kochi Airport,Nedumbassery,Nayathodu(PO),Kochi-683572",60
+Kerala,Ernakulam,4 Star,Without Alcohol,Hotel Abaam Chelsea (A Unit of Abaam Hospitality Pvt. Ltd),"Sea Port â€“ Air Port Road, Kakkanad, Near Bharath Matha College, Ernakulam",26
+Kerala,Ernakulam,4 Star,Without Alcohol,HOTEL KINGS EMPIRE (A Leased Property from Ozone Ventures),"HOTEL KINGS EMPIRE (A Leased Property from Ozone Ventures), St Benedict Road, Ernakulam North, Ernakulam 682018",24
+Kerala,Ernakulam,4 Star,Without Alcohol,HOTEL TRIBUTE ROYALE,"HOTEL TRIBUTE ROYALE (A property obtain on lease by the firm T M Kuruvilla & Company from Jacob T Kuruvilla), 6-65A, NH 66, Kannadikkadavu, Maradu PO, Ernakulam. 682304",20
+Kerala,Ernakulam,4 Star,Without Alcohol,HOTEL WHITECITY,"SOUTH NALUVAZHY, NORTH PARAVOOR, ERNAKULAM DISTRICT",21
+Kerala,Ernakulam,4 Star,Without Alcohol,North Seven,"Paramara Road Ernakulam - North Ernakulam,Kerala",41
+Kerala,Ernakulam,4 Star,Without Alcohol,Pukkattupady Hotels and Resorts Private LTD,"X613 A, 613 B, Pukkattupady -Post Ernakulam -District Kerala Ernakulam",10
+Kerala,Ernakulam,4 Star,Without Alcohol,RAAS RESIDENCY,"113524, NEAR THOPPUMPADY JUNCTION, THOPPUMPADY, ERNAKULAM, ",10
+Kerala,Ernakulam,4 Star,Without Alcohol,ROYAL RESIDENCY - A unit of Royale Residency,"INFOPARK ROAD, KAKKANAD, KOCHI Ernakulam",47
+Kerala,Ernakulam,4 Star,Without Alcohol,Silvertips [E.V.M.HOTELS PRIVATE LIMITED],"Kozhippilly P.O.Kothamangalam,Ernakulam Dist",29
+Kerala,Ernakulam,4 Star,Without Alcohol,SPAN INTERNATIONAL,"RAJAJI ROAD ,ERNAKULAM, KERALA",39
+Kerala,Ernakulam,4 Star,Without Alcohol,SUGAR ARYABHANGY BUSINESS HOTEL,"NH BYPASS, NEAR INTUC JUNCTION NETTOOR, MARADU,",41
+Kerala,Ernakulam,4 Star,Without Alcohol,THE AVENUE CENTER HOTEL,"PANAMPILLY NAGAR, ERNAKULAM",20
+Kerala,Ernakulam,4 Star,Without Alcohol,THE BLUEMOON RESIDENCY,"(A UNIT OF NEW MATHA RESIDENCY), ATLANTA COMPLEX, ALUVA-MUNNAR BYPASS ROAD, KOTHAMANGALAM, KOCHI",10
+Kerala,Ernakulam,4 Star,Without Alcohol,The Times Hotel,"2nd Floor, Thuruthummel Prime Building, Infopark Road, Kusumagiri P. O., Kakkanad, Cochin",18
+Kerala,Ernakulam,4 Star,Without Alcohol,VKJ INTERNATIONAL,"AM ROAD, PERUMBAVOOR",14
+Kerala,Ernakulam,4 Star,Without Alcohol,VKL Leisure Inn ,"VKL Leisure Inn Road,Near Nairs Hospital,N.H.By Pass Road,Kochi",51
+Kerala,Idduki,4 Star,Without Alcohol,HOTEL CINNAMON THEKKADY ,"Opp.Holiday Home, Kumaily P O ,Idukki, Pin :-685531 Idduki",84
+Kerala,Idduki,4 Star,Without Alcohol,"Lemongrass Inn, Rajakad","Rajakad P O, Idduki ",21
+Kerala,Idduki,4 Star,Without Alcohol,Terrace Greens - A Sterling Holidays Resort,"Chinnakkanal Village, Chinnakkanal Post, Munnar, Idduki Idduki",76
+Kerala,Idukki,4 Star,Without Alcohol,HOTEL WOOD NOTE (A Unit of Southern Heritage Pvt. Ltd),"Thekkady , Idukki Dist. ",28
+Kerala,Idukki,4 Star,Without Alcohol,Vee Tee Midtown ( A Unit of Adimaly Hotels and Resorts Pvt Ltd ),"15-1113,1114, Vee Tee Tower , Adimaly",15
+Kerala,Kannur,4 Star,Without Alcohol,HOTEL EMPEROR,"A UNIT OF LOCANDA INTERNATIONAL LLP, VAIDHYAR PEEDIKA-AIRPORT ROAD, MELE CHOVVA- KANNUR",10
+Kerala,Kannur,4 Star,Without Alcohol,HOTEL HORIZON INTERNATIONAL ,"MOTTAMMAL MALL ,CHIRAVAKKU,TALIPARAMBA,KANNUR ,670141 ",36
+Kerala,Kannur,4 Star,Without Alcohol,Well View Residency,"Near Muthappan Temple, Parassinikadavu,Kannur.",31
+Kerala,Karunagapally,4 Star,Without Alcohol,Amrit Regency,"Thodiyoor North P.O.,Karunagappally, ",11
+Kerala,Karunagapally,4 Star,Without Alcohol,MEMORIES INN,"NH66,KS Puram,Puthentheruvu,Karunagappally",11
+Kerala,Kochi,4 Star,Without Alcohol,HOTEL EIGHTH BASTION (UNIT OF FORT KOCHI HOTELS PVT LTD),1259 NAPIER STREET Kochi,19
+Kerala,Kochi,4 Star,Without Alcohol,HOTEL HILL HEIGHTS,"KUMARAPURAM.P.O, PALLIKKARA, KOCHI",11
+Kerala,Kochi,4 Star,Without Alcohol,KENT BAYWATCH SUITES,"Kozhikoodu,Junction,Edakochi,Ernakulam Dist.",40
+Kerala,Kochi,4 Star,Without Alcohol,THE CLASSIK FORT,"NEAR GANDHI SQUARE,PETTAH,POONITHURA,KOCHI",16
+Kerala,Kollam,4 Star,Without Alcohol,All Season Ayurvedic Resort,"All Season Ayurvedic Resort, Thangassery, Kollam",43
+Kerala,Kollam,4 Star,Without Alcohol,ANDREA REGENCY,"MANJALLOOR, PATHANAPURAM PO",11
+Kerala,Kollam,4 Star,Without Alcohol,HOTEL GREEN FORT,"SANTHALAYAM JUNCTION, MANAKKARA, BHARANIKAVU, SASTHAMCOTTA",12
+Kerala,Kollam,4 Star,Without Alcohol,S R PALACE THENMALA,"S R PALACE, 40th MAIL, THENMALA P.O., ",19
+Kerala,Kottayam,4 Star,Without Alcohol,DREAMLAND RESIDENCY,"PAMPADY.P.O, KALACHANTHA, KOTTAYAM",11
+Kerala,Kottayam,4 Star,Without Alcohol,ISWARYA TOURIST HOME P LTD,"Azad lane, Thirunakkara ,Kottayam",21
+Kerala,Kottayam,4 Star,Without Alcohol,JOYEES INN,"MANNANAM, NEENDOOR ROAD, KOTTAYAM",10
+Kerala,Kottayam,4 Star,Without Alcohol,RAJ REGENT,"MANARCADU.P.O, KOTTAYAM",12
+Kerala,Kozhikode,4 Star,Without Alcohol,MEDORA HOTEL,"Opposite Stadium,Pavamani Road,Kozhikode.",40
+Kerala,Kozhikode,4 Star,Without Alcohol,YASH INTERNATIONAL,"MAVOOR ROAD , KOZHIKODE",32
+Kerala,Kumarakom,4 Star,Without Alcohol,NIRAAMAYA RETREATS KUMARKOM PRIVATE LIMITED ,"NIRAAMAYA RETREATS KUMARKOM PVT.LT D,SURVEY NO.3005,3006-5,3017-4,3 KOTTAYAM, KERALA ,PIN-686563",27
+Kerala,Malappuram,4 Star,Without Alcohol,Hotel Jaas Continental,"Changaramkulam, Nannamukku P O, Malapuram Dist",14
+Kerala,Malappuram,4 Star,Without Alcohol,Le Moshe Inn,Chelambra Malappuram,24
+Kerala,Malappuram,4 Star,Without Alcohol,LUXORA HOTEL AND SPA ,"A Unit of Corniche Hospitality Private Limited, N H Road, Mamburam.P.o, A R Nagar, Valiyaparamba, Thalappara, Malappuram District â€“ 676306",20
+Kerala,Malappuram,4 Star,Without Alcohol,Rouba Residency Hotels (P) Ltd,"C.V.Junction, Ponnani-Post, Malappuram -District, Kerala, Pin - 679577.",20
+Kerala,Munnar,4 Star,Without Alcohol,DEVONSHIRE GREENS,"DEVONSHIRE GREENS,ATTUKAD WATERFALLS ROAD,PALLIVASAL,P.O.MUNNAR,IDUKKI DIST,KERALA",40
+Kerala,Munnar,4 Star,Without Alcohol,Silvertips [E V M Hotels private Limited],"Old Munnar,Munnar,Idukki District",60
+Kerala,Muvattupuzha,4 Star,Without Alcohol,Hotel Kabani Palace,"Near KSRTC Junction,M.C.Road,",15
+Kerala,Muvattupuzha,4 Star,Without Alcohol,Raj Riveria Hotels,"NH 85, East Kadathy, Market P.O, Muvattupuzha, Ernakulum ",14
+Kerala,Nedumangad,4 Star,Without Alcohol,Hotel Indraprastha (Owned by Hotel Mythri),"Hotel Indraprastha (Owned by Hotel Mythri), Near KSRTC Bus Station, Nedumangad, Thiruvananthapuram 695541",10
+Kerala,NEDUMBASSERY,4 Star,Without Alcohol,Kavala Castle A unit of Aluva Hotels And Resorts,"Building No:318 (1),Paravoor Kavala,Aluva,Ernakulam Dist Pincode-683 108",10
+Kerala,Neyyattinkara,4 Star,Without Alcohol,TVM NEYYAR RESIDENCY LLP,"N.H.47, Alummoodu Junction,Neyyatinkara",11
+Kerala,Palakkad,4 Star,Without Alcohol,NEW HOTEL KOTTARAM REGENCY,"EZHUMANGAD, ARANGOTTUKARA, PALAKKAD DISTRICT",12
+Kerala,Pathanamthitta,4 Star,Without Alcohol,Bhagavath Residency,Elevumthitta,11
+Kerala,Pathanamthitta,4 Star,Without Alcohol,URBAN INN (Owned by KL-3 Urban Inn Pvt Ltd),"URBAN INN (Owned by KL-3 Urban Inn Pvt Ltd), Elavaumthitta PO, Pathanamthitta, Kerala. 689625",10
+Kerala,Perinthalmanna,4 Star,Without Alcohol,VALLUVANAD RESIDENCY,"DOOR NO: 15 236 - i ,(NEAR MELATTUR RAILWAY STATION),MELATTUR PO,MALAPURAM Dt. KERALA - 679326",11
+Kerala,Perumbavoor,4 Star,Without Alcohol,Aaja Tower,"Rayamangalam,Permbavoor, ",11
+Kerala,Sultan Bathery,4 Star,Without Alcohol,Hotel Emperor (A Unit of Sultanbethery Leisure LLP),"Chungam, Sultan bathery District ",12
+Kerala,Sultan Bathery,4 Star,Without Alcohol,Jet Paark Resort Hotel[A unit of Jet Paark Hotels and Resorts],"S.B.T Road,Mullankunnu,Sulthan Bathery.P.O.Wayanad Dist",25
+Kerala,Thekkady,4 Star,Without Alcohol,PEPPERVINE,"THAMARAKKANDOM ROAD,KUMALY, THEKKADY P.O.IDUKKI DIST,KERALA STATE",43
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,AMBARA SUITES,"T C 91- 811 (1), Venpalavattom Anayara P O Thiruvananthapuram Kerala , Pin -695029 ",18
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,Avoki Resorts,"Kinfra Film & Video Park Sainik School (PO), Chanthavila Kazhakootam, Thiruvananthapuram ",25
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,BIVERAH HOTEL AND SUITES,"G.G. HOSPITAL ROAD, KUMARAPURAM, MEDICAL COLLEGE.P.O, THIRUVANANTHAPURAM ",38
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,HOTEL CENTRAL PLAZA ,"VIII, 1053(1), Opposite Revenue Tower , Nedumangadu, Thiruvanthapuram",14
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,HOTEL ROYAL PARK,"KUNNATHUKAL, KARAKONAM P O",11
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,HOTEL SABARI PARK,"POOJAPURA, TRIVANDRUM",16
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,Hotel Thamburu International,"Aristo Junction, Near Railwaystation, Thiruvanathapuram",15
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,NAKSHATRA RESIDENCY,"NAKSHATHRA RESIDENCY ,,ATTINGAL ROAD,VENJARAMOODU,THIRUVANATHAPURAM",12
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,R B Palace,"T B Junction , Neyyattinkara, Thiruvananthapuram ",25
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,SFS HOMEBRIDGE HOTEL AND SUITES,"SFS Pyramid , Karimanal P O , N H 66 Bypass, Near Techno Park , Trivandrum",27
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,THE MONARCH HOTELS AND CONVENTION CENTRE ,"Kazhakkuttom - Pothencode Road, Pothencode PO, Trivandrum District , Kerala State , Pin -695584 ",20
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,Uday Suites,"Kartikeyam,TC 34757, BeachP.O,Shanghumughom Thiruvananthapuram 695007 Kerala ",45
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,V S C LAGOONA RETREATS PVT. LTD.,",Pozhikkara Beach , Pachalloor P O, Thiruvallom Thiruvananthapuram ",11
+Kerala,Thiruvananthapuram,4 Star,Without Alcohol,Vivin Luxury Suites,"94 2860, Pattoor, Pettah",47
+Kerala,Thodupuzha,4 Star,Without Alcohol,Hotel Ceasar Palace,"M G Square, Thodupuzha , Idukky",14
+Kerala,Thrissur,4 Star,Without Alcohol,AMBAL REGENCY,"Building No:1-33B (Magic Screenz Entertainment) Amballor, Post -Alagappanagar Thrisur -District,Kerala Thrissur Thrissur",10
+Kerala,Thrissur,4 Star,Without Alcohol,Dass Regency Pvt Ltd,Near Railway overbridge Kanimangalam P.O Thrissur Thrissur Thrissur,12
+Kerala,Thrissur,4 Star,Without Alcohol,MOTHIMAHAL RESIDENCY,"M G ROAD, NEAR KOTTAPURAM BRIDGE, THRISSUR",22
+Kerala,Thrissur,4 Star,Without Alcohol,PANATTU REGENCY,"KUZHIKKATTUSSERY P O, THRISSUR DIST",14
+Kerala,Thrissur,4 Star,Without Alcohol,SREEPATHI INDRAPRASTHA,"SREEPATHI INDRAPRASTHA, MAMMIYOOR JUNCTION, GURUVAYOOR, THRISSUR",36
+Kerala,Thrissur,4 Star,Without Alcohol,Vidya Residency,"Calicut Road Karikkad -Post Perumbilavu,Thrissur -District, Kerala",12
+Kerala,Wayanad,4 Star,Without Alcohol,BROOKSIDE LAKKIDI,LAKKIDI P O,30
+Kerala,Wayanad,4 Star,Without Alcohol,HOTEL INDRIYA WAYANAD,"Near New Bus stand Terminal, Main Road, Kalpetta,Wayanad Dist",25
+Kerala,Wayanad,4 Star,Without Alcohol,Jo Meriya International Pvt Ltd,"Iv - 642,Meriya,Meriya Junction Pulpally, Wayanad ",12
+Maharashtra,Mumbai,4 Star,Without Alcohol,IJB HOTELS PRIVATE LIMITED,"4277, I. B. PATEL ROAD, VILLAGE PAHADI, GOREGAON EAST",88
+Maharashtra,Shirdi,4 Star,Without Alcohol,Shraddha Resorts Pvt Ltd,"Keys Hotel TempleTree, Plot No.1, S. No. 99, Ring Road, Behind Sai Ashram, Shirdi - 423109 ",87
+Odisha,Bhubaneswar*,4 Star,Without Alcohol,PAL HEIGHTS,HOTEL PALHEIGHTS,74
+Punjab,Amritsar,4 Star,Without Alcohol,RAMADA AMRITSAR,117-1 HALL BAZAR INSIDE HALL GATE,145
+Punjab,Ludhiana,4 Star,Without Alcohol,HOTEL MAHARAJA REGENCY ,"Aarti Chowk, Ferozepur Road, Ludhiana, Punjab 141001",63
+West Bengal,Asansol,4 Star,Without Alcohol,SWARN HOTELS LLP,"30, G.T ROAD, USHAGRAM, ASANSOL",60
+West Bengal,Darjiling,4 Star,Without Alcohol,Ramada Darjeeling,"2-3 Auckland Villa, Gandhi Road , Darjeeling",62
+West Bengal,Murshidabad,4 Star,Without Alcohol,SATEES HOTELS AND RESORTS ,"351 CHANDNI, LALBAG, MURSHIDABAD, 742149",21
+West Bengal,Purulia,4 Star,Without Alcohol,KUSHAL PALLI (UNIT OF PEARL TREE HOTELS RESORTS PVT. LTD.),"J.L. No. 109, Plot No. 129, Kuchri Rekha, Ayodhya Hill, P.O. â€“ Kuchri Rekha, P.S.- Baghmundi, Dist. -Purulia",28
+Andhra Pradesh,Guntur,5 Star,With Alcohol,ITC Limited,Welcomhotel Guntur 4-5-10 Vidyanagar Ring Road,104
+Andhra Pradesh,Tirupati,5 Star,With Alcohol,FORTUNE SELECT GRAND RIDGE,"FORTUNE SELECT GRAND RIDGE(UNIT OF DHS HOTELS PVT LTD), 8-84, SHILPARAMAM, TIRUCHANOOR ROAD.",144
+Andhra Pradesh,Tirupati,5 Star,With Alcohol,MARASA SAROVAR PREMIERE,"Door no:11,2B,2A,4A, MARASA SAROVAR PREMIERE, KARKAMBADI ROAD, UPADYAYA NAGAR, TIRUPATI.",121
+Andhra Pradesh,Tirupati,5 Star,With Alcohol,Taj Tirupati,"S No 2601 B Tanapalli Road, Tirupati",106
+Andhra Pradesh,Vijayawada,5 Star,With Alcohol,The Gateway Hotel,"M.G.Road, Labbipet",108
+Andhra Pradesh,Visakhapatnam,5 Star,With Alcohol,"THE PARK, VISAKHAPATNAM","BEACH ROAD, VISAKHAPATNAM",66
+Assam,Guwahati,5 Star,With Alcohol,Kiranshree Grand,"New Airport Road, Azara",122
+Delhi,Delhi,5 Star,With Alcohol,"AMBASSADOR, NEW DELHI",Sujan Singh Park Cornwallis Road Delhi,88
+Delhi,Delhi,5 Star,With Alcohol,Hotel Seven Seas (a unit of Seven Seas Hospitality Pvt. Ltd.),"Plot no 12 Manglam Place, sector-3 rohini Delhi",70
+Delhi,Delhi,5 Star,With Alcohol,Maidens Hotel,"7, Sham Nath Marg, Delhi",55
+Delhi,Delhi,5 Star,With Alcohol,Park Plaza (A Unit of Mahagun Hotels Pvt Ltd),"Plot No.32, CBD Shahdara",91
+Delhi,Delhi,5 Star,With Alcohol,The Claridges Hotel,"12, Dr APJ Abdul Kalam Road",132
+Delhi,New Delhi,5 Star,With Alcohol,Hotel Aloft,"HOTEL ALOFT, ASSET 5B, HOSPITALITY DISTRICT, DELHI AEROCITY, IGI AIRPORT, NEW DELHI",253
+DNH & DD,Daman,5 Star,With Alcohol,The Deltin,"Survey No. 81 & 81A Village Varkund, Vapi Daman Main Road Daman Daman",176
+Goa,Bardez,5 Star,With Alcohol,Neo Majestic,"Plot No. 104-1A Opposite-Azad Bhawan, Porvorim Bardez Bardez Bardez",188
+Goa,Bardez,5 Star,With Alcohol,SINQ PRIVÃ‰,"Sinq Beach Club, H.No.113-113A, Opposite Vivanta by Taj Holiday Village, Candolim, Bardez, Goa. ",38
+Goa,Candolim,5 Star,With Alcohol,Deltin Suites,"Nerul Candolim Road, Fadtewada, Nerul Candolim",86
+Goa,Candolim,5 Star,With Alcohol,The O Goa,"S.No. 1141, Fort Auguada Road, Candolim, Bardez",75
+Goa,Cavelossim,5 Star,With Alcohol,HOLIDAY INN RESORT GOA,MOBOR,203
+Goa,Dona Paula,5 Star,With Alcohol,Chances Resort And Casino,"184-189, MACHADO'S COVE, VAINGUINIM VALLEY, DONA PAULA, GOA Dona Paula",53
+Goa,Mapusa,5 Star,With Alcohol,Rio Royale,"H.NO.269-9, Ghorbhat Wada, Arpora Bardez",25
+Goa,Mapusa,5 Star,With Alcohol,"The Westin Goa, Anjuna","Pacifica Hotels (AP) Pvt Ltd. H.No: 1706-11, Dmello Wada Near Anjuna Police Station Anjuna, Bardez, Goa.",171
+Goa,Margao,5 Star,With Alcohol,Kenilworth Resort & Spa,"KHR Hospitality India Ltd. Utorda, Salcete, Goa - 403713",104
+Goa,Old Goa,5 Star,With Alcohol,THE FERN KADAMBA HOTEL AND SPA ,"Kadamba Plateau, Panjim Old Goa By-Pass Road Bainguinim-Old Goa Pin: 403402 ",48
+Goa,Panaji*,5 Star,With Alcohol,Double Tree by Hilton by Goldfinch Resorts Pvt Ltd,"Goldfinch Resorts Pvt Ltd, Sy.No 34-1- B, Near Sai Baba Temple, Panjim to Old Goa Bypass Road, Chimbel Village, Tiswadi Taluk, North Goa District, 403006",160
+Goa,Panaji*,5 Star,With Alcohol,FORTUNE MIRAMAR,OFF MIRAMAR BEACH,44
+Goa,Panaji*,5 Star,With Alcohol,THE CROWN GOA,"BAIRO ALTO DOS PILOTOS, JOSE FALCAO ROAD, ",43
+Goa,Salcete,5 Star,With Alcohol,Novotel Goa Dona Sylvia Resort,"Cavelossim, South Goa, Goa",181
+Goa,Salcette,5 Star,With Alcohol,ROYAL ORCHID BEACH RESORT AND SPA,183 2 FRANCISCO PEREIRA WADDO UTTORDA SALCETTE GOA,69
+Gujarat,Ahmedabad,5 Star,With Alcohol,"NOVOTEL, AHMEDABAD","NEAR WMEDABADIDE ENGLE CINEMA, S G ROAD, NEAR ISCON CIRCLE, AHMEDABAD- 380015",216
+Haryana,Faridabad,5 Star,With Alcohol,"Vivanta by Taj Surajkund, Unit: Godavari Shilpkala Pvt Ltd","Range Road, Surajkund",286
+Haryana,Gurgaon,5 Star,With Alcohol,ANYA HOTEL,"PLOT NO.42, SECTOR-43, GOLF COURSE ROAD, DLF PHASE-V, GURGAON, HARYANA-122002",116
+Haryana,Gurgaon,5 Star,With Alcohol,COURTYARD BY MARRIOTT GURUGRAM DOWNTOWN,"PLOT NO. 27B, SECTOR ROAD, B BLOCK, SUSHANT LOK-1, SECTOR 27",198
+Haryana,Gurgaon,5 Star,With Alcohol,CROWNE PLAZA HOTEL ( TODAY HOTELS PVT LTD),"SITE NO.2, SECTOR-29 , NH-08, GURUGRAM",234
+Haryana,Gurgaon,5 Star,With Alcohol,Heritage Village Resort Spa,"NH8, Opp Manesar Police Station,Manesar Gurgaon",154
+Haryana,Gurgaon,5 Star,With Alcohol,The Gateway Resort Damdama Lake Gurgaon,"P.O. Damdama Off Gurgaon-Sohna Road, Gurgaon, Haryana 122102",78
+Himachal Pradesh,Dharamshala,5 Star,With Alcohol,Hyatt Regency Dharamshala Resort,"Dharamkot, P.O. McLeod Ganj, Dharamshala, Himachal Pradesh, 176219, INDIA",81
+Himachal Pradesh,Shimla*,5 Star,With Alcohol,Radisson Jass Hotel ,Good wood Estate Lower Bharari Road Shimla ,67
+Karnataka,Bangalore,5 Star,With Alcohol,Clarks Exotica Resort and Spa ,"Swiss Town, Hollywood Junction, Sadahalli post, Devanahalli Road, Bengaluru-562 110",152
+Karnataka,Bangalore,5 Star,With Alcohol,Courtyard by Marriott by Trishul Buildtech and Infrastructures Private Limited,"Sy.No.55, BBMP Katha No. 165-55, Outer Ring Road, Nagawara Village, Kasaba Hobli, Bangalore North Bangalore",184
+Karnataka,Bangalore,5 Star,With Alcohol,HOTEL ROYAL ORCHID REGENTA,"No.1 GOLF AVENUE,ADJOINING KGA GOLF COURSE HAL AIRPORT ROAD",194
+Karnataka,Bangalore,5 Star,With Alcohol,Hyatt Bangalore,"No 1 slash 1, Swami Vivekananda Road, Next to MG Road, Ulsoor, Bangalore",143
+Karnataka,Bangalore,5 Star,With Alcohol,ITC Limited â€“ WelcomHotel Bengaluru,"46, Richmond Road, Near Hosmat Hospital, Bengaluru Bangalore Bangalore",115
+Karnataka,Bangalore,5 Star,With Alcohol,Le Meridien Bangalore,"28 Sankey Road, P.B.No. 174",197
+Karnataka,Bangalore,5 Star,With Alcohol,Palm Meadows Resort,"Ramagondanahalli, Airport Varthur Main road",78
+Karnataka,Bangalore,5 Star,With Alcohol,Sterlings Mac Hotel,"No. 134, Kodihalli, Hal Airport Road Bangalore Bangalore",190
+Karnataka,Bangalore,5 Star,With Alcohol,THE CHANCERY PAVILION (A UNIT OF ELIXIR ENTERPRISES AND HOTELS PRIVATE LIMITED),"135, RESIDENCY ROAD, BANGALORE - 560 025, KARNATAKA, INDIA",225
+Karnataka,Bangalore,5 Star,With Alcohol,Vivanta Bengalurul-Residency Road,The Indian Hotels Company Limited Residency Road Bangalore,98
+Karnataka,Belgaum,5 Star,With Alcohol,REGENTA RESORT BELGAVI,140 1 BELAGAVI JAMBOTI KINEYE BELAGAVI 590014 KARNATAKA,58
+Karnataka,Madikeri,5 Star,With Alcohol,The Tamara Coorg,"Kabbinakad Estate, Napoklu Nad, Yavakapadi Village, Madikeri Taluk, Kodagu District. ",56
+Kerala,Alappuzha,5 Star,With Alcohol,LAKE PALACE RESORT,"THIRUMALA WARD, CHUNGAM ",60
+Kerala,Alappuzha,5 Star,With Alcohol,RAMADA ALLEPPEY,"NEHRU TROPHY FINISHING POINT,PUNNAMADA",120
+Kerala,Alappuzha,5 Star,With Alcohol,RAMADA BY WYNDHAM ALLEPPEY,Nehru Thophy finishing point punnamada,120
+Kerala,Calicut,5 Star,With Alcohol,"The Gateway Hotel, Calicut","P.T. Usha Road, Calicut",74
+Kerala,Ernakulam,5 Star,With Alcohol,Diana Heights,"Athani-Post,Nedumbassery,Ernakulam-District",37
+Kerala,Ernakulam,5 Star,With Alcohol,Fragrant Nature Kochi(Masafi developers Pvt Ltd),"Near SBI, Calvathy Bazar Road, Fort Kochi ",41
+Kerala,Ernakulam,5 Star,With Alcohol,Hotel Airlink Castle,"A Unit of Swagath Enterprises,Nedumbassery, Athani,P.O. Ernakulam Dsit",54
+Kerala,Ernakulam,5 Star,With Alcohol,RADISSON BLU KOCHI,"37-985 C&D S.A.ROAD,ELAMKULAM,KADAVANTHRA,KOCHI-682020",150
+Kerala,Ernakulam,5 Star,With Alcohol,SAJ EARTH RESORT,SAJ EARTH RESORT NO 9 KARIYAD - MATTOR ROAD AKAPARAMBU,36
+Kerala,Ernakulam,5 Star,With Alcohol,The Gateway Hotel Marine Drive Ernakulam,"The Gateway Hotel Marine Drive, Ernakulam, Kerala Ernakulam",108
+Kerala,Kochi,5 Star,With Alcohol,CASINO HOTEL,"WILLINGDON ISLAND , KOCHI ",65
+Kerala,Kochi,5 Star,With Alcohol,Courtyard By Marriott,"VIP Road, Opp.CIAL International Airport Vappalaserry P.O. Nedumbassery, ",108
+Kerala,Kochi,5 Star,With Alcohol,"Trident, Cochin",Bristow Road Willingdon Island Kochi Kochi,85
+Kerala,Kollam,5 Star,With Alcohol,The Quilon Beach Hotel,"Beach, Pallithottam P.O, Kollam - 691006",95
+Kerala,Kottayam,5 Star,With Alcohol,Kumarakom Lake Resort,"Kumarakom Lake Resort Pvt Ltd , Kumarakom North PO , Kottayam - 686563 . Kerala",59
+Kerala,Kovalam,5 Star,With Alcohol,Taj Green Cove Resort and Spa,"GV Raja Vattapara Road, Kovalam, Trivandrum, 695 527 Kovalam",59
+Kerala,Thiruvananthapuram,5 Star,With Alcohol,Hotel Lake Palace,A Unit of Royal Blue Hotels Pvt. Ltd Thonikadavu Junction Kadinamkulam Puthukurichi P O Trivandrum â€“Pin 695303 Kerala ,24
+Kerala,Thiruvananthapuram,5 Star,With Alcohol,Hycinth Hotels,"Manorama Road, Next Malayalam Manoramam Office, Thampanoor",102
+Kerala,Thiruvananthapuram,5 Star,With Alcohol,Mascot Hotel,"A unit of KTDC ltd, Mascot Square, Vikas Bhavan PO",66
+Kerala,Thiruvananthapuram,5 Star,With Alcohol,Uday Samudra Leisure Beach Hotel and Spa,GV RAJA ROAD SAMUDRA BEACH KOVALAM THIRUVANANTHAPURAM,203
+Kerala,Wayanad,5 Star,With Alcohol,VYTHIRI VILLAGE (A UNIT OF GREESHMAM RESORTS PVT.LTD.),"NEAR NH - 212, VYTHIRI PO.,WAYANAD",88
+Madhya Pradesh,Bhopal,5 Star,With Alcohol,Deligent Hotel Corporation Pvt Ltd,"DB City, Arera Hills",160
+Madhya Pradesh,Bhopal,5 Star,With Alcohol,Hotel Radisson Bhopal,"Shiva Infrastructures Opp. Savoy Complex, E-8, Gulmohar Colony Bhopal",104
+Madhya Pradesh,Bhopal,5 Star,With Alcohol,JEHAN NUMA PALACE HOTEL PVT LTD,"157, SHAMLA HILL, BHOPAL",98
+Madhya Pradesh,Indore,5 Star,With Alcohol,Radisson Blu,"PLOT NO.12,13,14,C SCHEME NO .94 C RING ROAD, INDORE, MADHYA PRADESH PIN-452010",200
+Madhya Pradesh,Indore,5 Star,With Alcohol,Sayaji Hotels Indore,H1 SCHEME NO 54 VIJAY NAGAR Indore,213
+Madhya Pradesh,Jabalpur,5 Star,With Alcohol,VIJAN MAHAL,"Khasra No. 114 -2, 107 & Its Parts TILAHRI Mandla Road Jabalpur",108
+Madhya Pradesh,khajuraho,5 Star,With Alcohol,RAMADA KHAJURAHO ,Airport road RAMAA HOTELJURAHO,95
+Maharashtra,Lonavala,5 Star,With Alcohol,RADISSON RESORT AND SPA LONAVALA (UNIT OF MONARCH HOSPITALITY),"UNIT OF MONARCH HOSPITALITY, PLOT 29, GOLD VALLEY, SECTOR D, TUNGARLI, LONAVALA - 410401",75
+Maharashtra,Mumbai,5 Star,With Alcohol,Hotel Marine Plaza,29 marine drive Mumbai,68
+Maharashtra,Mumbai,5 Star,With Alcohol,Intercontinental Marine Drive,135 Netaji Subhash Road Churchgate Mumbai,59
+Maharashtra,Mumbai,5 Star,With Alcohol,Ramada Plaza Palm Grove,Juhu Beach Juhu Mumbai,115
+Maharashtra,Mumbai,5 Star,With Alcohol,SUN N SAND HOTEL,"39 Juhu Beach, Mumbai",120
+Maharashtra,Mumbai,5 Star,With Alcohol,The Resort,"Aksa Beach Madh Marve Road, Malad West Mumbai 400095",94
+Maharashtra,Navi Mumbai,5 Star,With Alcohol,"Ramada Navi Mumbai,Saikripa Foods Services Pvt.Ltd","156-Milienium Business Park, MIDC, Sector-2 Mahape , Navi Mumbai-400710 Navi Mumbai",99
+Maharashtra,Pune,5 Star,With Alcohol,"Blue Diamond, Pune","11, Koregaon Road",110
+Maharashtra,Pune,5 Star,With Alcohol,J W MARRIOTT,"Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar, Pune, Maharashtra 411053",418
+Maharashtra,Pune,5 Star,With Alcohol,NOVOTEL HOTEL,"SURVEY NO-30.3, 31.1 AND 2A,VADGAON SHERI, NAGAR ROAD, VIMAN NAGAR, PUNE",223
+Maharashtra,Pune,5 Star,With Alcohol,The Ritz Carlton Pune,"S.No.103, C.T.S.No. 1934 to 1943 Air Port Road, Yerwada, Pune City, Pune - 411 006 ",198
+Maharashtra,Solapur,5 Star,With Alcohol,Balaji sarovar premiere,"Aasara chowk,hotgi road Solapur 413224",129
+Odisha,Bhubaneswar*,5 Star,With Alcohol,Swosti Premium Ltd.,"P1,jaydv Vihar Bhubaneswar*",147
+Odisha,Bhubaneswar*,5 Star,With Alcohol,"Vivanta Bhubneshwar DN Square, Unit of: Lifeline Multi-Ventures Private Limited","IDCO Plot No. 1A, Bhagabanpur Industrial Estate, Patrapara Bhubaneswar*",136
+Odisha,Bhubaneswar*,5 Star,With Alcohol,WELCOMHOTEL BHUBANESWAR,"D1, Dumduma, Bhubaneswar, Khordha, Odisha - 751019",107
+Punjab,Amritsar,5 Star,With Alcohol,WelcomHotel Amritsar,"Khasra No. 220M, Raja ki Kothi, Village Rajasansi, Tehsil Ajnala, Amritsar",101
+Punjab,Zirakpur,5 Star,With Alcohol,ABC SITES PRIVATE LIMITED,"Holiday Inn Chandigarh Zirakpur, Raksha Business Centre, Ambala Chandigarh Highway, Zirakpur, Punjab-140603",131
+Punjab,Zirakpur,5 Star,With Alcohol,Park Plaza Zirakpur - Chandigarh,"Chandigarh Ambala Road, Zirakpur, Dist - Mohali",104
+Rajasthan,Jaipur,5 Star,With Alcohol,HOLIDAY INN JAIPUR CITY CENTRE,"1, SARDAR PATEL MARG, NEAR NEHRU SAHKAR BHAWAN, C-SCHEME, 22 GODAM CIRCLE",172
+Rajasthan,Jaipur,5 Star,With Alcohol,Hotel Mansingh,Sansar Chandra Road,106
+Rajasthan,Jaipur,5 Star,With Alcohol,Hotel Royal Orchid (A unit of Ksheer Sagar Developers Pvt. Ltd.),"Opp. BSNL Office, Tonk Road Durgapura, ",139
+Rajasthan,Jaipur,5 Star,With Alcohol,INDANA PALACE JAIPUR(A Unit Of Waves Hotels and Estate pvt ltd),"Near Kunda Police Check Post, Kukas, Jaipur Delhi highway, Amer, Jaipur 302028, Rajasthan.",118
+Rajasthan,Jaipur,5 Star,With Alcohol,Trident,"Amber Fort Road, Opposite Jal Mahal, Jaipur",132
+Rajasthan,Jaisalmer,5 Star,With Alcohol,Jaisalmer Marriott Resort Spa,"Sam Road, Jaisalmer, Rajasthan-345001",137
+Rajasthan,Sawai Madhopur,5 Star,With Alcohol,The Oberoi Vanyavilas,"Ranthambhore Road, Sawai Madhopur",25
+Rajasthan,Udaipur,5 Star,With Alcohol,Trident Udaipur,"Hari Das Ji Ki Magri, Udaipur, Rajasthan Udaipur",142
+Tamil Nadu,Chennai*,5 Star,With Alcohol,Grand Chennai by GRT Hotels,"120, Sir Thyagaraya Road, T. Nagar",133
+Tamil Nadu,Chennai*,5 Star,With Alcohol,Radisson Blu Hotel Chennai City Centre (a Unit of VVA Hotel P Ltd),"No.2,Ethiraj Salai, C-in-C Road, Egmore, Chennai - 600 008, India.",162
+Tamil Nadu,Chennai*,5 Star,With Alcohol,RAMADA PLAZA CHENNAI,"NO 36, SARDAR PATEL ROAD, GUINDY , CHENNAI 600032",104
+Tamil Nadu,Chennai*,5 Star,With Alcohol,"Trident, Chennai","124, GST Road Meenambakkam Chennai* Chennai*",167
+Tamil Nadu,Coimbatore,5 Star,With Alcohol,WELCOMHOTEL COIMBATORE,"T.S.No.1266-14,Ward(A)1,Block 23 in door No.27 to 30, West Club Road, Coimbatore Coimbatore",106
+Tamil Nadu,Kodaikanal,5 Star,With Alcohol,The Carlton,"Lake Road, Kodaikanal ",91
+Tamil Nadu,MAHABALLIPURAM,5 Star,With Alcohol,WELCOMHOTEL KENCES PALM BEACH (UNIT OF KENCES CONSTRUCTIONS PRIVATE LIMITED),"NO.53, Devaneri Village East Coast Road Mammallapuram",94
+Telangana,Hyderabad,5 Star,With Alcohol,Marigold By GreenPark,"A Unit of Greenpark Hotels and Resorts Ltd., 7-1-25, Greenlands, Begumpet, Hyderabad- 500016",181
+Telangana,Hyderabad,5 Star,With Alcohol,Marriott Executive Apartments,"Survey No 133, Level 9, SLN Terminus, Besides botanical gardens, Gachibowli, Hyderabad.",75
+Telangana,Hyderabad,5 Star,With Alcohol,Radisson Blu Plaza Hotel Hyderabad Banjara Hills,"8-2-409, Rd No. 6, Banjara Hills, Hyderabad 500034, India",158
+Telangana,HYDERABAD,5 Star,With Alcohol,Radisson Hitec City Hyderabad,"Gachibowli - Miyapur Rd, Chhota Anjaiah Nagar, Gachibowli, Hyderabad, Telangana 500032",209
+Telangana,Hyderabad,5 Star,With Alcohol,TAJ DECCAN,"Road No. 1, Banjara Hills, Hyderabad",153
+Telangana,Hyderabad,5 Star,With Alcohol,"VIVANTA BY TAJ - BEGUMPET, HYDERABAD","1-10-147 & 148, MAYURI MARG, BEGUMPET, HYDERABAD",181
+Tripura,Agartala,5 Star,With Alcohol,HOTEL POLO TOWERS,"VIP ROAD, KUNJABAN",73
+Uttar Pradesh,Agra,5 Star,With Alcohol,"Trident, Agra","Fatehabad Road, Agra",135
+Uttar Pradesh,Kanpur,5 Star,With Alcohol,The Landmark Hotel,"10, The Mall Kanpur",125
+Uttar Pradesh,Lucknow*,5 Star,With Alcohol,Renaissance Lucknow Hotel,"D.R. Hotels Pvt. Ltd. Vipin Khand, Gomti Nagar, Lucknow, Uttar Pradesh",112
+Uttar Pradesh,Lucknow*,5 Star,With Alcohol,The Centrum unit of Anahita Hospitality LLP,"Pocket-7, Sector-C Sushant Golf City Lucknow ",116
+Uttar Pradesh,Noida,5 Star,With Alcohol,Crowne Plaza,"Plot No. H1, Sector - Institutional Green-1, Surajpur Chowk, Kasna Road, Greater Noida, ",398
+Uttar Pradesh,Noida,5 Star,With Alcohol,Radisson ,Plot no 02 C block Sector 55 Noida UP ,88
+Uttar Pradesh,Varanasi,5 Star,With Alcohol,Radisson Hotel Varanasi,"The Mall Cantonment, Varanasi Uttar Pradesh Varanasi",116
+Uttar Pradesh,Varanasi,5 Star,With Alcohol,Radisson Hotel Varanasi,"The Mall, Cantonment",116
+Uttarakhand,Dehradun,5 Star,With Alcohol,SEYFERT SAROVAR PREMIERE,"HARIDWAR BYPASS ROAD, NEAR ISBT, DEHRADUN",68
+West Bengal,Darjiling,5 Star,With Alcohol,MAYFAIR DARJEELING,"THE MALL, OPPOSITE GOVERNOR HOUSE, DARJEELING - 734101, WEST BENGAL",53
+West Bengal,Kalimpong,5 Star,With Alcohol,MAYFAIR Himalayan Spa Resort,"Upper Cart Road, Near Kalimpong Municipality Office, Kalimpong - 734301. Ph : + 91 - 03552-260101 ",68
+West Bengal,Kolkata,5 Star,With Alcohol,ALTAIR (A UNIT OF CHOICEST ENTERPRISES LTD),"ECOCENTRE, GROUND FLOOR LOBBY, 19TH, 20TH AND 21ST FLOOR, EM-4, EM BLOCK, SECTOR-V, SALT LAKE Kolkata:-700091 ",23
+West Bengal,Kolkata,5 Star,With Alcohol,Hotel Hindusthan International ,"2351, AJC Bose Road, West Bengal ",183
+West Bengal,Kolkata,5 Star,With Alcohol,Mukti Projects Limited,"A UNIT OF MUKTI PROJECTS LTD , 17 GARCHA, 1ST LANE , Kolkata",92
+West Bengal,Kolkata,5 Star,With Alcohol,NOVOTEL KOLKATA HOTEL AND RESIDENCES,"CF 11 , ACTION AREA - 1C , NEW TOWN , RAJAR HAT ",340
+West Bengal,Kolkata,5 Star,With Alcohol,THE WESTIN KOLKATA RAJARHAT (UNIT OF SARGA HOTEL PVT. LTD.,"AAII CBD 2 NEW TOWN RAJARHAT , KOLKATA , WEST BENGAL700156",304
+West Bengal,Kolkata,5 Star,With Alcohol,ZONE BY THE PARK KOLKATA,"Plot NO.DG021, Premises No.39-1111, Action Area-I, New Town, Kolkata-700 156 Kolkata",117
+Andaman And Nicobar,Havelock Island,5 Star,With Alcohol,Taj Exotica Resorts and Spa Andamans,"Radhanagar Beach No. 7, Havelock Island Havelock Island",72
+Andhra Pradesh,Vijayawada,5 Star,With Alcohol,Novotel Vijayawada Varun,"Bharathi Nagar ,Main Road, Gunadala, Vijayawada, Andhra Pradesh, Pin-520008, INDIA",227
+Andhra Pradesh,Visakhapatnam,5 Star,With Alcohol,Novotel Visakhapatnam Varun Beach,"Sy. No: 15-3-22 & 222, Block No: 4, Nowroji Road, Maharanipeta, Ramakrishna Beach Road, Visakhapatnam Visakhapatnam",225
+Andhra Pradesh,Visakhapatnam,5 Star,With Alcohol,RADISSON BLU RESORT VISAKHAPATNAM A UNIT OF MAG LEISURES,"SY NO 106, KARTIKAVANAM, RUSHIKONDA BEACH ROAD VISAKHAPATNAM",101
+Assam,Guwahati,5 Star,With Alcohol,Radisson Blu Hotel Guwahati,"National Highway 37, Gotanagar, Guwahati Guwahati",196
+Bihar,Patna*,5 Star,With Alcohol,Hotel Lemon Tree Premier (Owned and Developed by KUMAR INFRATRADE ENTERPRISES PVT LTD),"PLOT NO.876, EXHIBITION ROAD, NEAR RAM GULAM CHOWK, PATNA Patna*",106
+Bihar,Patna*,5 Star,With Alcohol,HOTEL PATLIPUTRA CONTINENTAL LLP,"BYPASS CROSSING NEAR ALI NAGAR ROAD, ANISABAD",80
+Chandigarh,Chandigarh*,5 Star,With Alcohol,JW MARRIOTT CHANDIGARH,"PLOT NO. 6, SECTOR 35-B, CHANDIGARH",164
+Chandigarh,Chandigarh*,5 Star,With Alcohol,"The LaLiT, Chandigarh",Rajiv Gandhi IT Park,179
+Chhattisgarh,Raipur*,5 Star,With Alcohol,COURTYARD MARRIOTT RAIPUR (A Unit of R.K.Hoteliers and Developers Pvt. Ltd.),"Village Labhandi, N.H.6, Oppsite Indra Gandhi Agriculture Univercity",108
+Chhattisgarh,Raipur*,5 Star,With Alcohol,"MAYFAIR LAKE RESORT, A UNIT OF MAYFAIR HOTELS AND RESORTS LIMITED","MAYFAIR LAKE RESORT, SECTOR -24, ATAL NAGAR, ABHANPUR TEHSIL,DISTRICT-RAIPUR, P.S.RAKHI POLICE STATION, CHHATTISGARH-492002",124
+Delhi,Delhi,5 Star,With Alcohol,ANDAZ DELHI ( UNIT OF JUNIPER HOTELS PRIVATE LIMITED),"ASSET-1, AEROCITY, IGI AIRPORT, NEW DELHI- 110037",530
+Delhi,Delhi,5 Star,With Alcohol,Hotel Welcom Sheraton,"DISTRICT CENTRE , SAKET Delhi",220
+Delhi,Delhi,5 Star,With Alcohol,ITC MAURYA,"DIPLOMATIC ENCLAVE, S.P. MARG Delhi Delhi Delhi",437
+Delhi,Delhi,5 Star,With Alcohol,LE MERIDIEN NEW DELHI,"CJ INTERNATIONAL HOTELS LTD, 8, WINDSOR PLACE, JANPATH, NEW DELHI - 110001",358
+Delhi,Delhi,5 Star,With Alcohol,SHANGRI-LA'S EROS HOTEL,19 ASHOKA ROAD CONNAUGHT PLACE ,324
+Delhi,Delhi,5 Star,With Alcohol,"THE LEELA AMBIENCE CONVENTION HOTEL, DELHI","PLOT NO - 01, CBD SHAHDARA Delhi",480
+Delhi,Delhi,5 Star,With Alcohol,"THE LEELA PALACE, NEW DELHI","The Leela Palace, Diplomatic Enclave, New Delhi ",260
+Delhi,Delhi,5 Star,With Alcohol,The Oberoi New Delhi,"Dr. Zakir Hussain Marg, New Delhi-110003, India Delhi",220
+Delhi,Delhi,5 Star,With Alcohol,"The Oberoi, New Delhi",Dr. Zakir Hussain Marg Delhi Delhi,220
+Delhi,New Delhi,5 Star,With Alcohol,Eros Hotel ,"""S - 1, American Plaza International Trade Tower"" Nehru Place New Delhi New Delhi",216
+Delhi,New Delhi,5 Star,With Alcohol,Hyatt Regency Delhi,"Asian Hotels (North) Limited,Bhikaji Cama Place,MG Marg,",1024
+Delhi,New Delhi,5 Star,With Alcohol,Jaypee Vasant Continental,"Basant Lok, Vasant Vihar, New Delhi - 10 057 New Delhi",119
+Delhi,New Delhi,5 Star,With Alcohol,JW MARRIOTT HOTEL,"6th Floor, Aria Towers J.W. Marriott, New Delhi Aerocity, Asset Area 4, Hospitality District, Near IGI Airport New Delhi - 110 037 ",523
+Delhi,New Delhi,5 Star,With Alcohol,Radisson Blu Plaza Hotel ,"National Highway No 8 , Near IGI Airport T3,Mahipalpur, ",261
+Delhi,New Delhi,5 Star,With Alcohol,"Roseate House, Formally known as Dusit D-2 Unit of Bird Airport Hotels Private Limited.","Plot No. 10 , GMR Hospitality I.G Airport District New Delhi",216
+Delhi,New Delhi,5 Star,With Alcohol,Taj Palace New Delhi,"The Indian Hotels Company Limited, Sardar Patel Marg, Diplomatic Enclave",403
+Delhi,New Delhi,5 Star,With Alcohol,The Ashok Hotel,"50 B, DIPLOMATIC ENCLAVE, CHANAKYAPURI, NEW DELHI",550
+Delhi,New Delhi,5 Star,With Alcohol,THE GRAND NEW DELHI,"PLOT NO.2, NELSON MANDELA ROAD, VASANT KUNJ PHASE-II, NEW DELHI-110070",390
+Delhi,New Delhi,5 Star,With Alcohol,THE IMPERIAL,JANPATH,235
+Delhi,New Delhi,5 Star,With Alcohol,THE LODHI UNIT OF LODHI PROPERTY COMPANY LIMITED,"LODHI ROAD, NEW DELHI",68
+Delhi,New Delhi,5 Star,With Alcohol,The Metropolitan Hotel,"Bangla Sahib Road,",178
+Delhi,New Delhi,5 Star,With Alcohol,The Park New Delhi,"The Park Hotel 15 Parliament street, connaught place sales office",220
+Goa,Arpora,5 Star,With Alcohol,"Park Regis - IAPL Group Pvt Ltd., - Hospitality Division","Sanquadi Chim Bata, 157-1, Arpora Village, Bardez Taluka, North Goa.",96
+Goa,Arpora,5 Star,With Alcohol,RESORT RIO,"SURVEY NO 145-1, TAMBUDKI AROPRA BARDEZ GOA. ",82
+Goa,Bardez,5 Star,With Alcohol,"The Indian Hotels Co Ltd. Unit: Taj Holiday Village Resort and Spa, Goa","Dando, Candolim, Bardez, ",142
+Goa,Bardez,5 Star,With Alcohol,W GOA UNIT OF DIANA BUILDWELL PRIVATE LIMITED,"VAGATOR BEACH, VAGATOR, ANJUNA, BARDEZ, GOA",110
+Goa,Canacona,5 Star,With Alcohol,The Lalit Golf and Spa Resort Goa,"Bharat Hotels Limited, Rajbaga Canacona Goa",255
+Goa,Candolim,5 Star,With Alcohol,Novotel Goa Candolim,Survey No 179 - 1 Anna Waddo Candolim Bardez Goa,149
+Goa,Candolim,5 Star,With Alcohol,Novotel Goa Resort and Spa,"Survey No 200 - 8 Pinto Wadoo Bardez off main candolim road , Candolim",121
+Goa,Candolim,5 Star,With Alcohol,"The Indian Hotels Company Limited: Unit: Taj Fort Aguada Resort Spa, Goa","Sinquerim, Candolim, Bardez, Goa 403515",143
+Goa,Cansaulim,5 Star,With Alcohol,ITC Grand Goa Resort Spa,"263C Arossim Beach, Cansaulim, Goa Cansaulim Cansaulim",246
+Goa,Panaji*,5 Star,With Alcohol,GOA MARRIOTT RESORT,"POST BOX. NO. 64, MIRAMAR, PANAJI, 403001. Panaji*",190
+Goa,Panaji*,5 Star,With Alcohol,Hotel Cidade de Goa (Unit of Fomento Resorts and Hotels Ltd) ,"Vainguinim Beach , Goa ",207
+Goa,Panaji*,5 Star,With Alcohol,Taj Hotel and Convention centre Goa (Unit of Fomento Resorts and Hotels Limited),"Survey no 246-1, Vainguinim Plateau , Donapaula",299
+Goa,Panaji*,5 Star,With Alcohol,"Vivanta by Taj, Panaji, goa","Off D.B Bandodkar Road, St. Inez Junction",172
+Goa,Salcete,5 Star,With Alcohol,Caravela Beach Resort,"Varca Beach, Salcete, Goa â€“ 403 721, India ",199
+Goa,Salcete,5 Star,With Alcohol,PLANET HOLLYWOOD BEACH RESORT GOA,HNO 30-3 ASCONA WADDO UTORDA,115
+Goa,Salcete,5 Star,With Alcohol,The St. Regis Goa,"Mobor, Cavelossim Salcete",206
+Goa,Salcette,5 Star,With Alcohol,"The Zuri White Sands, Goa, Resort and Casino (Unit of Silver Springs Pleasure Resorts Private Limited)","Plot No. 178-1 and 179-1, Pedda Varca, Salcette, Goa - 403721",154
+Gujarat,Ahmedabad,5 Star,With Alcohol,Courtyard by Marriott Ahmedabad (a unit of Pacifica Hotels (Ahmedabad Project) Pvt. Ltd.,"F. P. 86-2-6, Ramdev Nagar, Cross Roads, Near Satellite Police station",164
+Gujarat,Ahmedabad,5 Star,With Alcohol,Shiva Satya Hotels Pvt. Ltd. ,"Trading as ""CROWNE PLAZA AHMEDABAD CITY CENTRE"" Shapath-V, S.G.Road",200
+Gujarat,Anand,5 Star,With Alcohol,MADHUBHAN RESORT AND SPA,"ANAND SOJITRA ROAD , VALLABH VIDYANAGAR Anand",113
+Gujarat,Gandhinagar,5 Star,With Alcohol,GARUD The Leela hotel,above railway station sector 14 gandhinagar 382016,318
+Haryana,Gurgaon,5 Star,With Alcohol,Hyatt Regency Gurgaon,New Delhi NCR NH-8 Gurgaon ,451
+Haryana,Gurgaon,5 Star,With Alcohol,"LE MERIDIENGURGAON, DELHI NCR",M G ROAD SECTOR 26 DELHI GURGAON BORDER GURGAON 122002 Gurgaon,285
+Haryana,Gurgaon,5 Star,With Alcohol,"Taj City Centre, Gurugram","Plot No. 1, Sector 44, Gurugram",208
+Haryana,Gurgaon,5 Star,With Alcohol,The Leela Ambience Gurugram (Ambience Hotels and Resorts Pvt. Ltd.) ,"Ambience Island, Village Nathupur, NH 8, Gurugram, Haryana",412
+Haryana,Gurgaon,5 Star,With Alcohol,The Oberoi Gurgaon,"443, Udyog Vihar, Phase V, Gurgaon",202
+Haryana,Gurgaon,5 Star,With Alcohol,"Trident, Gurgaon","443, Udyog Vihar, Phase V, Gurgaon 122016",136
+Himachal Pradesh,Shimla*,5 Star,With Alcohol,Wildflower Hall,"Chharabra, Shimla-171012 Shimla*",85
+Jharkhand,Ranchi*,5 Star,With Alcohol,Radisson Blu Hotel Ranchi ,"Radisson Blu Hotel Ranchi, Main Road , Kadru Diversion",115
+Karnataka,Bangalore,5 Star,With Alcohol,Bengaluru Marriott Hotel Whitefield Unit Of Chalet Hotels Limited,"No 75, EPIP Area, Whitefield Bangalore",391
+Karnataka,Bangalore,5 Star,With Alcohol,Golden Palms Hotel Spa,"Golden Palms Hotel & Spa, No 31, 32 , Golden Palms Avenue, Nagarur Village , off Tumkur Road , Nelamangala , Bangalore - 562123",150
+Karnataka,Bangalore,5 Star,With Alcohol,Hotel Hilton(A Unit of prestige Hospitality Ventures Limited),Kensington Ulsoor Bangalore,285
+Karnataka,Bangalore,5 Star,With Alcohol,ITC GARDENIA,"NO.1, RESIDENCY ROAD Bangalore",292
+Karnataka,Bangalore,5 Star,With Alcohol,ITC Windsor,"No.25 , golf course road, Bangalore, Karnataka",240
+Karnataka,Bangalore,5 Star,With Alcohol,radisson blu bengaluru outer ring road,"90-4 Marathahalli, Outer Ring Road,",218
+Karnataka,Bangalore,5 Star,With Alcohol,Sheraton Grand Bangalore,"26- 1, Dr Rajkumar Road, Brigade Gateway, Malleswaram - Rajajinagar Bangalore",230
+Karnataka,Bangalore,5 Star,With Alcohol,SHERATON GRAND BENGALURU WHITEFIELD HOTEL CONVENTION CENTER,"Prestige Shantiniketan Hoodi, Whitefield",360
+Karnataka,Bangalore,5 Star,With Alcohol,"Taj MG Road, Bengaluru","413 , Mahatma Gandhi Road Bengaluru - 560 001, Karnataka. Bangalore",165
+Karnataka,Bangalore,5 Star,With Alcohol,"Taj West End, Bangalore",Race Course Road,117
+Karnataka,Bangalore,5 Star,With Alcohol,The Den Bengaluru,"ITPL Main Road, Whitefield",226
+Karnataka,Bangalore,5 Star,With Alcohol,THE INDIAN HOTELS COMPANY LIMITED ,"2275 TUMKUR ROAD, YESHWANTPUR, ",327
+Karnataka,Bangalore,5 Star,With Alcohol,The Leela Palace Bengaluru (Schloss Bangalore Private Limited),"23 Old Airport Road The Leela Palace Kodihalli Bangaluru Karnataka, 560008",357
+Karnataka,Bangalore,5 Star,With Alcohol,The Oberoi Bangalore,39 Mahatma Gandhi Road Banglore-560001 ,160
+Karnataka,Bangalore,5 Star,With Alcohol,"The Zuri Whitefield, Bengaluru (Unit of Zuri Hospitality Private Limited)","No. 244, Hoody Village, Rajapalaya, ITPL Road, Whitefield, Bengaluru - 560048",162
+Karnataka,Bangalore,5 Star,With Alcohol,Vivanta Bengaluru Whitefield,"Whitefield Main Road, ITPB, Whitefield Bangaluru",199
+Karnataka,Bangalore,5 Star,With Alcohol,Vivanta bt Taj-Yeshwantpur,"No. 2275, (Plot No.21724) Tumkur Road, Yeshwantpur ",327
+Karnataka,Mysore,5 Star,With Alcohol,Radisson Blu Plaza Hotel Mysore,1 MG Road,153
+Kerala,Ernakulam,5 Star,With Alcohol,Crowne Plaza Kochi,"Crowne Plaza Kochi , A Unit of KGA Hotels and Resorts Pvt Ltd, XI",269
+Kerala,Ernakulam,5 Star,With Alcohol,CROWNE PLAZA KOCHI,"KUNDANOOR JUNCTION,NH-47 BYPASS,MARADU, ERNAKULAM,KERALA",269
+Kerala,Ernakulam,5 Star,With Alcohol,KOCHI MARRIOTT HOTEL,"Lulu International Shopping Mall [P]Ltd. N.H.47, Edappally P.O.",274
+Kerala,Ernakulam,5 Star,With Alcohol,Le Meridien Kochi,"Maradu, Kochi - 682 304",223
+Kerala,Ernakulam,5 Star,With Alcohol,RAMADA LAKE RESORT AND SPA,"Kumbalam South, Kochi,",58
+Kerala,Kasaragod,5 Star,With Alcohol,"Khanna Hotels Pvt . Ltd., Unit: Taj Bekal Resort Spa, Kerala","BRDC Site No: 5 Kappil Beach, PO: Udma West Kasaragod, KERALA PIN: 671 319 ",77
+Kerala,Kasaragod,5 Star,With Alcohol,"The Lalit Resort and Spa, Bekal","Site no-6 of BRDC, Bevoori Uduma Padinhar, Uduma Panchayat, Kasaragod",38
+Kerala,Kochi,5 Star,With Alcohol,HOLIDAYINN COCHIN INDROYAL HOTELS PVT LTD,"331739 A,CHAKKARAPARAMBU JUNCTION, NATIONAL HIGHWAY BYPASS, VENNALA KOCHI Kochi",212
+Kerala,Kollam,5 Star,With Alcohol,The Raviz Resort and Spa Ashtamudi (Kollam Royal Park Hotel and Resorts Pvt. Ltd.),"The Raviz Resort and Spa Ahtamudi, The Raviz Kollam, Kollam Royal Park Hotel & Resorts Pvt. Ltd., Mathilil P.O. Kollam.",93
+Madhya Pradesh,Bhopal,5 Star,With Alcohol,Taj Lake Front Bhpal,"Link Road No. 3, Prempura, Bhadbhada Chouraha, Bhopal",152
+Madhya Pradesh,Indore,5 Star,With Alcohol,SHREE BALAJEE LANDMARK HOTELS PVT. LTD.,H-2 SCHEME NO 54 VIJAY NAGAR INDORE,218
+Madhya Pradesh,khajuraho,5 Star,With Alcohol,HOTEL CHANDELA,"JMK HOSPITALITY, HOTEL CHANDELA, KHAJURAHO, AIRPORT ROAD, KHAJURAHO",91
+Madhya Pradesh,khajuraho,5 Star,With Alcohol,the Lalit Temple View Khajuraho,The LaLiT Temple View Khajuraho Seva Gram,47
+Maharashtra,Lonavala,5 Star,With Alcohol,Hilton Shillim Estate Retreat Spa,"Writer Lifestyle Pvt. Ltd., Pawana Nagar, Taluka Maval, Shilimb, Maharashtra 410406 Phone: 02114 712 468",100
+Maharashtra,Mahabaleshwar,5 Star,With Alcohol,Le Meridien Mahabaleshwar Resort and Spa,"CTS NO. 211,212, Medha-Satara Road,",122
+Maharashtra,Mumbai,5 Star,With Alcohol,Chalet Hotels Pvt Ltd,"Four Points by Sheraton Navi Mumbai, Plot No. 39-1 6 to 15 Sector 30 A Vashi, Navi Mumbai,",118
+Maharashtra,Mumbai,5 Star,With Alcohol,Four Seasons Hotel - Mumbai (Provenance Land Private Ltd),"Plot No. 1-136, Dr E.Moses Road, Near Jijamata Nagar, Worli, Mumbai Mumbai Mumbai",202
+Maharashtra,Mumbai,5 Star,With Alcohol,Hilton Mumbai International Airport,"Sahar Airport Road, Andheri (East)",171
+Maharashtra,Mumbai,5 Star,With Alcohol,Hotel ITC Grand Central,"287, Babasaheb Ambedkar Road Parel Mumbai",242
+Maharashtra,Mumbai,5 Star,With Alcohol,Hotel Leelaventure Ltd,"The Leela, Sahar, Andheri East, Mumbai 400 059",390
+Maharashtra,Mumbai,5 Star,With Alcohol,Hyatt Regency Mumbai,"Sahar Airport Road,Andheri (East) Mumbai 400099",401
+Maharashtra,Mumbai,5 Star,With Alcohol,ITC Maratha,"Sahar Road, Andheri (East), Mumbai 400 099",380
+Maharashtra,Mumbai,5 Star,With Alcohol,JW MARRIOTT HOTEL,"JW MARRIOTT HOTEL, JUHU TARA ROAD, JUHU",355
+Maharashtra,MUMBAI,5 Star,With Alcohol,JW Marriott Hotel Mumbai Sahar,"Building No. 2, Plot bearing No. 1483 D of village Marol, Andheri East, Mumbai - 400099",588
+Maharashtra,MUMBAI,5 Star,With Alcohol,Novotel Mumbai Juhu Beach,"Balraj Sahani Marg, Juhu Beach, Juhu",203
+Maharashtra,Mumbai,5 Star,With Alcohol,Sahara Star,"Opp Domestic Airport, Off. Western Express Highway, Vile Parle(East) Mumbai - 400099",354
+Maharashtra,Mumbai,5 Star,With Alcohol,Taj Lands End,"B.J. Road Band Stand, Bandra (West) Mumbai",493
+Maharashtra,Mumbai,5 Star,With Alcohol,The Lalit Mumbai,"The Lalit Mumbai (An enterprise of Bharat Hotels Limited) Sahar Airport Road, Andheri (East) ",368
+Maharashtra,Mumbai,5 Star,With Alcohol,"The Oberoi, Mumbai",Nariman Point Mumbai Mumbai,287
+Maharashtra,Mumbai,5 Star,With Alcohol,"The Taj Mahal Palace, Mumbai","Apollo Bunder, Mumbai",543
+Maharashtra,Mumbai,5 Star,With Alcohol,The Westin Mumbai Garden City,"Oberoi Garden City, International Business Park, Off Western Express Highway, Goregaon (East) Mumbai",269
+Maharashtra,Mumbai,5 Star,With Alcohol,"Trident, Nariman Point",Nariman Point Mumbai,555
+Maharashtra,Pune,5 Star,With Alcohol,Hotel Conrad,"S.No.468, Hissa No. A of Pune City, C.T.S. No. 2F, Situated At 7-Mangaldas Road, Pune - 411001 Pune",351
+Maharashtra,Pune,5 Star,With Alcohol,Sheraton Grand,"100-101, RBM Road, Pune",177
+Maharashtra,Raigad,5 Star,With Alcohol,Novotel Imagica,"S.No. 70-2 Hotel Novotel Imagica, Beside Imagica Park, Village Vadwal, Tal- Khalapur, Khopoli Pali Raod. Dsi-Raigad ",287
+Odisha,Bhubaneswar*,5 Star,With Alcohol,Trident,"CB - 1, Nayapalli Bhubaneswar* Bhubaneswar*",62
+Punjab,Chandigarh,5 Star,With Alcohol,Taj Chandigarh,Unit: Taj GvK Hotels & Resorts Limited Block No. 9 Sector 17 A,149
+Punjab,Ludhiana,5 Star,With Alcohol,Hyatt Regency Ludhiana,"Plot No 4, Ferozepur Road, National Highway 95, Ludhiana - 141001",168
+Punjab,Ludhiana,5 Star,With Alcohol,Radisson Blu Hotel MBD Ludhiana,"Ferozepur Road, Ludhiana -141012",81
+Punjab,Mohali,5 Star,With Alcohol,The Oberoi Sukhvilas Spa Resort,"Pallanpur, P.O. Sailba Majri, New Chandigarh, Distt. S.A.S. Nagar, Mohali",60
+Rajasthan,Jaipur,5 Star,With Alcohol,Chokhi Dhani Resort,12 Miles Near Sitapura Tonk Road Jaipur,102
+Rajasthan,Jaipur,5 Star,With Alcohol,Hilton Hotel (Unit of Fruitful Buldicon Pvt. Ltd.),"8A, Kanota Bagh, Kastiya Lane, Takhte Shahi Road,",179
+Rajasthan,Jaipur,5 Star,With Alcohol,ITC Rajputana,Palace Road Jaipur Jaipur,218
+Rajasthan,Jaipur,5 Star,With Alcohol,"Rambagh Palace Hotel, Jaipur","Bhawani Singh Road, Jaipur",78
+Rajasthan,Jaipur,5 Star,With Alcohol,The Leela Palace (A Unit of Tulsi Palace Resorts Pvt Ltd),"KUKAS,AMER,JAIPUR Jaipur",200
+Rajasthan,Jaipur,5 Star,With Alcohol,The Oberoi Rajvilas,Goner Road Jaipur,71
+Rajasthan,Udaipur,5 Star,With Alcohol,Taj Lake Palace,"Post Box No. 5, Pichola Lake",83
+Tamil Nadu,Chennai*,5 Star,With Alcohol,EMPEE HOTELS LIMITED,"124-1&2 JAWAHARLAL NEHRU SALAI, EKKADUTHANGAL, CHENNAI - 600032",204
+Tamil Nadu,Chennai*,5 Star,With Alcohol,Hyatt Regency Chennai,"365, Anna Salai, Teynampet",327
+Tamil Nadu,Chennai*,5 Star,With Alcohol,ITC GRAND CHOLA,"NO. 63, MOUNT ROAD, GUINDY, CHENNAI",600
+Tamil Nadu,Chennai*,5 Star,With Alcohol,PARK HYATT - UNIT OF AMBATTUR HOTELS PVT LTD,39 VELACHERY ROAD GUINDY CHENNAI 32,198
+Tamil Nadu,Chennai*,5 Star,With Alcohol,The Westin Chennai Velachery,"No. 154, Velachery Main Road Velachery Chennai*",214
+Tamil Nadu,Chennai*,5 Star,With Alcohol,Turyaa Chennai,"1447, Rajiv Gandhi Salai, (OMR) Old Mahabalipuram Raod, Kottivakkam, Chennai 600041 Chennai*",140
+Tamil Nadu,Coimbatore,5 Star,With Alcohol,The Residency Towers ,"No. 1075-1076, Avinashi Road, Coimbatore-641 018.",135
+Telangana,Hyderabad,5 Star,With Alcohol,APEEJAY SURRENDRA PARK HOTELS LTD,"The Park Hotel, 22 Rajbhavan Road Somajiguda,",263
+Telangana,Hyderabad,5 Star,With Alcohol,Hotel Taj Krishna,"Road No.1, Banjara Hills, Hyderabad",261
+Telangana,Hyderabad,5 Star,With Alcohol,ITC Limited- ITC Kohenur,"Plot no. 5, Hyderabad Knowledge City, Raidurg, Near Madhapur, Oppo, Inorbit Mall, Hyderabad Hyderabad",271
+Telangana,Hyderabad,5 Star,With Alcohol,Park Hyatt Hyderabad,"Plot No 2&3, Sy No 403, H.No 8-2-12064201 to 4 & 8-2-1206431 to 3. Road No 2, Banjarahills, Hyderabad",102
+Telangana,Hyderabad,5 Star,With Alcohol,THE WESTIN HYDERABAD MINDSPACE UNIT OF CHALET HOTELS PRIVATE LIMITED,"Building No 15, Survey No 64 PART, APIIC Software Layout, K Raheja IT Park, Mindspace, Madhapur ",427
+Telangana,Hyderabad,5 Star,With Alcohol,TRIDENT HYDERABAD,"SURVEY NO.64, BESIDES SHILPAKALAVEDIKA, SHILPARAMAM, MADHAPUR, HYDERABAD-500081",323
+Uttar Pradesh,Agra,5 Star,With Alcohol,HOTEL CLARKS SHIRAZ,"54, TAJ ROAD, NEAR UP TOURISM OFFICE,AGRA ",237
+Uttar Pradesh,Agra,5 Star,With Alcohol,ITC Mughal,"Tajganj, fatehabad Road Agra Agra",233
+Uttar Pradesh,Agra,5 Star,With Alcohol,The Oberoi Amarvilas,Taj East Gate Road Agra Agra Agra,102
+Uttar Pradesh,Lucknow*,5 Star,With Alcohol,"Taj Mahal, Lucknow","Vipin Khand, Gomti Nagar",110
+Uttar Pradesh,Noida,5 Star,With Alcohol,JAYPEE GREENS GOLF & SPA RESORTS,"G BLOCK, SURAJPUR KASNA ROAD, GREATER NOIDA",170
+Uttar Pradesh,Varanasi,5 Star,With Alcohol,"Taj Ganges, Varanasi (A Unit of Benares Hotels Limited)",Nadesar Palace Grounds,130
+Uttarakhand,Dehradun,5 Star,With Alcohol,The Savoy,"Library Bazar, Gandhi Chowk, Mussoorie",50
+Uttarakhand,Mussoorie,5 Star,With Alcohol,Jaypee Residency Manor,"Barlowganj, Mussoorie, District - Dehradun, Uttrakhand Pin code - 248 122, India ",135
+Uttarakhand,Rishikesh,5 Star,With Alcohol,Taj Rishikesh Resort and Spa Uttarakhand ( a unit of Darrameks Hotels and Developers Pvt. Ltd. ),"Village Singthali, Tehsil Narendra Nagar, District Tehri Garhwal",79
+West Bengal,Kolkata,5 Star,With Alcohol,ITC LIMITED,"JBS HALDANE AVENUE, KOLKATA - 700 046",237
+West Bengal,Kolkata,5 Star,With Alcohol,ITC Royal Bengal,"1, JBS Haldane Avenue, Opposite Science City, Kolkata- 700046",316
+West Bengal,Kolkata,5 Star,With Alcohol,THE LALIT GREAT EASTERN HOTEL KOLKATA (APOLLO ZIPPER INDIA LTD),"18, HEMANTA BASU SARANI KOLKATA 700069",195
+West Bengal,Kolkata,5 Star,With Alcohol,The Oberoi Grand,15 Jawaharlal nehru road ,209
+West Bengal,Kolkata,5 Star,With Alcohol,The Park Kolkata,17 Park Street,149
+Andaman And Nicobar,Havelock Island,5 Star,Without Alcohol,Taj Exotica Resort and Spa Andamans,"Andamans Radhanagar Beach No. 7, Havelock Island",50
+Gujarat,Ahmedabad,5 Star,Without Alcohol,COURTYARD BY MARRIOTT AHMEDABAD SINDHU BHAVAN ROAD,"SURVEY NO 64/1, OPP. SINDHU BHABAN ROAD,OFF. S.G. HIGHWAY ROAD, BODAKDEV,AHMEDABAD,GUJARAT,380054",121
+Gujarat,Ahmedabad,5 Star,Without Alcohol,FORTUNE LANDMARK AHMEDABAD,FORTUNE LANDMARK UNIT OF WEST INN LIMITED USMANPURA CROSS ROADS ASHRAM ROAD AHMEDABAD,95
+Gujarat,Ahmedabad,5 Star,Without Alcohol,Fortune Select S.G. Highway Ahmedabad (A unit of West India Hospitality Limited),115-116 Plot No. 71 Nr. Sola Over Bridge Utopia School S G Highway Thaltej Ahmedabad 380054,96
+Gujarat,Ahmedabad,5 Star,Without Alcohol,HIRISE HOSPITALITY PRIVATE LIMITED,"1109, SAFAL PRELUDE, CORPORATE ROAD, PRAHLADNAGAR, AHMEDABAD-380015",173
+Gujarat,Ahmedabad,5 Star,Without Alcohol,HOTEL TAJ SKYLINE (A UNIT OF SANKALP IN),"FINAL PLOT NO 67-82 R.S.NO 722-799,SANKALP IN HOTEL SINDHU BHAWAN ROAD,BODAKDEV-380059 Ahmedabad",170
+Gujarat,Ahmedabad,5 Star,Without Alcohol,Hyatt Ahmedabad,"(A unit of The Ruchi Hospitality Pvt. Ltd.) Plot No. 216, Town Plan Scheme-1 Near Vastrapur Lake, Vastrapur Ahmedabad Ahmedabad",178
+Gujarat,Ahmedabad,5 Star,Without Alcohol,Hyatt Regency Ahmedabad,"Plot No.17A, Ashram Road, Usmanpura Ahmedabad",210
+Gujarat,Ahmedabad,5 Star,Without Alcohol,Pride Hotel ,"Judges Bungalow Road , S.G Road, Bodakdev, Ahmedabad-380054 Ahmedabad",164
+Gujarat,Ahmedabad,5 Star,Without Alcohol,Radisson Blu Ahmedabad,"Radisson BluNear Panchvati Cross Roads, Off C.G. Road, Ambawadi,",115
+Gujarat,Ahmedabad,5 Star,Without Alcohol,STAROTTEL,"15 ASHRAM ROAD, OLD WADAJ, AHMEDABAD - 380013",129
+Gujarat,Ahmedabad,5 Star,Without Alcohol,WEST INDIA RECREATION PROJECT PRIVATE LIMITED,"GIFT INTERNATIONAL CENTRE, Building ID No.- Block No. 38 Zone 3 Road Tapas Marg, Gujarat International Fiance Tech. (GIFT) City, Gujarat",98
+Gujarat,Dabhou,5 Star,Without Alcohol,CHAROTAR RESORT PRIVATE LIMITED,"Adjoining Dabhou Railway Station,Dabhou-Malataj Road,Dabhou-387210",64
+Gujarat,Dwarka,5 Star,Without Alcohol,The Fern Sattva Resort Dwarka,"At- Baradia, Dwarka - 361335",81
+Gujarat,Gandhinagar,5 Star,Without Alcohol,"Grand Mercure, GIFT City","GIFT City, Block No. 53, Building No. 53F, Zone 5, Road 5C, ",151
+Gujarat,Junagadh,5 Star,Without Alcohol,Leo Resort,"Near Girnar Darwaja, Taleti Road, JUNAGADH",58
+Gujarat,Junagadh,5 Star,Without Alcohol,Woods At Sasan by Thousand Island Hotels and Resorts Pvt. Ltd.,"Near Sangodra Crossing, Sasan Talala Road, Village Bhojde, Taluka Talala, Dist Gir Somnath ",38
+Gujarat,Nadiad,5 Star,Without Alcohol,BOULEVARD9 LUXURY RESORT SPA ( A UNIT OF HORIZON HOSPITALITY),"BOULEVARD9 LUXURY RESORT & SPA , PIJ CROSS NEAR NH-48 NADIAD",72
+Gujarat,Rajkot,5 Star,Without Alcohol,j p inn pvt ltd,rajkot Rajkot,77
+Gujarat,Rajkot,5 Star,Without Alcohol,Sayaji hotels Ltd(Harsh creation),"Vrindavan Society Main road, nr.Pradhyuman Green City Tower Off Infront of, Kalavad Rd, Rajkot, Gujarat 360005 ",78
+Gujarat,Rajkot,5 Star,Without Alcohol,The Imperial palace ,Dr.Yagnik Road Rajkot ,119
+Gujarat,Surat,5 Star,Without Alcohol,COURTYARD BY MARRIOTT (A Unit of A unit of Gujarat JHM Hotels Limited),"Plot X2, Sub Plot 19, GIDC Icchapore, Village Bhatpore",133
+Gujarat,Surat,5 Star,Without Alcohol,ORANGE MEGASTRUCTURES LLP,"Plot No.112, Town Planning Scheme No.7, Vesu-Magdalla Circle, Near City plus Multiplex, Dumas Road, Surat",170
+Gujarat,Surat,5 Star,Without Alcohol,Surat Marriott Hotel (a unit of Gujarat JHM Hotels Ltd).,Ambica Niketan Athwa Lines,209
+Gujarat,Surat,5 Star,Without Alcohol,THE GRAND BHAGWATI THE UNIT OF ORANGE MAGASTRUCTURE L.L.P,"86-A R.S. 32-1 PAIKI - 2. T.P. -7, FLAT NO. 112, SACHIN - MAGDALLA ROAD, O.N.G.C. CIRCLE,BEHIND CITY PLUS THEATRE, MAGDALLA, SURAT-395007",170
+Gujarat,Vadodara,5 Star,Without Alcohol,MAITRAYA HOSPITALITY LLP,"BLOCK B, SARABHAI COMPOUND, OPP. NEPTUNE TRION, ALEMBIC ROAD,NEAR GENDA CIRCLE, VADODARA- 390023 Vadodara",123
+Gujarat,Vadodara,5 Star,Without Alcohol,Sayaji Hotel ,"Near Bhimnath Bridge, Opp. Parsi Agyari, Sayajigunj",136
+Gujarat,Vadodara,5 Star,Without Alcohol,WelcomHotel Vadodara,"RC Dutt Road,Vadodara Vadodara Vadodara",133
+Gujarat,Vijaynagar,5 Star,Without Alcohol,THE FERN SATTVA RESORT POLO FOREST,"DHORIVAV, P.O. ABHAPUR, VIJAYNAGAR TALUKA",30
+Karnataka,Bangalore,5 Star,Without Alcohol,Grand Mercure Bengaluru at Gopalan Mall,"Grand Mercure Bengaluru at Gopalan Mall, Unit of Gopalan Enterprises India Pvt. Ltd. Opp. RMZ infinity, Swamy Vivekananda Road, Bengaluru- 560093",212
+Kerala,Chalakudy,5 Star,Without Alcohol,Samroha Resort,"Athirappilly, Chalakudy, Kerala, ",37
+Kerala,Chalakudy,5 Star,Without Alcohol,SAMROHA RESORT,"Kannamkuzhy,Vettilappara Post,Athirappilly,Chalakudy,Thrissur District",37
+Kerala,Ernakulam,5 Star,Without Alcohol,THE BRUNTON BOATYARD,"1 - 498 A, B, C, D FORTKOCHI ",26
+Kerala,Kochi,5 Star,Without Alcohol,"Four Points By Sheraton, Kochi Infopark","Block-9, Resurvey No. 601-8 part, 601-9 part, 601-11 part & 617-4 part. Infopark Expressway, Kusumagiri P.O, Kakkanad, Kochi-682030. ",218
+Kerala,Kochi,5 Star,Without Alcohol,MONSOON EMPRESS,"N.H.BY PASS,PALARIVATTOM.KOCHI",48
+Kerala,Kochi,5 Star,Without Alcohol,"PORT MUZIRIS, A TRIBUTE PORTFOLIO HOTEL","V.I.P Road Near Cochin International Airport ,Vappalassery P.O. Nedumbassery, ",55
+Kerala,Sultan Bathery,5 Star,Without Alcohol,Saptha Resort and Spa,"Kuppadi P.O, Poolavayal, Sulthan Bathery, Wayanad, 673592",63
+Kerala,Thekkady,5 Star,Without Alcohol,THE ELEPHANT COURT,"THEKKADY P.O.IDUKKI DISTRICT,KERALA",65
+Kerala,Thiruvananthapuram,5 Star,Without Alcohol,The Tamara Trivandrum Project,"Survey no. 1889 & parts, Kadakampally Village, Opposite World Market, Kadakampally, NH bypass, Trivananthapuram",80
+Kerala,Thiruvananthapuram,5 Star,Without Alcohol,"Vivanta, Thiruvananthapuram","TC 27823 (1), Extra Police Road, Nandavanam, Palayam, Thiruvananthapuram",108
+Kerala,Thrissur,5 Star,Without Alcohol,Blue Serene Resorts,"Karuvanthala Hotels&Resorts (P) Ltd, Theeradesam Road,Thoyakkavu -Post Karuvanthala,Thrissur-District,Kerala,Pin- 680513",28
+Kerala,Thrissur,5 Star,Without Alcohol,HYATT REGENCY ,Lulu Inernational Convention Center [P]Ltd. Puzhakkal P.O. Ayyanthole,77
+Ladakh,Leh,5 Star,Without Alcohol,The Grand Dragon Ladakh,"Old Road, Sheynam, Leh-Ladakh Leh",76
+Maharashtra,Andheri (East),5 Star,Without Alcohol,RADISSON MUMBAI ANDHERI MIDC,"X-22, MIDC CENTRAL ROAD, ANDHERI EAST MUMBAI - 400 093",111
+Maharashtra,MUMBAI,5 Star,Without Alcohol,RADISSON MUMBAI ANDHERI MIDC,"X-22, MIDC CENTRAL ROAD, ANDHERI EAST, MUMBAI - 400 093",111
+Uttarakhand,Dehradun,5 Star,Without Alcohol,Seyfert Sarovar Premiere ,"Khasra No 270, Haridwar Bypass Road, Dehradun, Uttrakhand , 248001",68
+West Bengal,Durgapur,5 Star,Without Alcohol,"FORTUNE PARK PUSHPANJALI- MEMBER ITC'S HOTEL GROUP, A Unit of Ganapati India International Pvt. Ltd.",C71 A SAHID KHUDIRAM SARANI CITY CENTRE Durgapur,89
+West Bengal,Kolkata,5 Star,Without Alcohol,Raajkutir IHCL SeleQtions,"89C MOULANA ABUL KALAM AZAD SARANI , BLOCK 1 , KOLKATA - 700 054",33
+West Bengal,Siliguri,5 Star,Without Alcohol,COURTYARD BY MARRIOTT SILIGURI,MALLAGURI HILL CART ROAD SILIGURI,130
